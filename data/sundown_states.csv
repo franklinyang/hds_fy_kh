@@ -1,0 +1,2480 @@
+8,Anna,IL
+9,Glendale,PA
+11,Mize,MS
+12,Baxterville,MS
+13,d'Iberville,MS
+14,Clinton,MS
+15,Pearl,MS
+16,Southaven,MS
+17,Burnsville,MS
+18,Belmont,MS
+19,Buchanan County,VA
+20,Colonial Heights,VA
+21,Inglewood,CA
+22,Hawthorne,CA
+23,Chester,WV
+24,Follansbee,WV
+25,Kenova,WV
+26,McMechen,WV
+27,It,MS
+29,Mound Bayou,MS
+30,Renova,MS
+31,New Bethlehem,PA
+32,Warren,PA
+33,New Africa,MS
+34,Winstonville,MS
+35,Expose,MS
+36,Corry,PA
+37,Punxsutawney,PA
+39,Millvale,PA
+40,General,MS
+42,Falls Church,VA
+43,Clintwood,VA
+44,Elkton,VA
+45,Fieldale,VA
+46,Narrows,VA
+48,Grundy,VA
+49,Weber City,VA
+50,Poquoson,VA
+51,Richlands,VA
+52,Wise,VA
+53,South St. Paul,MN
+56,Worthington,MN
+57,Pine Island,MN
+58,St. Louis Park,MN
+60,Red Wing,MN
+61,Cannon Falls,MN
+62,New Brighton,MN
+63,Coleraine,MN
+64,Marshall,MN
+65,Albert Lea,MN
+66,Appleton,MN
+67,Austin,MN
+68,Edina,MN
+69,Princeton,SC
+70,Salem,SC
+71,Folly Beach,SC
+72,Isle of Palms,SC
+74,Moncks Corner,SC
+75,Shandon,SC
+76,Ellenton,SC
+77,Hamburg,SC
+78,Maryville,SC
+79,Georgetown,SC
+80,Brooklyn,OH
+81,Cuyahoga Falls,OH
+83,Miamisburg,OH
+84,Napoleon,OH
+85,Shawnee,OH
+86,Ada,OH
+87,Clymer,PA
+88,Camp Hill,PA
+90,Avon,OH
+91,Avon Lake,OH
+92,Bellevue,OH
+93,Blanchester,OH
+94,Brookville,OH
+95,Bryan,OH
+96,Canfield,OH
+97,Carey,OH
+98,Carrollton,OH
+99,Celina,OH
+100,Chagrin Falls,OH
+101,Chardon,OH
+102,Clyde,OH
+103,Coal Grove,OH
+104,Coldwater,OH
+105,Columbiana,OH
+106,Crooksville,OH
+107,Deer Park,OH
+108,Delphos,OH
+109,Germantown,OH
+110,Gibsonburg,OH
+111,Grove City,OH
+112,Harrison,OH
+113,Hicksville,OH
+114,Hubbard,OH
+115,Huron,OH
+116,Independence,OH
+117,Jefferson,OH
+118,Johnstown,OH
+119,Lakemore,OH
+120,Loudonville,OH
+121,Louisville,OH
+122,McDonald,OH
+123,Mariemont,OH
+124,Millersburg,OH
+125,Minerva,OH
+126,Mogadore,OH
+127,Montpelier,OH
+128,Mount Gilead,OH
+129,New Boston,OH
+131,New Lexington,OH
+132,Newton Falls,OH
+133,Hershey,PA
+134,North Baltimore,OH
+135,Oak Harbor,OH
+136,Johnston,PA
+137,Hanover,PA
+138,Mount Lebanon,PA
+139,Canadensis,PA
+140,Ottawa,OH
+141,Poland,OH
+142,Rittman,OH
+143,Seven Hills,OH
+144,Shadyside,OH
+145,Shelby,OH
+147,Silver Lake,OH
+148,Strongsville,OH
+149,South Lebanon,OH
+150,Sylvania,OH
+151,Trenton,OH
+152,Upper Sandusky,OH
+153,Vermilion,OH
+154,Wapakoneta,OH
+155,Wauseon,OH
+156,West Milton,OH
+157,Wheelersburg,OH
+158,Woodsfield,OH
+161,Fairborn,OH
+162,Fairview,OH
+163,Galion,OH
+164,Kettering,OH
+165,Lakewood,OH
+166,Lyndhurst,OH
+167,North Olmsted,OH
+168,Norwood,OH
+169,Parma,OH
+170,Parma Heights,OH
+171,Reading,OH
+172,Stow,OH
+173,Tallmadge,OH
+174,University Heights,OH
+175,Alger,OH
+176,Upper Arlington,OH
+177,Westlake,OH
+178,Warrensville Heights,OH
+179,Ansonia,OH
+180,Antwerp,OH
+181,Arcanum,OH
+182,Ashville,OH
+183,South Amherst,OH
+184,Tipp City,OH
+185,Mount Sterling,OH
+186,Oakwood,OH
+187,Bethel,OH
+189,Waldwick,NJ
+190,Allendale,NJ
+192,Ridgewood,NJ
+193,Radburn,NJ
+194,Fair Lawn,NJ
+196,Haddonfield,NJ
+197,Long Valley,NJ
+198,Levittown/Willingboro,NJ
+199,Hamilton Township,NJ
+200,Cherry Hill,NJ
+201,Clark,NJ
+202,Clifton,NJ
+203,Dividing Creek,NJ
+204,Seaside Park,NJ
+205,Somerset,NJ
+206,Green Brook,NJ
+207,Hillside,NJ
+208,Tenafly,NJ
+209,Paterson,NJ
+210,Princeton,NJ
+212,Alloway,NJ
+214,Mahwah,NJ
+215,Saddle River,NJ
+216,Llewellyn Park,NJ
+217,Ocean Grove,NJ
+218,Attica,NY
+219,Cooperstown,NY
+220,Cold Spring,NY
+222,Johnson City,NY
+223,Mexico,NY
+225,Roscoe,NY
+227,Bennington,NY
+228,Whitesboro,NY
+229,West Elmira,NY
+230,Elmont,NY
+232,Belle Terre,NY
+234,Saratoga Springs,NY
+235,Rochester,NY
+236,Brighton,NY
+237,Buffalo,NY
+238,Amherst,NY
+239,Orchard Park,NY
+240,Tonawanda,NY
+241,North Tonawanda,NY
+242,New York,NY
+243,Yonkers,NY
+244,Bronxville,NY
+245,Scarsdale,NY
+246,Tuxedo Park,NY
+247,Sun City,AZ
+248,Youngtown,AZ
+249,Bisbee,AZ
+250,Duncan,AZ
+251,Globe,AZ
+252,Prescott,AZ
+253,Scottsdale,AZ
+255,Colorado Springs,CO
+256,Durango,CO
+264,Reynoldsburg,OH
+265,Niles,OH
+266,Smithtown,NY
+267,Sayville,NY
+268,Seaford,NY
+270,Oceanside,NY
+271,Valley Stream,NY
+272,Levittown,NY
+273,Garden City,NY
+274,Roosevelt,NY
+276,North Amityville,NY
+278,Sea Cliff,NY
+279,Lynchburg,OH
+280,Findlay,OH
+281,Bluffton,OH
+282,Caldwell,OH
+283,St. Marys,OH
+284,Fort Recovery,OH
+285,Middletown,OH
+286,Ottawa Hills,OH
+287,Syracuse,OH
+288,Corning,OH
+289,Waverly,OH
+290,Williamsburg,OH
+291,Strasburg,OH
+292,Marmet,WV
+293,New Martinsville,WV
+294,Nitro,WV
+295,Oak Hill,WV
+296,Marlinton,WV
+297,Cookeville,TN
+298,Crossville,TN
+299,Ducktown,TN
+300,Englewood,TN
+301,Gatlinburg,TN
+302,Erwin,TN
+303,Jamestown,TN
+304,Lafayette,TN
+305,Lenoir City,TN
+306,Monterey,TN
+307,Norris,TN
+308,Oneida,TN
+309,Tracy City,TN
+310,Waynesboro,TN
+311,East Ridge,TN
+312,Signal Mountain,TN
+313,Celina,TN
+314,Soddy-Daisy,TN
+315,Dunlap,TN
+316,Fairview,TN
+317,Greenbrier,TN
+318,Palmer,TN
+319,Copperhill,TN
+320,General,TN
+321,North Chattanooga,TN
+330,Tybee Island,GA
+332,Avondale Estates,GA
+333,Chamblee,GA
+334,Palmetto,GA
+335,Watkinsville,GA
+347,Baxter,TN
+348,Benton,KY
+349,Dayton,KY
+350,Corbin,KY
+351,Bellevue,KY
+352,Erlanger,KY
+353,Paintsville,KY
+354,Park Hills,KY
+355,Prestonsburg,KY
+356,Russell Springs,KY
+357,Albany,KY
+358,Ludlow,KY
+359,Bromley,KY
+360,Clay,KY
+361,Olive Hill,KY
+362,General,UT
+363,Corinne,UT
+364,Bingham,UT
+365,Brigham City,UT
+366,Murray,UT
+367,Carbon,UT
+368,Blanding,UT
+369,Salt Lake City,UT
+370,Bluffdale,UT
+371,Price,UT
+372,Eagle Mountain,UT
+373,Elkhorn City,KY
+374,Florence,KY
+375,Fort Mitchell,KY
+376,Highland Heights,KY
+377,Martin,KY
+378,Mount Vernon,KY
+379,North Corbin,KY
+380,Parkway Village,KY
+381,Raceland,KY
+382,Russell,KY
+383,Salyersville,KY
+384,Shively,KY
+385,Southgate,KY
+386,Van Lear,KY
+387,Whitesburg,KY
+388,Worthington,KY
+389,Alexandria,KY
+390,Audubon Park,KY
+391,Beechwood Village,KY
+392,Brodhead,KY
+393,Calvert City,KY
+394,Cold Spring,KY
+395,Centertown,KY
+396,Burnside,KY
+397,Irvine,KY
+398,Jeffersonville,KY
+399,Liberty,KY
+400,Livermore,KY
+401,Catlettsburg,KY
+402,Silver Grove,KY
+403,Williamstown,KY
+404,Edgewood,KY
+405,Loyall,KY
+406,Lynnview,KY
+407,Meadow Vale,KY
+408,Minor Lane Heights,KY
+409,Mount Washington,KY
+410,St. Regis Park,KY
+411,Stanton,KY
+412,Vanceburg,KY
+413,Windy Hills,KY
+414,London,KY
+415,Augusta,KS
+416,Arma,KS
+417,Ashland,KS
+418,Atwood,KS
+419,Belle Plaine,KS
+420,Belleville,KS
+421,Beloit,KS
+423,Blue Rapids,KS
+424,Burlingame,KS
+425,Burlington,KS
+426,Caney,KS
+427,Chapman,KS
+428,Cheney,KS
+429,Cimarron,KS
+430,Clearwater,KS
+431,Clyde,KS
+432,Colby,KS
+433,Coldwater,KS
+434,Conway Springs,KS
+435,Dighton,KS
+436,Douglass,KS
+437,Elkhart,KS
+438,Ellinwood,KS
+439,Enterprise,KS
+440,Erie,KS
+441,Eureka,KS
+442,Frontenac,KS
+443,Greensburg,KS
+444,Halstead,KS
+445,Hays,KS
+446,Howard,KS
+447,Hoxie,KS
+448,Kiowa,KS
+449,La Crosse,KS
+450,Lakin,KS
+451,Leoti,KS
+452,Lincoln Center,KS
+453,Madison,KS
+454,Mankato,KS
+455,Marion,KS
+456,Meade,KS
+457,Ness City,KS
+458,Nickerson,KS
+459,Lindsborg,KS
+460,Marysville,KS
+461,Mulvane,KS
+462,Neodesha,KS
+463,Norton,KS
+464,Oberlin,KS
+465,St. Francis,KS
+466,Scott City,KS
+467,Smith Center,KS
+468,Solomon,KS
+469,Stafford,KS
+470,Sublette,KS
+471,Tribune,KS
+472,Victoria,KS
+473,Washington,KS
+474,Harper,KS
+475,Wilson,KS
+476,Yates Center,KS
+477,Hoisington,KS
+478,Cedar Vale,KS
+479,Scammon,KS
+480,Poultney,VT
+481,Swanton,VT
+482,Bellows Falls,VT
+483,Waterbury,VT
+484,Morrisville,VT
+485,Tunbridge,VT
+486,Pulaski County,IL
+487,Kaolin,IL
+488,Goreville,IL
+489,Alto Pass,IL
+490,Elco,IL
+491,Wolf Lake,IL
+492,Belknap,IL
+493,Vienna,IL
+494,Campbell Hill,IL
+495,Dongola,IL
+496,McClure,IL
+497,Karnak,IL
+498,Jonesboro,IL
+499,Arcola,IL
+500,Arlington Heights,IL
+501,DeKalb,IL
+502,Winnebago,IL
+503,Bellwood,IL
+504,Algoma,WI
+505,Antigo,WI
+506,Berlin,WI
+507,Black River Falls,WI
+509,Burlington,WI
+511,Clintonville,WI
+512,Columbus,WI
+513,De Pere,WI
+514,Dodgeville,WI
+515,Edgerton,WI
+516,Elkhorn,WI
+517,Evansville,WI
+518,Fort Atkinson,WI
+519,Greendale,WI
+520,Hartford,WI
+521,Horicon,WI
+522,Hudson,WI
+523,Hurley,WI
+524,Jefferson,WI
+525,Kaukauna,WI
+526,Kewaunee,WI
+527,Kimberly,WI
+528,Ladysmith,WI
+529,Lake Mills,WI
+530,Lancaster,WI
+531,Little Chute,WI
+532,Mauston,WI
+533,Mayville,WI
+534,Medford,WI
+535,Menomonie,WI
+536,Merrill,WI
+537,Monroe,WI
+538,Neillsville,WI
+539,New London,WI
+540,New Richmond,WI
+541,Oconomowoc,WI
+542,Oconto,WI
+543,Park Falls,WI
+544,Platteville,WI
+545,Plymouth,WI
+547,Prairie du Chien,WI
+548,Reedsburg,WI
+549,Rhinelander,WI
+550,Rice Lake,WI
+551,Richland Center,WI
+552,Ripon,WI
+553,River Falls,WI
+554,Shawano,WI
+555,Two Rivers,WI
+556,Spooner,WI
+557,Stoughton,WI
+559,Tomah,WI
+560,Tomahawk,WI
+561,Viroqua,WI
+562,Lake Geneva,WI
+563,Waupaca,WI
+564,West Bend,WI
+565,West Milwaukee,WI
+566,Appleton,WI
+567,Whitewater,WI
+568,Ashland,WI
+569,Beaver Dam,WI
+570,Cudahy,WI
+571,Fond du Lac,WI
+572,Port Washington,WI
+573,Manitowoc,WI
+574,Marshfield,WI
+575,Menasha,WI
+576,Neenah,WI
+577,Sheboygan,WI
+578,South Milwaukee,WI
+579,Stevens Point,WI
+580,Watertown,WI
+581,Wausau,WI
+582,Wauwatosa,WI
+583,West Allis,WI
+584,Mineral Point,WI
+585,Eau Claire,WI
+586,Green Bay,WI
+587,Washburn,WI
+588,Chippewa Falls,WI
+589,Shorewood,WI
+590,Stanley,WI
+591,Marinette,WI
+592,Whitefish Bay,WI
+593,Wisconsin Rapids,WI
+594,Boscobel,WI
+595,Chilton,WI
+596,Elm Grove,WI
+597,Grafton,WI
+598,Hales Corners,WI
+599,Howard,WI
+600,Kiel,WI
+601,Middleton,WI
+602,Nekoosa,WI
+603,North Fond du Lac,WI
+604,Peshtigo,WI
+605,Rothschild,WI
+606,Schofield,WI
+607,Sun Prairie,WI
+608,Thiensville,WI
+609,Muskego,WI
+610,Altoona,WI
+612,Brodhead,WI
+613,Combined Locks,WI
+614,Delafield,WI
+615,Hartland,WI
+616,Milton,WI
+617,New Holstein,WI
+618,Oconto Falls,WI
+619,Okauchee Lake,WI
+620,Oregon,WI
+621,Pewaukee,WI
+622,Sturtevant,WI
+623,Sussex,WI
+625,Weston,WI
+626,Barron,WI
+627,McFarland,WI
+628,Mondovi,WI
+629,Mosinee,WI
+630,Mount Horeb,WI
+631,Mukwonago,WI
+632,Omro,WI
+633,Prescott,WI
+634,Sauk City,WI
+635,Seymour,WI
+636,Oshkosh,WI
+638,Charles City,IA
+639,Belle Plaine,IA
+640,Taylor County,IA
+642,Maquoketa,IA
+643,Clarion,IA
+645,Algona,IA
+646,Vinton,IA
+647,Anderson,MO
+648,Aurora,MO
+649,Buffalo,MO
+650,Albany,MO
+651,Ava,MO
+652,Bernie,MO
+653,Bethany,MO
+654,Bismarck,MO
+655,Bloomfield,MO
+656,Bolivar,MO
+657,Campbell,MO
+658,Carl Junction,MO
+659,Chaffee,MO
+660,Cassville,MO
+661,Creve Coeur,MO
+662,Dexter,MO
+663,Carterville,MO
+664,Concordia,MO
+665,Crane,MO
+666,Deepwater,MO
+667,Doniphan,MO
+668,East Prairie,MO
+669,El Dorado Springs,MO
+670,Eldon,MO
+671,Elvins,MO
+672,Granby,MO
+673,Grant City,MO
+674,Hermann,MO
+675,King City,MO
+676,Lamar,MO
+677,La Plata,MO
+678,Marionville,MO
+680,Mound City,MO
+681,Mt. Vernon,MO
+682,Monett,MO
+683,Owensville,MO
+684,North Kansas City,MO
+685,Perryville,MO
+686,Pattonsburg,MO
+687,Pierce City,MO
+688,Princeton,MO
+689,Rockport,MO
+690,St. Clair,MO
+691,St. James,MO
+694,Salem,MO
+696,Sarcoxie,MO
+697,Seneca,MO
+698,Shrewsbury,MO
+699,Stanberry,MO
+700,Sugar Creek,MO
+701,Sullivan,MO
+702,Thayer,MO
+703,Unionville,MO
+705,Waukon,IA
+708,Pella,IA
+709,Eagle Grove,IA
+710,Emmetsburg,IA
+711,Cresco,IA
+712,Willow Springs,MO
+713,Webb City,MO
+714,Oran,MO
+715,St. Genevieve,MO
+716,Adrian,MO
+717,Belle,MO
+718,Branson,MO
+719,Buckner,MO
+720,Cabool,MO
+721,Camdenton,MO
+722,Ellington,MO
+723,Claycomo,MO
+724,Cole Camp,MO
+725,Cuba,MO
+726,Desloge,MO
+727,Dixon,MO
+728,Edina,MO
+729,Gideon,MO
+730,Hamilton,MO
+731,Houston,MO
+732,Kahoka,MO
+733,Lake Lotawama,MO
+734,Leadwood,MO
+735,Linn,MO
+736,Adel,IA
+737,Akron,IA
+738,Marshfield,MO
+739,Memphis,MO
+740,Milan,MO
+741,Piedmont,MO
+742,Richland,MO
+743,St. George,MO
+744,Savannah,MO
+745,Senath,MO
+746,Seymour,MO
+747,Smithville,MO
+748,Steelville,MO
+749,Warsaw,MO
+750,Blue Springs,MO
+751,Flat River,MO
+752,Mountain Grove,MO
+753,Bella Villa,MO
+754,Mindenmines,MO
+755,Liberal,MO
+756,Maryville,MO
+757,Alton,IA
+758,Allison,IA
+759,Arnolds Park,IA
+760,Avoca,IA
+761,Bedford,IA
+762,Bellevue,IA
+763,Belmond,IA
+764,Bloomfield,IA
+765,Blue Grass,IA
+766,Bondurant,IA
+768,Brooklyn,IA
+769,Sioux Center,IA
+770,Spirit Lake,IA
+771,Bolton,MA
+773,Ashby,MA
+774,Maynard,MA
+775,General,Or
+776,General,OR
+777,Florence,OR
+778,Eugene,OR
+779,Albany,OR
+780,Coos Bay,OR
+781,Springfield,OR
+782,The Dalles,OR
+783,Jacksonville,OR
+784,La Grande,OR
+785,McMinnville,OR
+786,Salem,OR
+787,Medford,OR
+789,Vestavia Hills,AL
+790,Chickasaw,AL
+791,Arab,AL
+792,Cullman,AL
+793,Ash Flat,AR
+794,Bauxite,AR
+795,Black Rock,AR
+796,Bradford,AR
+797,Brookland,AR
+798,Cabot,AR
+799,Calico Rock,AR
+800,Cammack Village,AR
+801,Hillcrest,AR
+802,Decatur,AR
+803,Diamond City,AR
+804,Dierks,AR
+805,Dyer,AR
+806,Elkins,AR
+807,Elm Springs,AR
+808,Goshen,AR
+809,Grannis,AR
+810,Gravette,AR
+811,Grubbs,AR
+812,Imboden,AR
+813,Williford,AR
+814,Johnson,AR
+815,Kibler,AR
+816,Lavaca,AR
+817,Little Flock,AR
+818,Oakland,AR
+819,Oak Grove Heights,AR
+820,Oppelo,AR
+821,Oxford,AR
+822,Magazine,AR
+823,Pottsville,AR
+824,Quitman,AR
+826,Subiaco,AR
+827,Sulphur Springs,AR
+828,Taylor,AR
+829,Wickes,AR
+830,Clay County,AR
+831,Piggott,AR
+832,Pangburn,AR
+833,Portia,AR
+834,Paragould,AR
+835,Leachville,AR
+836,Manila,AR
+839,Greenway,AR
+840,Altus,AR
+841,London,AR
+842,Provo,AR
+843,Colchester,VT
+844,Grants Pass,OR
+845,Roseburg,OR
+846,Lake Oswego,OR
+847,Oregon City,OR
+848,Tillamook,OR
+849,Ashland,OR
+850,Dallas,OR
+851,Lebanon,OR
+852,Oakridge,OR
+853,Toledo,OR
+854,Astoria,OR
+855,Pendleton,OR
+856,Monroe,OR
+857,Lyles Station,IN
+858,Whitestown,IN
+859,Ogden Dunes,IN
+860,Chandler,IN
+861,Long Beach,IN
+862,North Manchester,IN
+863,New Whiteland,IN
+864,Oolitic,IN
+865,Greensburg,IN
+866,Evansville,IN
+867,Greenwood,IN
+868,Tipton,IN
+869,Alexandria,IN
+870,Elwood,IN
+871,Hagerstown,IN
+872,Huntington,IN
+873,Goshen,IN
+874,Linton,IN
+875,Hobart,IN
+876,New Palestine,IN
+877,Milan,IN
+878,New Harmony,IN
+879,Jasper,IN
+880,Bluffton,IN
+881,Mooresville,IN
+882,Batesville,IN
+883,Whiting,IN
+884,Crown Point,IN
+885,Brownsburg,IN
+886,Mishawaka,IN
+887,Sunman,IN
+888,Brookston,IN
+889,Utica,IN
+890,Aurora,IN
+891,Decatur,IN
+892,French Lick,IN
+893,Rockport,IN
+894,Salem,IN
+895,Vevay,IN
+896,Valparaiso,IN
+897,Chesterton,IN
+898,Martinsville,IN
+899,Wabash,IN
+901,Scottsburg,IN
+902,Brownstown,IN
+903,Gas City,IN
+904,Beech Grove,IN
+905,Merrillville,IN
+906,Hymera,IN
+907,Auburn,IN
+908,Mentone,IN
+909,East Gary,IN
+910,General,IN
+911,Newburg,IN
+912,Grand View,IN
+913,Tell City,IN
+914,Arcadia,IN
+915,North Judson,IN
+916,Cedar Lake,IN
+917,Andrews,IN
+918,Berne,IN
+919,Bicknell,IN
+920,Brookville,IN
+922,Centerville,IN
+923,Churubusco,IN
+925,Columbia City,IN
+926,Deputy,IN
+927,English,IN
+928,Geneva,IN
+929,Greenfield,IN
+930,Knox,IN
+931,Lexington,IN
+932,Monticello,IN
+933,Morgantown,IN
+934,North Liberty,IN
+935,Lagro,IN
+936,Pierceton,IN
+937,Poseyville,IN
+938,Remington,IN
+939,Roann,IN
+940,Sidney,IN
+941,Silver Lake,IN
+942,South Whitley,IN
+943,Speedway,IN
+944,Summitville,IN
+945,Swayzee,IN
+946,Sweetser,IN
+947,Wakarusa,IN
+948,West Terre Haute,IN
+949,Zionsville,IN
+950,North Webster,IN
+951,Lizton,IN
+952,Jamestown,IN
+953,Corydon,IN
+954,Frankfort,IN
+955,Brook,IN
+956,Cambridge City,IN
+957,Crawford,IN
+961,Boulder City,NV
+962,Minden-Gardnerville,NV
+963,Ely,NV
+964,Fallon,NV
+965,Goldfield,NV
+966,Unionville,NV
+967,General,NV
+968,Etowah,AR
+969,Lepanto,AR
+970,Newton County,AR
+971,Alix,AR
+972,Hardy,AR
+973,Perryville,AR
+974,Mount Ida,AR
+975,Mena,AR
+976,Lamar,AR
+977,Dover,AR
+978,Van Buren,AR
+980,Cleburne County,AR
+981,Greers Ferry,AR
+982,Fairfield Bay,AR
+985,Mountain Home,AR
+986,Cotter,AR
+988,St. Francis,AR
+989,Mulberry,AR
+990,Ozark,AR
+991,Booneville,AR
+992,Greenwood,AR
+993,Glenwood,AR
+995,Waldron,AR
+996,Siloam Springs,AR
+997,Sand Mountain,AL
+998,Dixie,AL
+999,Oneonta,AL
+1000,Nauvoo,AL
+1001,Hanceville,AL
+1002,Good Hope,AL
+1004,Hokes Bluff,AL
+1005,Rehoboth Beach,DE
+1006,Wilmington,DE
+1007,Delight,AR
+1008,Amity,AR
+1009,Leslie,AR
+1010,Scott County,AR
+1011,Rogers,AR
+1012,Springdale,AR
+1014,Stone County,AR
+1015,Gentry,AR
+1016,Fouke,AR
+1017,Harrison,AR
+1018,Eureka Springs,AR
+1019,Sheridan,AR
+1020,Lacrosse,AR
+1021,Belle Fourche,SD
+1022,Delmont,SD
+1023,Doland,SD
+1024,Spink County,SD
+1025,Canton,SD
+1026,Lead,SD
+1027,Miles City,MT
+1028,Pasadena,CA
+1029,Fresno,CA
+1030,Redlands,CA
+1031,Riverside,CA
+1032,Crescent City,CA
+1033,Visalia,CA
+1035,Selma,CA
+1036,Bakersfield,CA
+1037,Red Bluff,CA
+1038,Antioch,CA
+1039,Rocklin,CA
+1040,Truckee,CA
+1041,Santa Ana,CA
+1042,Wheatland,CA
+1043,Marysville,CA
+1044,Eureka,CA
+1045,San Jose,CA
+1046,Gold Run,CA
+1047,Arroyo Grande,CA
+1048,Sonora,CA
+1049,San Pablo,CA
+1050,Dutch Flat,CA
+1051,Lincoln,CA
+1052,Nicolaus,CA
+1053,Sawyers Bar,CA
+1054,Folsom,CA
+1055,Watsonville,CA
+1056,Nevada City,CA
+1057,Grass Valley,CA
+1058,Oildale,CA
+1059,Taft,CA
+1061,Holy City,CA
+1062,Napa,CA
+1063,Lafayette,CA
+1064,Chester,CA
+1065,Redding,CA
+1066,Sheridan,CA
+1067,Lodi,CA
+1068,Parlier,CA
+1069,Corning,CA
+1070,Chico,CA
+1071,Bayshore City,CA
+1072,Berkeley,CA
+1073,Mill Valley,CA
+1074,Redwood City,CA
+1075,San Leandro,CA
+1076,Burlingame,CA
+1077,East Palo Alto,CA
+1078,Piedmont,CA
+1079,North Palo Alto,CA
+1080,Bishop,CA
+1081,Kingsburg,CA
+1082,Indian Wells,CA
+1083,Garden Grove,CA
+1084,Hemet,CA
+1085,Norco,CA
+1086,South Gate,CA
+1087,San Fernando Valley,CA
+1088,Tarzana,CA
+1089,Whittier,CA
+1090,Arcadia,CA
+1091,Fontana,CA
+1092,Newport Beach,CA
+1093,Palos Verdes Estates,CA
+1094,Westfield,CA
+1095,Lomita,CA
+1096,Manhattan Beach,CA
+1098,Orange County,CA
+1099,Yorba Linda,CA
+1100,Cerritos,CA
+1101,Costa Mesa,CA
+1102,Orange,CA
+1103,Huntington Beach,CA
+1104,La Habra,CA
+1105,Irvine,CA
+1106,Brea,CA
+1107,Glendale,CA
+1108,Azusa,CA
+1109,Buena Park,CA
+1110,Burbank,CA
+1111,Compton,CA
+1112,San Juan Capistrano,CA
+1113,San Jacinto,CA
+1114,Arcata,CA
+1115,Stanton,CA
+1116,Culver City,CA
+1117,Palmdale,CA
+1118,Torrance,CA
+1119,Kernville,CA
+1120,Porterville,CA
+1121,Lynwood,CA
+1122,Bel Air,CA
+1123,Monterey Park,CA
+1124,Hidden Hills,CA
+1125,La Jolla,CA
+1126,San Marino,CA
+1127,South Pasadena,CA
+1129,Palm Beach,FL
+1131,Daytona Beach Shores,FL
+1132,Flagler Beach,FL
+1133,Holmes Beach,FL
+1134,Longboat Key,FL
+1135,Melbourne Beach,FL
+1137,Samsula,FL
+1138,Altha,FL
+1139,Old Homosassa,FL
+1140,Cedar Key,FL
+1141,Del Ray Beach,FL
+1142,Winterhaven,FL
+1143,Ocoee,FL
+1144,Myakka City,FL
+1145,Yankeetown,FL
+1146,Miami Beach,FL
+1148,Venice,FL
+1149,Twin Falls,ID
+1150,Clark Fork,ID
+1151,Bonners Ferry,ID
+1152,Moscow,ID
+1154,Hoodoo,ID
+1155,Ashton,ID
+1156,Wallace,ID
+1157,Simpson,LA
+1158,Pitkin,LA
+1159,Anacoco,LA
+1160,Pollock,LA
+1162,Milo,ME
+1163,Fargo,ND
+1164,Lincoln,NE
+1165,Auburn,NE
+1166,Aurora,NE
+1167,Broken Bow,NE
+1168,Central City,NE
+1169,Cozad,NE
+1170,David City,NE
+1171,Fairbury,NE
+1172,O'Neill,NE
+1173,Plainview,NE
+1174,Schuyler,NE
+1175,Sidney,NE
+1176,Valentine,NE
+1177,Wahoo,NE
+1178,West Point,NE
+1179,Fremont,NE
+1180,Tecumseh,NE
+1181,North Platte,NE
+1182,Minden,NE
+1183,Plattsmouth,NE
+1184,Portales,NM
+1185,Taos,NM
+1186,Montesano,WA
+1187,Chelan,WA
+1189,Olympia,WA
+1191,Richland,WA
+1194,Walla Walla,WA
+1195,Vancouver,WA
+1196,Bellingham,WA
+1197,Tacoma,WA
+1198,Seattle,WA
+1200,Powell,WY
+1202,Wheeler County,TX
+1203,Pasadena,TX
+1204,Big Spring,TX
+1205,Santa Fe,TX
+1206,Amherst,OH
+1208,Kirvin,TX
+1209,White Deer,TX
+1210,Vidor,TX
+1211,Cumby,TX
+1212,Whitesboro,TX
+1213,Grand Saline,TX
+1214,Iowa Park,TX
+1215,Cut and Shoot,TX
+1216,Highland Park,TX
+1217,Comanche,TX
+1218,Bowie,TX
+1219,Goldthwaite,TX
+1220,Comanche County,TX
+1221,Hamilton County,TX
+1222,Killeen,TX
+1223,Copperas Cove,TX
+1224,Montague County,TX
+1225,Archer City,TX
+1226,Robert Lee,TX
+1227,De Leon,TX
+1228,Moulton,TX
+1229,Greenwich,CT
+1230,Litchfield,CT
+1231,Sharon,CT
+1232,Orange,CT
+1234,Madison,CT
+1235,Canterbury,CT
+1236,Simsbury,CT
+1237,New Fairfield,CT
+1238,Portland,CT
+1239,Holliday,TX
+1240,Paradise,TX
+1241,Slocum,TX
+1242,Glen Rose,TX
+1243,Throckmorton,TX
+1244,Irving,TX
+1245,Sunnyvale,TX
+1246,Marion County,AR
+1248,Del Norte County,CA
+1249,Westminster,CA
+1250,Cullman County,AL
+1251,Fyffe,AL
+1253,Orange Beach,AL
+1254,Placerville,CA
+1255,Malaga Island,ME
+1256,Antelope County,NE
+1257,Burt County,NE
+1258,Butler County,NE
+1259,Cass County,NE
+1260,Cedar County,NE
+1261,Cheyenne County,NE
+1262,Humboldt County,CA
+1263,Oroville,CA
+1264,Fillmore,CA
+1265,Orinda,CA
+1266,Ross,CA
+1267,Escondido,CA
+1268,Anaheim,CA
+1269,Shamrock,TX
+1270,Dallam County,TX
+1271,Scurry County,TX
+1272,Rock Springs,WY
+1273,Saugus,MA
+1274,Swampscott,MA
+1275,Dedham,MA
+1276,Brookline,MA
+1277,Belmont,MA
+1278,Montague,MA
+1279,Athol,MA
+1280,Manchester,MA
+1281,Chicopee,MA
+1282,Mitchell County,NC
+1283,Graham County,NC
+1284,Wrightsville,NC
+1285,Southern Shores,NC
+1286,Surf City,NC
+1287,Kure Beach,NC
+1288,Faith,NC
+1289,Hot Springs,NC
+1290,Cadillac,MI
+1291,Wyandotte,MI
+1293,Birmingham,MI
+1294,St. Joseph,MI
+1295,Spring Lake,MI
+1296,Charlotte,MI
+1297,Mason,MI
+1298,East Lansing,MI
+1300,Tucson,AZ
+1301,Forsyth County,GA
+1302,Reese,MI
+1304,Holland,MI
+1305,East Grand Rapids,MI
+1306,Brighton,MI
+1308,Howell,MI
+1309,Upper Peninsula,MI
+1310,Menominee County,MI
+1311,Ironwood,MI
+1312,Petoskey,MI
+1313,Hartford,CT
+1314,Portland,MI
+1315,Ecorse,MI
+1316,St. Clair Shores,MI
+1317,Dearborn,MI
+1318,Warren,MI
+1319,Livonia,MI
+1320,Grosse Pointe,MI
+1322,Grosse Pointe Park,MI
+1323,Grosse Pointe Shores,MI
+1324,Grosse Pointe Farms,MI
+1325,Westland,MI
+1326,Royal Oak,MI
+1327,Southgate,MI
+1328,Owosso,MI
+1330,General,MI
+1332,Alpena,MI
+1333,Grosse Pointe Woods,MI
+1334,South Lyon,MI
+1335,Welch,OK
+1336,Colony,OK
+1337,Lawton,OK
+1338,Blackwell,OK
+1339,Sapulpa,OK
+1340,Hatboro,PA
+1341,Greer County,OK
+1342,Edmond,OK
+1343,Stilwell,OK
+1344,Barnsdall,OK
+1345,Henryetta,OK
+1347,Bozrah,CT
+1348,Coventry,CT
+1349,Darien,CT
+1350,Kent,CT
+1351,Lisbon,CT
+1352,Middlefield,CT
+1353,Montville,CT
+1354,Morris,CT
+1355,New Hartford,CT
+1356,Old Lyme,CT
+1357,Oxford,CT
+1358,Seymour,CT
+1359,Somers,CT
+1360,Southington,CT
+1362,Thomaston,CT
+1363,Thompson,CT
+1364,Unionville,CT
+1365,Westbrook,CT
+1366,Westport,CT
+1367,Willington,CT
+1368,Okemah,OK
+1369,Paden,OK
+1370,Caddo,OK
+1371,Marshall,OK
+1372,Norman,OK
+1373,Fox,OK
+1374,Marlow,OK
+1375,General,OK
+1376,Ottawa County,OK
+1377,Cleveland,OK
+1378,Audobon,IA
+1379,Clear Lake,IA
+1380,Fairmont,MN
+1381,Britt,IA
+1382,Newburgh Heights,OH
+1383,Eagan,MN
+1384,Harlan,IA
+1385,Jefferson,IA
+1386,Manchester,IA
+1387,Osage,IA
+1388,Tabor,IA
+1389,Winterset,IA
+1390,General,IA
+1391,Manning,IA
+1392,New Market,IA
+1393,Lenox,IA
+1394,Pleasant Hill,IA
+1395,Cedar Falls,IA
+1396,Lambs Grove,IA
+1397,Villisca,IA
+1399,Pacific Junction,IA
+1400,Golden Meadow,LA
+1401,Grand Isle,LA
+1402,Jean Lafitte,LA
+1403,Krotz Springs,LA
+1404,Braintree,MA
+1406,Longmeadow,MA
+1407,Brasstown,NC
+1408,Spruce Pine,NC
+1409,Bakersville,NC
+1410,Mayodan,NC
+1411,King,NC
+1412,Swain County,NC
+1413,Beacon Falls,CT
+1415,Cherokee County,GA
+1416,Dawson County,GA
+1418,Banks County,GA
+1419,Gilmer County,GA
+1421,Towns County,GA
+1422,Union County,GA
+1423,Murray County,GA
+1424,Pickens County,GA
+1425,Rabun County,GA
+1426,Clayton,GA
+1427,Thomas County,GA
+1430,General,ID
+1431,Fulton County,IN
+1432,Hancock County,IN
+1433,Howard County,IN
+1434,Morehouse,MO
+1435,Glen Rock,NJ
+1436,Ho-Ho-Kus,NJ
+1437,Carteret,NJ
+1438,Mount Laurel,NJ
+1439,General,MT
+1440,Carbon County,MT
+1441,Lincoln County,MT
+1442,Choteau,MT
+1443,General,ND
+1444,Barnes County,ND
+1445,Emmons County,ND
+1447,LaMoure County,ND
+1448,McLean County,ND
+1450,Rolette County,ND
+1452,Traill County,ND
+1453,Berlin,NH
+1454,Derry,NH
+1455,Farmington,NH
+1457,Franklin,NH
+1458,Haverhill,NH
+1459,Keene,NH
+1460,Lancaster,NH
+1461,Littleton,NH
+1463,Newmarket,NH
+1464,Newport,NH
+1465,Peterborough,NH
+1466,Rochester,NH
+1467,Somersworth,NH
+1468,Cumberland,RI
+1469,Woonsocket,RI
+1470,General,ME
+1471,Biddeford,ME
+1472,Brewer,ME
+1473,Fairfield,ME
+1474,Orono,ME
+1475,Presque Isle,ME
+1476,Westbrook,ME
+1477,Copiague,NY
+1478,Cove Neck,NY
+1479,Selingsgrove,PA
+1485,Sheboygan Falls,WI
+1486,Sturgeon Bay,WI
+1487,Union Grove,WI
+1488,Washington Grove,MD
+1490,Calvert County,MD
+1491,University Park,MD
+1493,Princess Anne,MD
+1494,Mayo,MD
+1495,Smith Island,MD
+1497,Woodland Beach,MD
+1498,Crofton,MD
+1499,Scientists Cliff,MD
+1500,Chevy Chase,MD
+1501,Mount Rainier,MD
+1502,Brentwood,MD
+1503,Oakland,MD
+1504,Garrett County,MD
+1505,Lonaconing,MD
+1506,Westernport,MD
+1507,Friendsville,MD
+1508,Greenbelt,MD
+1509,Bernalillo,NM
+1510,Aztec,NM
+1511,Alva,OK
+1512,Allen,OK
+1513,Apache,OK
+1514,Boise City,OK
+1515,Broken Arrow,OK
+1516,Carnegie,OK
+1517,Cherokee,OK
+1518,Collinsville,OK
+1519,Comanche,OK
+1520,Commerce,OK
+1521,Haileyville,OK
+1522,Healdton,OK
+1523,Hinton,OK
+1525,Jenks,OK
+1526,Lindsay,OK
+1527,Medford,OK
+1529,Morris,OK
+1530,Okeene,OK
+1531,Picher,OK
+1532,Blairsville,GA
+1533,Blue Ridge,GA
+1534,Dahlonega,GA
+1535, Hartford,CT
+1536,Waterford,PA
+1537,Jim Thorpe,PA
+1538,Nesquehoning,PA
+1539,Lansford,PA
+1540,Nazareth,PA
+1541,Mounds city,Il
+1542,Balcom,Il
+1543,Berryville,Il
+1544,Wolflake,Il
+1545,Union County,Il
+1546,Cobden,IL
+1547,Thebes,IL
+1548,Tamms,IL
+1549,Cairo,IL
+1550,Brookfield,Il
+1551,Carthage,IL
+1552,Stronghurst,Il
+1553,Warsaw,Il
+1554,Chicago,Il
+1555,McHenry County,IL
+1556,Kane County,IL
+1557,Cicero,IL
+1558,Berwyn,IL
+1559,Dwight,IL
+1560,Mazon,IL
+1561,Morris,IL
+1562,Peotone,IL
+1563,Manteno,IL
+1564,Beecher,IL
+1565,Bradley,IL
+1566,Herscher,IL
+1567,Crete,IL
+1568,Braidwood,IL
+1569,Crystal Lake,IL
+1570,Cary,IL
+1571,Potomac,IL
+1572,Philo,IL
+1573,Catlin,IL
+1574,Westville ,IL
+1575,Newman,IL
+1576,Ridge Farm,IL
+1577,Sidney,IL
+1578,Arthur,IL
+1579,Blue Mound,IL
+1580,Buckley,IL
+1581,Oreana,IL
+1582,DeLand,IL
+1583,El Paso,IL
+1584,Paxton,IL
+1585,St. Joseph,IL
+1586,Mt. Zion,IL
+1587,Towanda,IL
+1588,Farmer City,IL
+1589,Fisher,IL
+1590,Monticello,IL
+1591,Saybrook,IL
+1592,Maroa,IL
+1593,Niantic,IL
+1594,Le Roy,IL
+1596,Warrensburg,IL
+1597,Kenney,IL
+1598,Schaumburg,IL
+1599,Niles,IL
+1600,Elk Grove Village,IL
+1601,Glen Carbon,IL
+1602,Elsah,IL
+1603,Granite City,IL
+1604,Madison,IL
+1605,Brooklyn,IL
+1606,East Alton,IL
+1607,Calhoun,IL
+1608,Calhoun County,IL
+1609,Columbia,IL
+1610,Wood River,IL
+1611,San Jose,IL
+1612,Brown County,IL
+1614,New Boston,IL
+1615,Cuba,IL
+1616,Havana,IL
+1617,Lewistown,IL
+1618,Henry,IL
+1619,Lacon,IL
+1620,Toluca,IL
+1621,Minonk,IL
+1622,Beardstown,IL
+1623,Arenzville,IL
+1624,Highland Park,IL
+1625,Mundelein,IL
+1626,Libertyville,IL
+1627,Onarga,IL
+1628,Pembroke,IL
+1629,Earlville,IL
+1630,Bureau,IL
+1631,LaSalle Peru,IL
+1632,Sandwich,IL
+1633,Riverside,IL
+1634,Lyons,IL
+1635,Des Plaines,IL
+1636,Mahomet,IL
+1637,Bethany,IL
+1638,Lovington,IL
+1639,Windsor,IL
+1640,Effingham,IL
+1641,Neoga,IL
+1642,Shelbyville,IL
+1643,Sullivan,IL
+1644,Oakland,IL
+1645,Morrison,IL
+1646,Romeoville,IL
+1647,Naperville,IL
+1648,Wilmette,IL
+1649,Winthrop Harbor,IL
+1650,Barrington,IL
+1651,Deerfield,IL
+1652,Kenilworth,IL
+1653,Roseville,IL
+1654,Fulton,IL
+1655,Oak Lawn,IL
+1656,Oak Park,IL
+1657,Elmwood Park,IL
+1658,Magnet Cove,AR
+1659,Bordentown,NJ
+1660,Mt. Sterling,IL
+1663,Cedarburg,WI
+1664,Western Springs,IL
+1666,Colchester,IL
+1667,Chehalis,WA
+1668,Villa Grove,il
+1669,Spring Lake,NJ
+1671,St. Cloud,FL
+1673,Desha,AR
+1674,Osage City,KS
+1675,Evergreen Park,IL
+1676,Lebanon,OH
+1677,Pompeii,KY
+1678,Pendleton,IN
+1679,Westfield,IN
+1680,Westfield,Il
+1682,Elfers,FL
+1683,Wynot,NE
+1685,Haysville,KS
+1686,Denton,KS
+1687,Glendive,MT
+1688,Galena,MO
+1689,Russell,KS
+1690,Worden,IL
+1691,Mt. Ida,AR
+1692,Laramie,WY
+1693,Green River,Wy
+1694,Tolono,Il
+1695,Pickneyville,Il
+1696,Chincoteague,Va
+1697,Sellersburg,IN
+1698,Henryville,IN
+1699,Clarksville,IN
+1700,Roundup,MT
+1701,Baxter County,Ar
+1702,Bedford,IN
+1703,Moosup,Ct
+1705,sterling,Ct
+1706,Slinger,WI
+1707,Malvern,IA
+1708,White City,KS
+1709,Plainfield,Il
+1710,New Holland,PA
+1711,Holt,MO
+1712,Kearney,MO
+1713,El Norte,CA
+1714,Roachdale,IN
+1715,Nashville,Il
+1716,Kennewick,Wa
+1717,Kingman,Az
+1718,Evening Shade,Ar
+1719,Colville,wa
+1720,Conestoga,PA
+1721,Glens Falls,NY
+1722,Irwin,PA
+1723,Trent Woods,NC
+1724,Warren ,IN
+1725,Tilghman Island,MD
+1726,Auburn,IL
+1727,Thayer,IL
+1728,Virden,IL
+1729,Divernon,IL
+1730,Pawnee,IL
+1731,Girard,IL
+1732,Dupo,Il
+1734,Rosman,NC
+1735,Shelton,WA
+1736,Glastonbury,CT
+1737,Stockton,MO
+1740,Winston County,AL
+1741,Brewster,Wa
+1743,Chippewa Township,OH
+1744,Brewster,WA
+1745,Hillsboro,KS
+1746,Fenton,MI
+1747,Floral Park,NY
+1748,Crawford County,AR
+1749,Southport,FL
+1750,Salem,IL
+1751,Ridgefield,CT
+1752,Lowell,IN
+1753,Weston,IL
+1754,Santa Cruz,CA
+1755,Davy,WV
+1756,Keystone,WV
+1757,Milton,OR
+1759,Pana,IL
+1760,Vergennes,IL
+1761,McLeansboro,IL
+1762,Carterville,IL
+1763,Crainville,IL
+1764,Johnston City,IL
+1765,West Frankfort,IL
+1766,Benton,IL
+1767,Herrin,IL
+1768,Sesser,IL
+1769,Mulkeytown,IL
+1770,Zeigler,IL
+1771,Christopher,IL
+1772,Eldorado,IL
+1773,Royalton,IL
+1774,Bunker Hill,IL
+1775,Mount Olive,IL
+1776,Gillespie,IL
+1777,Hardin,IL
+1778,White Hall,IL
+1779,Buffalo,IL
+1780,Spaulding,IL
+1781,Athens,IL
+1782,Greenview,IL
+1783,Dawson,IL
+1784,Leland Grove,IL
+1785,Ashland,IL
+1786,Sherman,IL
+1787,Vandalia,IL
+1788,Irvington,IL
+1789,Hoyleton,IL
+1790,Kinmundy,IL
+1791,Ashley,IL
+1792,Sandoval,Il
+1793,Richview,IL
+1794,Greenup,IL
+1795,Montrose,IL
+1796,Hazel Dell,IL
+1797,St. Elmo,IL
+1798,Casey,IL
+1799,Marshall,IL
+1800,Martinsville,IL
+1801,Rosiclare,IL
+1802,Lamb,IL
+1803,Cave-in-Rock,IL
+1804,Ava,IL
+1805,Marissa,IL
+1806,Tamaroa,IL
+1807,Steeleville,IL
+1808,Beaucoup,IL
+1809,Okawville,IL
+1810,Red Bud,IL
+1811,Chillicothe,IL
+1812,Morton,IL
+1813,Metamora,IL
+1814,Washington,IL
+1815,Creve Coeur,IL
+1816,South Pekin,IL
+1817,Pekin,IL
+1818,Marquette Heights,IL
+1819,Witt,IL
+1820,Assumption,IL
+1821,Moweaqua,IL
+1822,Ramsey,IL
+1823,Freeburg,IL
+1824,Albers,IL
+1825,Aviston,IL
+1826,Breese,IL
+1827,Clinton County,IL
+1828,Posey,IL
+1829,Germantown,IL
+1831,Trenton,IL
+1832,New Baden,IL
+1833,Staunton,IL
+1834,Bartelso,IL
+1835,O'Fallon,IL
+1836,Carlyle,IL
+1837,St. Rose,IL
+1838,Valier,IL
+1839,Albion,IL
+1840,Mascoutah,IL
+1842,Beckemeyer,IL
+1844,Elmwood,IL
+1846,Bartonville,IL
+1847,Coal City,IL
+1848,St. Anne,IL
+1850,Tuscola,IL
+1851,Ridgway,IL
+1852,Equality,IL
+1853,Golconda,IL
+1854,Omaha,IL
+1855,Highland,IL
+1856,Maryville,IL
+1857,Patoka,IL
+1858,Iuka,IL
+1859,Bluford,IL
+1860,Oakawville,IL
+1861,Pinckneyville,IL
+1862,Fairfield,IL
+1863,Mt. Carmel,IL
+1864,Norris City,IL
+1865,Enfield,IL
+1866,Grayville,IL
+1867,Wayne City,IL
+1868,Palestine,IL
+1869,Flora,IL
+1870,Olney,IL
+1871,Robinson,IL
+1872,Oblong,IL
+1873,Bridgeport,IL
+1874,Carlinville,IL
+1875,Panama,IL
+1876,Greenfield,IL
+1877,New Minden,IL
+1878,Buckner,IL
+1879,West City,IL
+1880,Orient,IL
+1881,Teutopolis,IL
+1882,Toledo,IL
+1883,Jewett,IL
+1884,Altamont,IL
+1885,Brownstown,IL
+1886,Pocahontas,IL
+1887,Pierron,IL
+1888,St. Jacob,IL
+1889,Nokomis,IL
+1890,Crossville,IL
+1891,West Salem,IL
+1892,Chester,IL
+1893,Evansville,IL
+1894,Waterloo,IL
+1895,Danvers,IL
+1896,De Land,IL
+1897,Atwood,IL
+1898,Homer,IL
+1899,Rochester,IL
+1900,Cantrall,IL
+1901,Carmi,IL
+1902,Lawrenceville,IL
+1903,Grant Park,IL
+1904,Mount Prospect,IL
+1905,Glen Ellyn,IL
+1907,DuPage County,IL
+1908,Addison,IL
+1910,Bartlett,IL
+1911,Bensenville,IL
+1912,Bloomingdale,IL
+1913,Bolingbrook,IL
+1914,Burr Ridge,IL
+1916,Clarendon Hills,IL
+1917,Cloverdale,IL
+1918,Darien,IL
+1919,Downers Grove,IL
+1920,Elmhurst,IL
+1921,Eola,IL
+1922,Flowerfield,IL
+1923,Forest Park,IL
+1924,Fox Valley,IL
+1925,Franklin Park,IL
+1926,Glendale Heights,IL
+1927,Hinsdale,IL
+1928,Itasca,IL
+1929,Keeneyville,IL
+1930,Lemont,IL
+1931,Lisle,IL
+1933,Medinah,IL
+1934,Oak Brook,IL
+1935,Oakbrook Terrace,IL
+1936,Roselle,IL
+1937,Villa Park,IL
+1938,Warrenville,IL
+1939,Wayne,IL
+1940,West Chicago,IL
+1941,Westmont,IL
+1942,Wheaton,IL
+1943,Willowbrook,IL
+1944,Winfield,IL
+1945,Wood Dale,IL
+1946,Woodridge,IL
+1947,Orland Park,IL
+1948,Park Ridge,IL
+1949,Lombard,IL
+1950,Melrose Park,IL
+1951,Meredosia,IL
+1954,Nocona,TX
+1955,Seneca,KS
+1956,Eleanor,WV
+1957,Dyess,AR
+1959,Teste,TN
+1961,Wyanet,IL
+1962,Cedaredge,CO
+1964,Longmont,CO
+1966,minerva,ok
+1967,Aubrey,Tx
+1969,Tioga,TX
+1970,Gore,OK
+1971,walters,ok
+1972,Tioga,OK
+1973,Princeton,IL
+1974,Durant,OK
+1975,Skiatook,OK
+1976,blair,ok
+1977,Rantoul,IL
+1978,Purcell,OK
+1979,Bixby,OK
+1980,Lexington,OK
+1981,Madill,OK
+1982,Erick,OK
+1985,Marshall,AR
+1986,Mankato,MN
+1987,New Ulm,MN
+1990,West Portsmouth,OH
+1991,Fremont,MI
+1993,Biwabik,MN
+1994,Paynesville,MN
+1996,Bonanza,AR
+1997,Stafford,CT
+1998,Kalamazoo,MI
+1999,Brillion,WI
+2000,Waseca,MN
+2001,Granite Falls,MN
+2002,Manhattan,IL
+2003,Petersburg,KY
+2004,Throckmorton County,TX
+2006,West Point,AL
+2007,Coral Gables,FL
+2008,Mountain View,AR
+2009,San Juan Bautista,CA
+2010,Justice,IL
+2011,Caro,MI
+2012,Delmar,NY
+2014,Mequon,WI
+2015,Harvard,IL
+2016,Mansfield,IL
+2017,Piatt County,IL
+2018,La Moille,IL
+2019,Williamsville,IL
+2020,Cherry,IL
+2021,White Heath,IL
+2022,Marseilles,IL
+2023,Jasper County,IL
+2024,New Lenox,IL
+2025,Lexington,IL
+2026,Ivesdale,IL
+2027,Pittsfield,IL
+2028,Monroe County,IL
+2031,Chesterfield,IN
+2034,Attica,IN
+2035,Stinesville,IN
+2036,Mitchell,IN
+2037,Bloomer,WI
+2038,Morocco,IN
+2039,Peru,IN
+2040,Perry County,IN
+2041,Laurel,IN
+2042,Fruita,CO
+2043,Cannelton,IN
+2044,Greendale,IN
+2046,Fairmount,IN
+2047,Janesville,WI
+2048,Roanoke,IL
+2049,Gulfport,Fl
+2050,Perryton,Te
+2051,Perryton,TX
+2052,Solon,OH
+2054,Orange,TX
+2055,Anon,CA
+2056,Hooker,OK
+2057,Euclid,OH
+2058,Chesapeake,OH
+2059,Garrettsville,OH
+2060,Beverly,OH
+2061,Greenhills,OH
+2062,Pembina,ND
+2063,Grove,OK
+2065,West Liberty,OH
+2066,Boerne,TX
+2067,Ochiltree County,TX
+2068,Altamont,KS
+2069,Anthony,KS
+2070,Herington,KS
+2071,Neffs,OH
+2072,Derby,KS
+2073,De Soto,KS
+2074,Moundridge,KS
+2075,Towanda,KS
+2076,Ulysses,KS
+2077,Haskell County,KS
+2078,Mayfield,OH
+2079,Mayfield Heights,OH
+2080,Comanche County,KS
+2081,Cheyenne County,KS
+2082,Elk County,KS
+2083,Gove County,KS
+2084,Greeley County,KS
+2085,Kiowa County,KS
+2086,Lane County,KS
+2087,Lincoln County,KS
+2088,Morton County,KS
+2089,Ness County,KS
+2090,Wichita County,KS
+2091,Rawlins County,Ks
+2092,Sherman County,KS
+2093,Jewell county,KS
+2094,Mitchell County,KS
+2095,Republic County,KS
+2096,Decatur County,KS
+2097,McPherson County,KS
+2098,Woodson County,KS
+2099,Seward County,KS
+2100,Willowick,OH
+2101,Eastlake,OH
+2102,Canyon,TX
+2104,ONeill,NE
+2105,Broadview Heights,Oh
+2106,Bridgetown,Oh
+2107,Gering,NE
+2108,Holdredge,NE
+2109,Nebraska City,NE
+2110,Wymore,NE
+2111,Crete,NE
+2112,Galesburg,MI
+2113,Vicksburg,MI
+2114,Marshall,MI
+2115,Hudson,MI
+2116,Cheviot,OH
+2117,lexington,NE
+2118,Arthur County,NE
+2119,Banner County,NE
+2120,Chase County,NE
+2121,Cuming County,NE
+2122,Deuel County,NE
+2123,Brush,CO
+2124,Burlington,CO
+2125,Cherry Hill Village,CO
+2126,Craig,CO
+2127,Delta,CO
+2128,Evans,CO
+2129,Bad Axe,MI
+2130,Harbor Beach,MI
+2131,Brown City,MI
+2132,Marlette,MI
+2133,Dixon County,NE
+2134,Dundy County,NE
+2135,Franklin County,NE
+2136,Garden County,NE
+2137,Garfield County,NE
+2138,Gosper County,NE
+2139,Hayes County,NE
+2140,Hooker County,NE
+2141,Johnson County,NE
+2142,Dearborn Heights,MI
+2143,Fort Thomas,KY
+2144,Marshall County,KY
+2145,Redwood Falls,MN
+2146,Stillwater,MN
+2147,Caneyville,KY
+2148,Lumberton,TX
+2149,Kearney County,NE
+2150,Loup County,NE
+2151,McPherson County,NE
+2152,Nance County,NE
+2153,Colfax County,NE
+2155,Marysville,MI
+2156,Marine City,MI
+2157,Greeley County,NE
+2158,Keith County,NE
+2159,Platte County,NE
+2160,Seward County,NE
+2161,Logan County,NE
+2162,Saunders County,NE
+2163,Nuckolls County,NE
+2164,Dawson County,NE
+2165,Harlan County,NE
+2166,Nemaha County,NE
+2167,Sheridan County,NE
+2168,Merrick County,NE
+2169,Sarpy County,NE
+2170,York County,NE
+2171,Cherry County,NE
+2172,Lincoln County,NE
+2173,Madison County,NE
+2174,Red Willow County,NE
+2175,Dawes County,NE
+2176,Richardson County,NE
+2177,Otoe County,NE
+2178,Buffalo County,NE
+2179,Dodge County,NE
+2180,Gage County,NE
+2181,Fraser,MI
+2182,New Baltimore,MI
+2183,Richmond,MI
+2184,Rockford,MI
+2185,Rockwood,MI
+2186,Utica,MI
+2187,St. Clair,MI
+2188,Menominee,MI
+2189,Algonac ,MI
+2190,Adams County,NE
+2191,Scotts Bluff,NE
+2192,Hall County,NE
+2193,Box Butte,NE
+2194,Lancaster County,NE
+2195,Douglas County,NE
+2196,Hudson,OH
+2197,Sheffield Lake,OH
+2198,Rocky River,OH
+2199,Bedford,OH
+2200,Bay Village,OH
+2201,Brunswick,OH
+2202,Covedale CDP,OH
+2203,St. Bernard,OH
+2204,Canadian,TX
+2205,Grant County,NE
+2206,Perkins County,NE
+2207,Rock County,NE
+2208,Thomas County,NE
+2209,Valley County,NE
+2210,Frontier County,NE
+2211,Hitchcock County,NE
+2212,Kimball County,NE
+2213,Pierce County,NE
+2214,Blaine County,NE
+2215,Furnas County,NE
+2216,Brown County,NE
+2217,Pawnee County,NE
+2218,Phelps County,NE
+2219,Wayne County,NE
+2220,Boyd County,NE
+2221,Sherman County,NE
+2222,Howard County,NE
+2223,Boone County,NE
+2224,Sioux County,NE
+2225,Stanton County,NE
+2226,Webster County,NE
+2227,Thayer County,NE
+2228,Polk County,NE
+2229,Clay County,NE
+2230,Fillmore County,NE
+2231,Keya Paha County,NE
+2232,Holt County,NE
+2233,Knox County,NE
+2234,Morrill County,NE
+2235,Hamilton County,NE
+2236,Wheeler County,NE
+2237,Saline County,NE
+2238,Jackson,NE
+2239,Harrison ,NE
+2240,Alamo,TX
+2242,Brownsville,TX
+2243,Benavides,TX
+2245,Cotulla,TX
+2246,Donna,TX
+2247,Dalhart,TX
+2248,Dumas,TX
+2249,Edcouch,TX
+2250,Hico,TX
+2251,Hamilton,TX
+2252,Hereford,TX
+2253,Highlands,TX
+2254,Hillcrest,TX
+2255,Jacinto City,TX
+2256,Lake Jackson,TX
+2257,Lakeview,TX
+2258,Oak Knoll,TX
+2259,White Settlement,TX
+2260,Phillips,TX
+2261,Fremont,TX
+2262,Rio Grande City,TX
+2263,River Oaks,TX
+2264,San Diego,TX
+2265,San Juan,TX
+2266,Spearman,TX
+2267,Stinnett,TX
+2269,West Orange,TX
+2270,Pharr,TX
+2271,Climax,MI
+2272,Lexington,MI
+2273,Linden,MI
+2274,Mancelona,MI
+2275,Manistique,MI
+2276,Traverse City,MI
+2277,Trenton,MI
+2278,Wixom ,MI
+2279,Armstrong County,TX
+2280,Briscoe County,TX
+2281,Carson County,TX
+2282,Castro County,TX
+2283,Childress County,TX
+2284,Collingsworth County,TX
+2285,Deaf Smith,TX
+2286,Deaf Smith County,TX
+2287,Donley County,TX
+2288,Gray County,TX
+2289,Hall County,TX
+2290,Hansford County,TX
+2291,Hartley County,TX
+2292,Hemphill County,TX
+2293,Hutchinson County,TX
+2294,Lipscomb County,TX
+2295,Moore County,TX
+2296,Oldham County,TX
+2297,Parmer County,TX
+2298,Potter County,TX
+2299,Randall County,TX
+2300,Roberts County,TX
+2301,Sherman County,TX
+2302,Swisher County,TX
+2303,Pinckney,MI
+2304,Ishpeming,MI
+2305,Ontonagon,MI
+2306,Munising,MI
+2307,Marquette,MI
+2308,Bessemer,MI
+2309,Sebewaing,MI
+2310,Ferguson,MO
+2311,Winnie,TX
+2312,Port Neches,TX
+2313,Nederland,TX
+2314,Bevil Oaks,TX
+2315,Pinewood Estates,TX
+2316,Evadale,TX
+2317,Porter Heights,TX
+2320,Advance,IN
+2321,Albany,IN
+2322,Albion,IN
+2323,Argos,IN
+2324,Austin,IN
+2325,Avilla,IN
+2326,Bloomfield,IN
+2327,Boswell ,IN
+2328,Bourbon,IN
+2329,Bremen,IN
+2330,Brooklyn,IN
+2331,Burnettsville,IN
+2332,Butler City,IN
+2333,Camden,IN
+2334,Campbellsburg,IN
+2335,Carmel,IN
+2336,Cayuga,IN
+2337,Cicero,IN
+2338,Clay City,IN
+2339,Converse,IN
+2340,Covington,IN
+2341,Crothersville,IN
+2342,Dale,IN
+2343,Daleville,IN
+2344,Danville,IN
+2345,Delphi,IN
+2346,Dillsboro,IN
+2347,Dublin,IN
+2348,Dugger,IN
+2349,Dyer,IN
+2350,Eaton,IN
+2351,Ellettsville,IN
+2352,Elnora,IN
+2354,Fairview Park,IN
+2355,Farmersburg,IN
+2356,Farmland,IN
+2357,Ferdinand,IN
+2358,Flora,IN
+2359,Sheridan County,KS
+2360,Stanton County,KS
+2361,Rush County,KS
+2362,Clark County,KS
+2363,Thomas County,KS
+2364,Kearney County,KS
+2365,Gray County,KS
+2366,Stevens County,KS
+2367,Logan County,KS
+2368,Fort Branch,IN
+2369,Fortville,IN
+2370,Francesville,IN
+2371,Frankton,IN
+2372,Fremont,IN
+2375,Galena ,IN
+2376,Goodland,IN
+2377,Greentown,IN
+2378,Hartford City,IN
+2379,Haubstadt,IN
+2380,Hebron,IN
+2381,Highland,IN
+2382,Hope,IN
+2383,Huntingburg,IN
+2384,Jasonville,IN
+2385,Jonesboro,IN
+2386,Kendallville,IN
+2387,Kentland,IN
+2388,Kouts,IN
+2389,Ladoga,IN
+2390,LaGrange,IN
+2391,Lapel,IN
+2392,Leavenworth,IN
+2393,Ligonier,IN
+2394,Loogootee,IN
+2395,Lynn,IN
+2396,Barber County,KS
+2397,Cloud County,KS
+2398,Wallace County,KS
+2399,Trego County,KS
+2400,Ford County,KS
+2401,Hamilton County,KS
+2402,Rooks County,KS
+2403,Finney County,KS
+2404,Ellis County,KS
+2405,Ottawa County,KS
+2406,Edwards County,KS
+2407,Butler County,KS
+2408,Marengo,IN
+2409,Middlebury,IN
+2410,Middletown,IN
+2411,Milltown,IN
+2412,Milton,IN
+2413,Monon,IN
+2414,Monroeville,IN
+2415,Montezuma,IN
+2416,Montpelier,IN
+2417,Morristown,IN
+2418,Mulberry,IN
+2419,Munster,IN
+2420,Nappanee ,IN
+2421,New Carlisle,IN
+2422,New Chicago,IN
+2423,New Haven,IN
+2424,New Paris,IN
+2425,New Pekin,IN
+2426,Odon,IN
+2427,Orleans,IN
+2428,Osceola,IN
+2429,Osgood,IN
+2430,Ossian,IN
+2431,Owensville,IN
+2432,Oxford,IN
+2433,Parker City,IN
+2434,Petersburg,IN
+2435,Plymouth,IN
+2436,Porter,IN
+2437,Redkey,IN
+2438,Rensselaer,IN
+2439,Ridgeville,IN
+2440,Roanoke,IN
+2441,Rochester,IN
+2442,Rome City,IN
+2443,Rossville,IN
+2444,Royal Center,IN
+2445,Russiaville,IN
+2446,Schererville,IN
+2447,Seelyville,IN
+2448,Shelburn,IN
+2449,Shirley,IN
+2450,Shoals,IN
+2451,St. John,IN
+2452,Syracuse,IN
+2453,Thorntown,IN
+2454,Trail Creek,IN
+2455,Tri-Lakes,IN
+2456,Van Buren,IN
+2457,Veedersburg,IN
+2458,Versailles,IN
+2459,Walkerton,IN
+2460,Walton,IN
+2461,Waterloo,IN
+2462,West Lafayette,IN
+2463,Whiteland,IN
+2464,Williamsport,IN
+2465,Winamac,IN
+2466,Windfall City,IN
+2467,Winslow,IN
+2468,Wolcott,IN
+2469,Woodburn,IN
+2470,Worthington,IN
+2471,Yorktown,IN
+2472,Osborne County,KS
+2473,Rice County,KS
+2474,Ellsworth County,KS
+2475,Pawnee County,KS
+2476,Hodgeman County,KS
+2477,Dickinson County,KS
+2478,Phillips County,KS
+2479,Greenwood County,KS
+2480,Sumner County,KS
+2481,Chase County,KS
+2482,Pratt County,KS
+2483,Coffey County,KS
+2484,Arkoma,OK
+2485,Everman,TX
+2486,Sidell,IL
+2487,Stroud,OK
+2488,Taft,OK
+2493,Smith,IL
+2494,Smith,IL
+2498,St. Marys,WV
+2499,Belington,WV
+2500,Lincoln County,WV
+2502,Shannondale,WV
+2504,Folcroft,PA
+2505,Cohoes,NY
+2506,Green Island,NY
+2507,Pleasantville,NY
+2508,Irondequoit ,NY
+2509,Penfield,NY
+2510,Johnsburg,NY
+2511,Shenandoah,PA
+2512,Royersford,PA
+2513,Bradford,PA
+2514,Levittown,PA
+2515,Locust Gap,PA
+2516,Boyertown,PA
+2517,Manheim,PA
+2518,Susquehanna,PA
+2519,Johnstown,PA
+2520,Mechanicsburg,PA
+2521,Bellwood,PA
+2522,Stoneboro,PA
+2523,Coatsville,PA
+2524,Elizabethtown,PA
+2525,Everett,PA
+2526,Milton,WV
+2527,Maple Bluff,WI
+2528,River Hills,WI
+2529,Baraboo,WI
+2530,Chetek,WI
+2531,Roxana,IL
+2532,Plainfield,CT
+2533,East Haven,CT
+2534,Quincy,MA
+2535,Weston,CT
+2536,Burlington,CT
+2538,Allen Park,MI
+2539,Taylor,MI
+2540,La Crosse,WI
+2541,Greenfield,WI
+2542,Sparta,WI
+2543,Brookfield,WI
+2544,Brown Deer,WI
+2545,New Berlin,WI
+2546,St. Francis,WI
+2547,Glendale,WI
+2548,Grand Rapids,WI
+2549,Monona,WI
+2550,Menomonee Falls,WI
+2551,Onalaska,WI
+2552,Portage,WI
+2554,Bayside,WI
+2555,Abbotsford,WI
+2556,Adams,WI
+2557,Alma,WI
+2558,Amery,WI
+2559,Arcadia,WI
+2560,Augusta,WI
+2561,Baldwin,WI
+2562,Barton,WI
+2563,Butler,WI
+2564,Campbellsport,WI
+2565,Cassville,WI
+2566,Cedar Grove,WI
+2568,Colby,WI
+2569,Cornell,WI
+2570,Clinton,WI
+2571,Cottage Grove ,WI
+2572,Cottage Grove (town),WI
+2573,Crandon,WI
+2574,Cross Plains ,WI
+2575,Cuba City,WI
+2576,Cumberland,WI
+2577,Darlington,WI
+2578,De Forest,WI
+2580,Delavan Lake,WI
+2581,Denmark,WI
+2582,Durand,WI
+2583,Eagle River,WI
+2584,East Troy,WI
+2585,Ellsworth,WI
+2586,Elroy,WI
+2587,Fennimore,WI
+2588,Fontana on Geneva Lake,WI
+2589,Galesville,WI
+2590,Genoa City,WI
+2591,Gillett,WI
+2592,Greenwood,WI
+2593,Hayward,WI
+2594,Hillsboro,WI
+2595,Hortonville,WI
+2596,Juneau,WI
+2597,Kewaskum,WI
+2598,Kohler,WI
+2599,Lannon,WI
+2600,Lodi,WI
+2601,Loyal,WI
+2602,Manawa,WI
+2603,Marathon,WI
+2604,Marion,WI
+2605,Markesan,WI
+2606,Mazomanie,WI
+2607,Mellen,WI
+2608,Montello,WI
+2609,Montreal,WI
+2610,New Glarus,WI
+2611,New Lisbon,WI
+2612,Niagara,WI
+2613,North Hudson,WI
+2614,Oostburg,WI
+2615,Osseo,WI
+2616,Owen,WI
+2617,Palmyra (village),WI
+2618,Palmyra (town),WI
+2619,Pardeeville,WI
+2620,Phillips,WI
+2621,Port Edwards,WI
+2622,Poynette,WI
+2623,Prairie du Sac,WI
+2624,Princeton ,WI
+2625,Pulaski,WI
+2626,Randolph,WI
+2627,St. Croix Falls,WI
+2628,Saukville,WI
+2629,Sharon,WI
+2630,Shell Lake,WI
+2631,Shullsburg,WI
+2632,Silver Lake,WI
+2633,Spring Green,WI
+2634,Stratford,WI
+2635,Thorp,WI
+2636,Twin Lakes,WI
+2637,Verona,WI
+2638,Walworth,WI
+2639,Waterford,WI
+2640,Waterloo,WI
+2641,Waunakee,WI
+2642,Wautoma,WI
+2643,Westby,WI
+2644,West Salem,WI
+2645,Weyauwega,WI
+2646,Whitehall,WI
+2647,Whiting,WI
+2648,Williams Bay,WI
+2649,Wind Lake,WI
+2650,Winneconne,WI
+2651,Wisconsin Dells,WI
+2652,Utica,OH
+2653,Portage,MI
+2654,Hartford,MI
+2655,White Pigeon,MI
+2656,Big Star Lake,MI
+2657,Sterling Heights,MI
+2658,Lathrup Village,MI
+2659,Troy,MI
+2660,Coopersville,MI
+2662,new,AL
+2663,Adams,PA
+2664,Albany,PA
+2665,Allegheny ,PA
+2666,Alsace ,PA
+2667,Amity,PA
+2668,Archbald ,PA
+2669,Ashland,PA
+2670,Arthurdale,WV
+2677,Flushing,MI
+2678,Chazy,NY
+2679,Defiance,OH
+2680,Marion,OH
+2681,Beavercreek,OH
+2682,Cridersville,OH
+2683,Enon,OH
+2684,Lodi,OH
+2685,Willoughby,OH
+2687,Linglestown,PA
+2688,York County,PA
+2689,Hazleton,PA
+2691,Voorheesville,NY
+2692,Glen Head,NY
+2693,Pelham Manor,NY
+2694,Nunda,NY
+2695,Westchester County,NY
+2696,Miller Place,NY
+2697,Yaphank,NY
+2698,Hamburg,NY
+2699,Marblehead,MA
+2700,Groton,MA
+2701,Alba,TX
+2702,Tecumseh,OK
+2703,Moore,OK
+2704,Noble,OK
+2705,AAA,AL
+2706,Garwood,NJ
+2707,Baker,NJ
