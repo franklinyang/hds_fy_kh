@@ -130,3 +130,5 @@ dmypy.json
 
 # vim
 *.sw*
+
+*.DS_Store
