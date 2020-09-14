@@ -132,3 +132,4 @@ dmypy.json
 *.sw*
 
 *.DS_Store
+*.geo.json
