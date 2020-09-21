@@ -12,15 +12,25 @@ def get_city_state(soup):
     parent_table = soup.find("table")
     tbodys = parent_table.find_all("tbody")
 
+    sundown_town_status_arr = str(tbodys[8]).split("Confirmed Sundown Town?")
+    sundown_status = (
+        sundown_town_status_arr[1]
+        .split("</td>")[2]
+        .split('<font size="-1">')[1]
+        .split("</font>")[0]
+    )
+
     city_tbody = tbodys[3]
     city_tbody_str = str(city_tbody.contents[1]).split("i>")
     city = city_tbody_str[1][:-2]
     state = city_tbody_str[2][4:6]
-    return [city, state]
+    return [city, state, sundown_status]
 
 
 def get_page_content(page_ids, output_writer=None):
     for i in page_ids:
+        if i % 500 == 0:
+            print("Now parsing page at index " + str(i))
         web_url = request.urlopen(base_url.format(i))
         html_doc = web_url.read()
         soup = BeautifulSoup(html_doc, "html.parser")

@@ -1,2481 +1,2480 @@
-id,city,state
-8,Anna,IL
-9,Glendale,PA
-11,Mize,MS
-12,Baxterville,MS
-13,d'Iberville,MS
-14,Clinton,MS
-15,Pearl,MS
-16,Southaven,MS
-17,Burnsville,MS
-18,Belmont,MS
-19,Buchanan County,VA
-20,Colonial Heights,VA
-21,Inglewood,CA
-22,Hawthorne,CA
-23,Chester,WV
-24,Follansbee,WV
-25,Kenova,WV
-26,McMechen,WV
-27,It,MS
-29,Mound Bayou,MS
-30,Renova,MS
-31,New Bethlehem,PA
-32,Warren,PA
-33,New Africa,MS
-34,Winstonville,MS
-35,Expose,MS
-36,Corry,PA
-37,Punxsutawney,PA
-39,Millvale,PA
-40,General,MS
-42,Falls Church,VA
-43,Clintwood,VA
-44,Elkton,VA
-45,Fieldale,VA
-46,Narrows,VA
-48,Grundy,VA
-49,Weber City,VA
-50,Poquoson,VA
-51,Richlands,VA
-52,Wise,VA
-53,South St. Paul,MN
-56,Worthington,MN
-57,Pine Island,MN
-58,St. Louis Park,MN
-60,Red Wing,MN
-61,Cannon Falls,MN
-62,New Brighton,MN
-63,Coleraine,MN
-64,Marshall,MN
-65,Albert Lea,MN
-66,Appleton,MN
-67,Austin,MN
-68,Edina,MN
-69,Princeton,SC
-70,Salem,SC
-71,Folly Beach,SC
-72,Isle of Palms,SC
-74,Moncks Corner,SC
-75,Shandon,SC
-76,Ellenton,SC
-77,Hamburg,SC
-78,Maryville,SC
-79,Georgetown,SC
-80,Brooklyn,OH
-81,Cuyahoga Falls,OH
-83,Miamisburg,OH
-84,Napoleon,OH
-85,Shawnee,OH
-86,Ada,OH
-87,Clymer,PA
-88,Camp Hill,PA
-90,Avon,OH
-91,Avon Lake,OH
-92,Bellevue,OH
-93,Blanchester,OH
-94,Brookville,OH
-95,Bryan,OH
-96,Canfield,OH
-97,Carey,OH
-98,Carrollton,OH
-99,Celina,OH
-100,Chagrin Falls,OH
-101,Chardon,OH
-102,Clyde,OH
-103,Coal Grove,OH
-104,Coldwater,OH
-105,Columbiana,OH
-106,Crooksville,OH
-107,Deer Park,OH
-108,Delphos,OH
-109,Germantown,OH
-110,Gibsonburg,OH
-111,Grove City,OH
-112,Harrison,OH
-113,Hicksville,OH
-114,Hubbard,OH
-115,Huron,OH
-116,Independence,OH
-117,Jefferson,OH
-118,Johnstown,OH
-119,Lakemore,OH
-120,Loudonville,OH
-121,Louisville,OH
-122,McDonald,OH
-123,Mariemont,OH
-124,Millersburg,OH
-125,Minerva,OH
-126,Mogadore,OH
-127,Montpelier,OH
-128,Mount Gilead,OH
-129,New Boston,OH
-131,New Lexington,OH
-132,Newton Falls,OH
-133,Hershey,PA
-134,North Baltimore,OH
-135,Oak Harbor,OH
-136,Johnston,PA
-137,Hanover,PA
-138,Mount Lebanon,PA
-139,Canadensis,PA
-140,Ottawa,OH
-141,Poland,OH
-142,Rittman,OH
-143,Seven Hills,OH
-144,Shadyside,OH
-145,Shelby,OH
-147,Silver Lake,OH
-148,Strongsville,OH
-149,South Lebanon,OH
-150,Sylvania,OH
-151,Trenton,OH
-152,Upper Sandusky,OH
-153,Vermilion,OH
-154,Wapakoneta,OH
-155,Wauseon,OH
-156,West Milton,OH
-157,Wheelersburg,OH
-158,Woodsfield,OH
-161,Fairborn,OH
-162,Fairview,OH
-163,Galion,OH
-164,Kettering,OH
-165,Lakewood,OH
-166,Lyndhurst,OH
-167,North Olmsted,OH
-168,Norwood,OH
-169,Parma,OH
-170,Parma Heights,OH
-171,Reading,OH
-172,Stow,OH
-173,Tallmadge,OH
-174,University Heights,OH
-175,Alger,OH
-176,Upper Arlington,OH
-177,Westlake,OH
-178,Warrensville Heights,OH
-179,Ansonia,OH
-180,Antwerp,OH
-181,Arcanum,OH
-182,Ashville,OH
-183,South Amherst,OH
-184,Tipp City,OH
-185,Mount Sterling,OH
-186,Oakwood,OH
-187,Bethel,OH
-189,Waldwick,NJ
-190,Allendale,NJ
-192,Ridgewood,NJ
-193,Radburn,NJ
-194,Fair Lawn,NJ
-196,Haddonfield,NJ
-197,Long Valley,NJ
-198,Levittown/Willingboro,NJ
-199,Hamilton Township,NJ
-200,Cherry Hill,NJ
-201,Clark,NJ
-202,Clifton,NJ
-203,Dividing Creek,NJ
-204,Seaside Park,NJ
-205,Somerset,NJ
-206,Green Brook,NJ
-207,Hillside,NJ
-208,Tenafly,NJ
-209,Paterson,NJ
-210,Princeton,NJ
-212,Alloway,NJ
-214,Mahwah,NJ
-215,Saddle River,NJ
-216,Llewellyn Park,NJ
-217,Ocean Grove,NJ
-218,Attica,NY
-219,Cooperstown,NY
-220,Cold Spring,NY
-222,Johnson City,NY
-223,Mexico,NY
-225,Roscoe,NY
-227,Bennington,NY
-228,Whitesboro,NY
-229,West Elmira,NY
-230,Elmont,NY
-232,Belle Terre,NY
-234,Saratoga Springs,NY
-235,Rochester,NY
-236,Brighton,NY
-237,Buffalo,NY
-238,Amherst,NY
-239,Orchard Park,NY
-240,Tonawanda,NY
-241,North Tonawanda,NY
-242,New York,NY
-243,Yonkers,NY
-244,Bronxville,NY
-245,Scarsdale,NY
-246,Tuxedo Park,NY
-247,Sun City,AZ
-248,Youngtown,AZ
-249,Bisbee,AZ
-250,Duncan,AZ
-251,Globe,AZ
-252,Prescott,AZ
-253,Scottsdale,AZ
-255,Colorado Springs,CO
-256,Durango,CO
-264,Reynoldsburg,OH
-265,Niles,OH
-266,Smithtown,NY
-267,Sayville,NY
-268,Seaford,NY
-270,Oceanside,NY
-271,Valley Stream,NY
-272,Levittown,NY
-273,Garden City,NY
-274,Roosevelt,NY
-276,North Amityville,NY
-278,Sea Cliff,NY
-279,Lynchburg,OH
-280,Findlay,OH
-281,Bluffton,OH
-282,Caldwell,OH
-283,St. Marys,OH
-284,Fort Recovery,OH
-285,Middletown,OH
-286,Ottawa Hills,OH
-287,Syracuse,OH
-288,Corning,OH
-289,Waverly,OH
-290,Williamsburg,OH
-291,Strasburg,OH
-292,Marmet,WV
-293,New Martinsville,WV
-294,Nitro,WV
-295,Oak Hill,WV
-296,Marlinton,WV
-297,Cookeville,TN
-298,Crossville,TN
-299,Ducktown,TN
-300,Englewood,TN
-301,Gatlinburg,TN
-302,Erwin,TN
-303,Jamestown,TN
-304,Lafayette,TN
-305,Lenoir City,TN
-306,Monterey,TN
-307,Norris,TN
-308,Oneida,TN
-309,Tracy City,TN
-310,Waynesboro,TN
-311,East Ridge,TN
-312,Signal Mountain,TN
-313,Celina,TN
-314,Soddy-Daisy,TN
-315,Dunlap,TN
-316,Fairview,TN
-317,Greenbrier,TN
-318,Palmer,TN
-319,Copperhill,TN
-320,General,TN
-321,North Chattanooga,TN
-330,Tybee Island,GA
-332,Avondale Estates,GA
-333,Chamblee,GA
-334,Palmetto,GA
-335,Watkinsville,GA
-347,Baxter,TN
-348,Benton,KY
-349,Dayton,KY
-350,Corbin,KY
-351,Bellevue,KY
-352,Erlanger,KY
-353,Paintsville,KY
-354,Park Hills,KY
-355,Prestonsburg,KY
-356,Russell Springs,KY
-357,Albany,KY
-358,Ludlow,KY
-359,Bromley,KY
-360,Clay,KY
-361,Olive Hill,KY
-362,General,UT
-363,Corinne,UT
-364,Bingham,UT
-365,Brigham City,UT
-366,Murray,UT
-367,Carbon,UT
-368,Blanding,UT
-369,Salt Lake City,UT
-370,Bluffdale,UT
-371,Price,UT
-372,Eagle Mountain,UT
-373,Elkhorn City,KY
-374,Florence,KY
-375,Fort Mitchell,KY
-376,Highland Heights,KY
-377,Martin,KY
-378,Mount Vernon,KY
-379,North Corbin,KY
-380,Parkway Village,KY
-381,Raceland,KY
-382,Russell,KY
-383,Salyersville,KY
-384,Shively,KY
-385,Southgate,KY
-386,Van Lear,KY
-387,Whitesburg,KY
-388,Worthington,KY
-389,Alexandria,KY
-390,Audubon Park,KY
-391,Beechwood Village,KY
-392,Brodhead,KY
-393,Calvert City,KY
-394,Cold Spring,KY
-395,Centertown,KY
-396,Burnside,KY
-397,Irvine,KY
-398,Jeffersonville,KY
-399,Liberty,KY
-400,Livermore,KY
-401,Catlettsburg,KY
-402,Silver Grove,KY
-403,Williamstown,KY
-404,Edgewood,KY
-405,Loyall,KY
-406,Lynnview,KY
-407,Meadow Vale,KY
-408,Minor Lane Heights,KY
-409,Mount Washington,KY
-410,St. Regis Park,KY
-411,Stanton,KY
-412,Vanceburg,KY
-413,Windy Hills,KY
-414,London,KY
-415,Augusta,KS
-416,Arma,KS
-417,Ashland,KS
-418,Atwood,KS
-419,Belle Plaine,KS
-420,Belleville,KS
-421,Beloit,KS
-423,Blue Rapids,KS
-424,Burlingame,KS
-425,Burlington,KS
-426,Caney,KS
-427,Chapman,KS
-428,Cheney,KS
-429,Cimarron,KS
-430,Clearwater,KS
-431,Clyde,KS
-432,Colby,KS
-433,Coldwater,KS
-434,Conway Springs,KS
-435,Dighton,KS
-436,Douglass,KS
-437,Elkhart,KS
-438,Ellinwood,KS
-439,Enterprise,KS
-440,Erie,KS
-441,Eureka,KS
-442,Frontenac,KS
-443,Greensburg,KS
-444,Halstead,KS
-445,Hays,KS
-446,Howard,KS
-447,Hoxie,KS
-448,Kiowa,KS
-449,La Crosse,KS
-450,Lakin,KS
-451,Leoti,KS
-452,Lincoln Center,KS
-453,Madison,KS
-454,Mankato,KS
-455,Marion,KS
-456,Meade,KS
-457,Ness City,KS
-458,Nickerson,KS
-459,Lindsborg,KS
-460,Marysville,KS
-461,Mulvane,KS
-462,Neodesha,KS
-463,Norton,KS
-464,Oberlin,KS
-465,St. Francis,KS
-466,Scott City,KS
-467,Smith Center,KS
-468,Solomon,KS
-469,Stafford,KS
-470,Sublette,KS
-471,Tribune,KS
-472,Victoria,KS
-473,Washington,KS
-474,Harper,KS
-475,Wilson,KS
-476,Yates Center,KS
-477,Hoisington,KS
-478,Cedar Vale,KS
-479,Scammon,KS
-480,Poultney,VT
-481,Swanton,VT
-482,Bellows Falls,VT
-483,Waterbury,VT
-484,Morrisville,VT
-485,Tunbridge,VT
-486,Pulaski County,IL
-487,Kaolin,IL
-488,Goreville,IL
-489,Alto Pass,IL
-490,Elco,IL
-491,Wolf Lake,IL
-492,Belknap,IL
-493,Vienna,IL
-494,Campbell Hill,IL
-495,Dongola,IL
-496,McClure,IL
-497,Karnak,IL
-498,Jonesboro,IL
-499,Arcola,IL
-500,Arlington Heights,IL
-501,DeKalb,IL
-502,Winnebago,IL
-503,Bellwood,IL
-504,Algoma,WI
-505,Antigo,WI
-506,Berlin,WI
-507,Black River Falls,WI
-509,Burlington,WI
-511,Clintonville,WI
-512,Columbus,WI
-513,De Pere,WI
-514,Dodgeville,WI
-515,Edgerton,WI
-516,Elkhorn,WI
-517,Evansville,WI
-518,Fort Atkinson,WI
-519,Greendale,WI
-520,Hartford,WI
-521,Horicon,WI
-522,Hudson,WI
-523,Hurley,WI
-524,Jefferson,WI
-525,Kaukauna,WI
-526,Kewaunee,WI
-527,Kimberly,WI
-528,Ladysmith,WI
-529,Lake Mills,WI
-530,Lancaster,WI
-531,Little Chute,WI
-532,Mauston,WI
-533,Mayville,WI
-534,Medford,WI
-535,Menomonie,WI
-536,Merrill,WI
-537,Monroe,WI
-538,Neillsville,WI
-539,New London,WI
-540,New Richmond,WI
-541,Oconomowoc,WI
-542,Oconto,WI
-543,Park Falls,WI
-544,Platteville,WI
-545,Plymouth,WI
-547,Prairie du Chien,WI
-548,Reedsburg,WI
-549,Rhinelander,WI
-550,Rice Lake,WI
-551,Richland Center,WI
-552,Ripon,WI
-553,River Falls,WI
-554,Shawano,WI
-555,Two Rivers,WI
-556,Spooner,WI
-557,Stoughton,WI
-559,Tomah,WI
-560,Tomahawk,WI
-561,Viroqua,WI
-562,Lake Geneva,WI
-563,Waupaca,WI
-564,West Bend,WI
-565,West Milwaukee,WI
-566,Appleton,WI
-567,Whitewater,WI
-568,Ashland,WI
-569,Beaver Dam,WI
-570,Cudahy,WI
-571,Fond du Lac,WI
-572,Port Washington,WI
-573,Manitowoc,WI
-574,Marshfield,WI
-575,Menasha,WI
-576,Neenah,WI
-577,Sheboygan,WI
-578,South Milwaukee,WI
-579,Stevens Point,WI
-580,Watertown,WI
-581,Wausau,WI
-582,Wauwatosa,WI
-583,West Allis,WI
-584,Mineral Point,WI
-585,Eau Claire,WI
-586,Green Bay,WI
-587,Washburn,WI
-588,Chippewa Falls,WI
-589,Shorewood,WI
-590,Stanley,WI
-591,Marinette,WI
-592,Whitefish Bay,WI
-593,Wisconsin Rapids,WI
-594,Boscobel,WI
-595,Chilton,WI
-596,Elm Grove,WI
-597,Grafton,WI
-598,Hales Corners,WI
-599,Howard,WI
-600,Kiel,WI
-601,Middleton,WI
-602,Nekoosa,WI
-603,North Fond du Lac,WI
-604,Peshtigo,WI
-605,Rothschild,WI
-606,Schofield,WI
-607,Sun Prairie,WI
-608,Thiensville,WI
-609,Muskego,WI
-610,Altoona,WI
-612,Brodhead,WI
-613,Combined Locks,WI
-614,Delafield,WI
-615,Hartland,WI
-616,Milton,WI
-617,New Holstein,WI
-618,Oconto Falls,WI
-619,Okauchee Lake,WI
-620,Oregon,WI
-621,Pewaukee,WI
-622,Sturtevant,WI
-623,Sussex,WI
-625,Weston,WI
-626,Barron,WI
-627,McFarland,WI
-628,Mondovi,WI
-629,Mosinee,WI
-630,Mount Horeb,WI
-631,Mukwonago,WI
-632,Omro,WI
-633,Prescott,WI
-634,Sauk City,WI
-635,Seymour,WI
-636,Oshkosh,WI
-638,Charles City,IA
-639,Belle Plaine,IA
-640,Taylor County,IA
-642,Maquoketa,IA
-643,Clarion,IA
-645,Algona,IA
-646,Vinton,IA
-647,Anderson,MO
-648,Aurora,MO
-649,Buffalo,MO
-650,Albany,MO
-651,Ava,MO
-652,Bernie,MO
-653,Bethany,MO
-654,Bismarck,MO
-655,Bloomfield,MO
-656,Bolivar,MO
-657,Campbell,MO
-658,Carl Junction,MO
-659,Chaffee,MO
-660,Cassville,MO
-661,Creve Coeur,MO
-662,Dexter,MO
-663,Carterville,MO
-664,Concordia,MO
-665,Crane,MO
-666,Deepwater,MO
-667,Doniphan,MO
-668,East Prairie,MO
-669,El Dorado Springs,MO
-670,Eldon,MO
-671,Elvins,MO
-672,Granby,MO
-673,Grant City,MO
-674,Hermann,MO
-675,King City,MO
-676,Lamar,MO
-677,La Plata,MO
-678,Marionville,MO
-680,Mound City,MO
-681,Mt. Vernon,MO
-682,Monett,MO
-683,Owensville,MO
-684,North Kansas City,MO
-685,Perryville,MO
-686,Pattonsburg,MO
-687,Pierce City,MO
-688,Princeton,MO
-689,Rockport,MO
-690,St. Clair,MO
-691,St. James,MO
-694,Salem,MO
-696,Sarcoxie,MO
-697,Seneca,MO
-698,Shrewsbury,MO
-699,Stanberry,MO
-700,Sugar Creek,MO
-701,Sullivan,MO
-702,Thayer,MO
-703,Unionville,MO
-705,Waukon,IA
-708,Pella,IA
-709,Eagle Grove,IA
-710,Emmetsburg,IA
-711,Cresco,IA
-712,Willow Springs,MO
-713,Webb City,MO
-714,Oran,MO
-715,St. Genevieve,MO
-716,Adrian,MO
-717,Belle,MO
-718,Branson,MO
-719,Buckner,MO
-720,Cabool,MO
-721,Camdenton,MO
-722,Ellington,MO
-723,Claycomo,MO
-724,Cole Camp,MO
-725,Cuba,MO
-726,Desloge,MO
-727,Dixon,MO
-728,Edina,MO
-729,Gideon,MO
-730,Hamilton,MO
-731,Houston,MO
-732,Kahoka,MO
-733,Lake Lotawama,MO
-734,Leadwood,MO
-735,Linn,MO
-736,Adel,IA
-737,Akron,IA
-738,Marshfield,MO
-739,Memphis,MO
-740,Milan,MO
-741,Piedmont,MO
-742,Richland,MO
-743,St. George,MO
-744,Savannah,MO
-745,Senath,MO
-746,Seymour,MO
-747,Smithville,MO
-748,Steelville,MO
-749,Warsaw,MO
-750,Blue Springs,MO
-751,Flat River,MO
-752,Mountain Grove,MO
-753,Bella Villa,MO
-754,Mindenmines,MO
-755,Liberal,MO
-756,Maryville,MO
-757,Alton,IA
-758,Allison,IA
-759,Arnolds Park,IA
-760,Avoca,IA
-761,Bedford,IA
-762,Bellevue,IA
-763,Belmond,IA
-764,Bloomfield,IA
-765,Blue Grass,IA
-766,Bondurant,IA
-768,Brooklyn,IA
-769,Sioux Center,IA
-770,Spirit Lake,IA
-771,Bolton,MA
-773,Ashby,MA
-774,Maynard,MA
-775,General,Or
-776,General,OR
-777,Florence,OR
-778,Eugene,OR
-779,Albany,OR
-780,Coos Bay,OR
-781,Springfield,OR
-782,The Dalles,OR
-783,Jacksonville,OR
-784,La Grande,OR
-785,McMinnville,OR
-786,Salem,OR
-787,Medford,OR
-789,Vestavia Hills,AL
-790,Chickasaw,AL
-791,Arab,AL
-792,Cullman,AL
-793,Ash Flat,AR
-794,Bauxite,AR
-795,Black Rock,AR
-796,Bradford,AR
-797,Brookland,AR
-798,Cabot,AR
-799,Calico Rock,AR
-800,Cammack Village,AR
-801,Hillcrest,AR
-802,Decatur,AR
-803,Diamond City,AR
-804,Dierks,AR
-805,Dyer,AR
-806,Elkins,AR
-807,Elm Springs,AR
-808,Goshen,AR
-809,Grannis,AR
-810,Gravette,AR
-811,Grubbs,AR
-812,Imboden,AR
-813,Williford,AR
-814,Johnson,AR
-815,Kibler,AR
-816,Lavaca,AR
-817,Little Flock,AR
-818,Oakland,AR
-819,Oak Grove Heights,AR
-820,Oppelo,AR
-821,Oxford,AR
-822,Magazine,AR
-823,Pottsville,AR
-824,Quitman,AR
-826,Subiaco,AR
-827,Sulphur Springs,AR
-828,Taylor,AR
-829,Wickes,AR
-830,Clay County,AR
-831,Piggott,AR
-832,Pangburn,AR
-833,Portia,AR
-834,Paragould,AR
-835,Leachville,AR
-836,Manila,AR
-839,Greenway,AR
-840,Altus,AR
-841,London,AR
-842,Provo,AR
-843,Colchester,VT
-844,Grants Pass,OR
-845,Roseburg,OR
-846,Lake Oswego,OR
-847,Oregon City,OR
-848,Tillamook,OR
-849,Ashland,OR
-850,Dallas,OR
-851,Lebanon,OR
-852,Oakridge,OR
-853,Toledo,OR
-854,Astoria,OR
-855,Pendleton,OR
-856,Monroe,OR
-857,Lyles Station,IN
-858,Whitestown,IN
-859,Ogden Dunes,IN
-860,Chandler,IN
-861,Long Beach,IN
-862,North Manchester,IN
-863,New Whiteland,IN
-864,Oolitic,IN
-865,Greensburg,IN
-866,Evansville,IN
-867,Greenwood,IN
-868,Tipton,IN
-869,Alexandria,IN
-870,Elwood,IN
-871,Hagerstown,IN
-872,Huntington,IN
-873,Goshen,IN
-874,Linton,IN
-875,Hobart,IN
-876,New Palestine,IN
-877,Milan,IN
-878,New Harmony,IN
-879,Jasper,IN
-880,Bluffton,IN
-881,Mooresville,IN
-882,Batesville,IN
-883,Whiting,IN
-884,Crown Point,IN
-885,Brownsburg,IN
-886,Mishawaka,IN
-887,Sunman,IN
-888,Brookston,IN
-889,Utica,IN
-890,Aurora,IN
-891,Decatur,IN
-892,French Lick,IN
-893,Rockport,IN
-894,Salem,IN
-895,Vevay,IN
-896,Valparaiso,IN
-897,Chesterton,IN
-898,Martinsville,IN
-899,Wabash,IN
-901,Scottsburg,IN
-902,Brownstown,IN
-903,Gas City,IN
-904,Beech Grove,IN
-905,Merrillville,IN
-906,Hymera,IN
-907,Auburn,IN
-908,Mentone,IN
-909,East Gary,IN
-910,General,IN
-911,Newburg,IN
-912,Grand View,IN
-913,Tell City,IN
-914,Arcadia,IN
-915,North Judson,IN
-916,Cedar Lake,IN
-917,Andrews,IN
-918,Berne,IN
-919,Bicknell,IN
-920,Brookville,IN
-922,Centerville,IN
-923,Churubusco,IN
-925,Columbia City,IN
-926,Deputy,IN
-927,English,IN
-928,Geneva,IN
-929,Greenfield,IN
-930,Knox,IN
-931,Lexington,IN
-932,Monticello,IN
-933,Morgantown,IN
-934,North Liberty,IN
-935,Lagro,IN
-936,Pierceton,IN
-937,Poseyville,IN
-938,Remington,IN
-939,Roann,IN
-940,Sidney,IN
-941,Silver Lake,IN
-942,South Whitley,IN
-943,Speedway,IN
-944,Summitville,IN
-945,Swayzee,IN
-946,Sweetser,IN
-947,Wakarusa,IN
-948,West Terre Haute,IN
-949,Zionsville,IN
-950,North Webster,IN
-951,Lizton,IN
-952,Jamestown,IN
-953,Corydon,IN
-954,Frankfort,IN
-955,Brook,IN
-956,Cambridge City,IN
-957,Crawford,IN
-961,Boulder City,NV
-962,Minden-Gardnerville,NV
-963,Ely,NV
-964,Fallon,NV
-965,Goldfield,NV
-966,Unionville,NV
-967,General,NV
-968,Etowah,AR
-969,Lepanto,AR
-970,Newton County,AR
-971,Alix,AR
-972,Hardy,AR
-973,Perryville,AR
-974,Mount Ida,AR
-975,Mena,AR
-976,Lamar,AR
-977,Dover,AR
-978,Van Buren,AR
-980,Cleburne County,AR
-981,Greers Ferry,AR
-982,Fairfield Bay,AR
-985,Mountain Home,AR
-986,Cotter,AR
-988,St. Francis,AR
-989,Mulberry,AR
-990,Ozark,AR
-991,Booneville,AR
-992,Greenwood,AR
-993,Glenwood,AR
-995,Waldron,AR
-996,Siloam Springs,AR
-997,Sand Mountain,AL
-998,Dixie,AL
-999,Oneonta,AL
-1000,Nauvoo,AL
-1001,Hanceville,AL
-1002,Good Hope,AL
-1004,Hokes Bluff,AL
-1005,Rehoboth Beach,DE
-1006,Wilmington,DE
-1007,Delight,AR
-1008,Amity,AR
-1009,Leslie,AR
-1010,Scott County,AR
-1011,Rogers,AR
-1012,Springdale,AR
-1014,Stone County,AR
-1015,Gentry,AR
-1016,Fouke,AR
-1017,Harrison,AR
-1018,Eureka Springs,AR
-1019,Sheridan,AR
-1020,Lacrosse,AR
-1021,Belle Fourche,SD
-1022,Delmont,SD
-1023,Doland,SD
-1024,Spink County,SD
-1025,Canton,SD
-1026,Lead,SD
-1027,Miles City,MT
-1028,Pasadena,CA
-1029,Fresno,CA
-1030,Redlands,CA
-1031,Riverside,CA
-1032,Crescent City,CA
-1033,Visalia,CA
-1035,Selma,CA
-1036,Bakersfield,CA
-1037,Red Bluff,CA
-1038,Antioch,CA
-1039,Rocklin,CA
-1040,Truckee,CA
-1041,Santa Ana,CA
-1042,Wheatland,CA
-1043,Marysville,CA
-1044,Eureka,CA
-1045,San Jose,CA
-1046,Gold Run,CA
-1047,Arroyo Grande,CA
-1048,Sonora,CA
-1049,San Pablo,CA
-1050,Dutch Flat,CA
-1051,Lincoln,CA
-1052,Nicolaus,CA
-1053,Sawyers Bar,CA
-1054,Folsom,CA
-1055,Watsonville,CA
-1056,Nevada City,CA
-1057,Grass Valley,CA
-1058,Oildale,CA
-1059,Taft,CA
-1061,Holy City,CA
-1062,Napa,CA
-1063,Lafayette,CA
-1064,Chester,CA
-1065,Redding,CA
-1066,Sheridan,CA
-1067,Lodi,CA
-1068,Parlier,CA
-1069,Corning,CA
-1070,Chico,CA
-1071,Bayshore City,CA
-1072,Berkeley,CA
-1073,Mill Valley,CA
-1074,Redwood City,CA
-1075,San Leandro,CA
-1076,Burlingame,CA
-1077,East Palo Alto,CA
-1078,Piedmont,CA
-1079,North Palo Alto,CA
-1080,Bishop,CA
-1081,Kingsburg,CA
-1082,Indian Wells,CA
-1083,Garden Grove,CA
-1084,Hemet,CA
-1085,Norco,CA
-1086,South Gate,CA
-1087,San Fernando Valley,CA
-1088,Tarzana,CA
-1089,Whittier,CA
-1090,Arcadia,CA
-1091,Fontana,CA
-1092,Newport Beach,CA
-1093,Palos Verdes Estates,CA
-1094,Westfield,CA
-1095,Lomita,CA
-1096,Manhattan Beach,CA
-1098,Orange County,CA
-1099,Yorba Linda,CA
-1100,Cerritos,CA
-1101,Costa Mesa,CA
-1102,Orange,CA
-1103,Huntington Beach,CA
-1104,La Habra,CA
-1105,Irvine,CA
-1106,Brea,CA
-1107,Glendale,CA
-1108,Azusa,CA
-1109,Buena Park,CA
-1110,Burbank,CA
-1111,Compton,CA
-1112,San Juan Capistrano,CA
-1113,San Jacinto,CA
-1114,Arcata,CA
-1115,Stanton,CA
-1116,Culver City,CA
-1117,Palmdale,CA
-1118,Torrance,CA
-1119,Kernville,CA
-1120,Porterville,CA
-1121,Lynwood,CA
-1122,Bel Air,CA
-1123,Monterey Park,CA
-1124,Hidden Hills,CA
-1125,La Jolla,CA
-1126,San Marino,CA
-1127,South Pasadena,CA
-1129,Palm Beach,FL
-1131,Daytona Beach Shores,FL
-1132,Flagler Beach,FL
-1133,Holmes Beach,FL
-1134,Longboat Key,FL
-1135,Melbourne Beach,FL
-1137,Samsula,FL
-1138,Altha,FL
-1139,Old Homosassa,FL
-1140,Cedar Key,FL
-1141,Del Ray Beach,FL
-1142,Winterhaven,FL
-1143,Ocoee,FL
-1144,Myakka City,FL
-1145,Yankeetown,FL
-1146,Miami Beach,FL
-1148,Venice,FL
-1149,Twin Falls,ID
-1150,Clark Fork,ID
-1151,Bonners Ferry,ID
-1152,Moscow,ID
-1154,Hoodoo,ID
-1155,Ashton,ID
-1156,Wallace,ID
-1157,Simpson,LA
-1158,Pitkin,LA
-1159,Anacoco,LA
-1160,Pollock,LA
-1162,Milo,ME
-1163,Fargo,ND
-1164,Lincoln,NE
-1165,Auburn,NE
-1166,Aurora,NE
-1167,Broken Bow,NE
-1168,Central City,NE
-1169,Cozad,NE
-1170,David City,NE
-1171,Fairbury,NE
-1172,O'Neill,NE
-1173,Plainview,NE
-1174,Schuyler,NE
-1175,Sidney,NE
-1176,Valentine,NE
-1177,Wahoo,NE
-1178,West Point,NE
-1179,Fremont,NE
-1180,Tecumseh,NE
-1181,North Platte,NE
-1182,Minden,NE
-1183,Plattsmouth,NE
-1184,Portales,NM
-1185,Taos,NM
-1186,Montesano,WA
-1187,Chelan,WA
-1189,Olympia,WA
-1191,Richland,WA
-1194,Walla Walla,WA
-1195,Vancouver,WA
-1196,Bellingham,WA
-1197,Tacoma,WA
-1198,Seattle,WA
-1200,Powell,WY
-1202,Wheeler County,TX
-1203,Pasadena,TX
-1204,Big Spring,TX
-1205,Santa Fe,TX
-1206,Amherst,OH
-1208,Kirvin,TX
-1209,White Deer,TX
-1210,Vidor,TX
-1211,Cumby,TX
-1212,Whitesboro,TX
-1213,Grand Saline,TX
-1214,Iowa Park,TX
-1215,Cut and Shoot,TX
-1216,Highland Park,TX
-1217,Comanche,TX
-1218,Bowie,TX
-1219,Goldthwaite,TX
-1220,Comanche County,TX
-1221,Hamilton County,TX
-1222,Killeen,TX
-1223,Copperas Cove,TX
-1224,Montague County,TX
-1225,Archer City,TX
-1226,Robert Lee,TX
-1227,De Leon,TX
-1228,Moulton,TX
-1229,Greenwich,CT
-1230,Litchfield,CT
-1231,Sharon,CT
-1232,Orange,CT
-1234,Madison,CT
-1235,Canterbury,CT
-1236,Simsbury,CT
-1237,New Fairfield,CT
-1238,Portland,CT
-1239,Holliday,TX
-1240,Paradise,TX
-1241,Slocum,TX
-1242,Glen Rose,TX
-1243,Throckmorton,TX
-1244,Irving,TX
-1245,Sunnyvale,TX
-1246,Marion County,AR
-1248,Del Norte County,CA
-1249,Westminster,CA
-1250,Cullman County,AL
-1251,Fyffe,AL
-1253,Orange Beach,AL
-1254,Placerville,CA
-1255,Malaga Island,ME
-1256,Antelope County,NE
-1257,Burt County,NE
-1258,Butler County,NE
-1259,Cass County,NE
-1260,Cedar County,NE
-1261,Cheyenne County,NE
-1262,Humboldt County,CA
-1263,Oroville,CA
-1264,Fillmore,CA
-1265,Orinda,CA
-1266,Ross,CA
-1267,Escondido,CA
-1268,Anaheim,CA
-1269,Shamrock,TX
-1270,Dallam County,TX
-1271,Scurry County,TX
-1272,Rock Springs,WY
-1273,Saugus,MA
-1274,Swampscott,MA
-1275,Dedham,MA
-1276,Brookline,MA
-1277,Belmont,MA
-1278,Montague,MA
-1279,Athol,MA
-1280,Manchester,MA
-1281,Chicopee,MA
-1282,Mitchell County,NC
-1283,Graham County,NC
-1284,Wrightsville,NC
-1285,Southern Shores,NC
-1286,Surf City,NC
-1287,Kure Beach,NC
-1288,Faith,NC
-1289,Hot Springs,NC
-1290,Cadillac,MI
-1291,Wyandotte,MI
-1293,Birmingham,MI
-1294,St. Joseph,MI
-1295,Spring Lake,MI
-1296,Charlotte,MI
-1297,Mason,MI
-1298,East Lansing,MI
-1300,Tucson,AZ
-1301,Forsyth County,GA
-1302,Reese,MI
-1304,Holland,MI
-1305,East Grand Rapids,MI
-1306,Brighton,MI
-1308,Howell,MI
-1309,Upper Peninsula,MI
-1310,Menominee County,MI
-1311,Ironwood,MI
-1312,Petoskey,MI
-1313,Hartford,CT
-1314,Portland,MI
-1315,Ecorse,MI
-1316,St. Clair Shores,MI
-1317,Dearborn,MI
-1318,Warren,MI
-1319,Livonia,MI
-1320,Grosse Pointe,MI
-1322,Grosse Pointe Park,MI
-1323,Grosse Pointe Shores,MI
-1324,Grosse Pointe Farms,MI
-1325,Westland,MI
-1326,Royal Oak,MI
-1327,Southgate,MI
-1328,Owosso,MI
-1330,General,MI
-1332,Alpena,MI
-1333,Grosse Pointe Woods,MI
-1334,South Lyon,MI
-1335,Welch,OK
-1336,Colony,OK
-1337,Lawton,OK
-1338,Blackwell,OK
-1339,Sapulpa,OK
-1340,Hatboro,PA
-1341,Greer County,OK
-1342,Edmond,OK
-1343,Stilwell,OK
-1344,Barnsdall,OK
-1345,Henryetta,OK
-1347,Bozrah,CT
-1348,Coventry,CT
-1349,Darien,CT
-1350,Kent,CT
-1351,Lisbon,CT
-1352,Middlefield,CT
-1353,Montville,CT
-1354,Morris,CT
-1355,New Hartford,CT
-1356,Old Lyme,CT
-1357,Oxford,CT
-1358,Seymour,CT
-1359,Somers,CT
-1360,Southington,CT
-1362,Thomaston,CT
-1363,Thompson,CT
-1364,Unionville,CT
-1365,Westbrook,CT
-1366,Westport,CT
-1367,Willington,CT
-1368,Okemah,OK
-1369,Paden,OK
-1370,Caddo,OK
-1371,Marshall,OK
-1372,Norman,OK
-1373,Fox,OK
-1374,Marlow,OK
-1375,General,OK
-1376,Ottawa County,OK
-1377,Cleveland,OK
-1378,Audobon,IA
-1379,Clear Lake,IA
-1380,Fairmont,MN
-1381,Britt,IA
-1382,Newburgh Heights,OH
-1383,Eagan,MN
-1384,Harlan,IA
-1385,Jefferson,IA
-1386,Manchester,IA
-1387,Osage,IA
-1388,Tabor,IA
-1389,Winterset,IA
-1390,General,IA
-1391,Manning,IA
-1392,New Market,IA
-1393,Lenox,IA
-1394,Pleasant Hill,IA
-1395,Cedar Falls,IA
-1396,Lambs Grove,IA
-1397,Villisca,IA
-1399,Pacific Junction,IA
-1400,Golden Meadow,LA
-1401,Grand Isle,LA
-1402,Jean Lafitte,LA
-1403,Krotz Springs,LA
-1404,Braintree,MA
-1406,Longmeadow,MA
-1407,Brasstown,NC
-1408,Spruce Pine,NC
-1409,Bakersville,NC
-1410,Mayodan,NC
-1411,King,NC
-1412,Swain County,NC
-1413,Beacon Falls,CT
-1415,Cherokee County,GA
-1416,Dawson County,GA
-1418,Banks County,GA
-1419,Gilmer County,GA
-1421,Towns County,GA
-1422,Union County,GA
-1423,Murray County,GA
-1424,Pickens County,GA
-1425,Rabun County,GA
-1426,Clayton,GA
-1427,Thomas County,GA
-1430,General,ID
-1431,Fulton County,IN
-1432,Hancock County,IN
-1433,Howard County,IN
-1434,Morehouse,MO
-1435,Glen Rock,NJ
-1436,Ho-Ho-Kus,NJ
-1437,Carteret,NJ
-1438,Mount Laurel,NJ
-1439,General,MT
-1440,Carbon County,MT
-1441,Lincoln County,MT
-1442,Choteau,MT
-1443,General,ND
-1444,Barnes County,ND
-1445,Emmons County,ND
-1447,LaMoure County,ND
-1448,McLean County,ND
-1450,Rolette County,ND
-1452,Traill County,ND
-1453,Berlin,NH
-1454,Derry,NH
-1455,Farmington,NH
-1457,Franklin,NH
-1458,Haverhill,NH
-1459,Keene,NH
-1460,Lancaster,NH
-1461,Littleton,NH
-1463,Newmarket,NH
-1464,Newport,NH
-1465,Peterborough,NH
-1466,Rochester,NH
-1467,Somersworth,NH
-1468,Cumberland,RI
-1469,Woonsocket,RI
-1470,General,ME
-1471,Biddeford,ME
-1472,Brewer,ME
-1473,Fairfield,ME
-1474,Orono,ME
-1475,Presque Isle,ME
-1476,Westbrook,ME
-1477,Copiague,NY
-1478,Cove Neck,NY
-1479,Selingsgrove,PA
-1485,Sheboygan Falls,WI
-1486,Sturgeon Bay,WI
-1487,Union Grove,WI
-1488,Washington Grove,MD
-1490,Calvert County,MD
-1491,University Park,MD
-1493,Princess Anne,MD
-1494,Mayo,MD
-1495,Smith Island,MD
-1497,Woodland Beach,MD
-1498,Crofton,MD
-1499,Scientists Cliff,MD
-1500,Chevy Chase,MD
-1501,Mount Rainier,MD
-1502,Brentwood,MD
-1503,Oakland,MD
-1504,Garrett County,MD
-1505,Lonaconing,MD
-1506,Westernport,MD
-1507,Friendsville,MD
-1508,Greenbelt,MD
-1509,Bernalillo,NM
-1510,Aztec,NM
-1511,Alva,OK
-1512,Allen,OK
-1513,Apache,OK
-1514,Boise City,OK
-1515,Broken Arrow,OK
-1516,Carnegie,OK
-1517,Cherokee,OK
-1518,Collinsville,OK
-1519,Comanche,OK
-1520,Commerce,OK
-1521,Haileyville,OK
-1522,Healdton,OK
-1523,Hinton,OK
-1525,Jenks,OK
-1526,Lindsay,OK
-1527,Medford,OK
-1529,Morris,OK
-1530,Okeene,OK
-1531,Picher,OK
-1532,Blairsville,GA
-1533,Blue Ridge,GA
-1534,Dahlonega,GA
-1535, Hartford,CT
-1536,Waterford,PA
-1537,Jim Thorpe,PA
-1538,Nesquehoning,PA
-1539,Lansford,PA
-1540,Nazareth,PA
-1541,Mounds city,Il
-1542,Balcom,Il
-1543,Berryville,Il
-1544,Wolflake,Il
-1545,Union County,Il
-1546,Cobden,IL
-1547,Thebes,IL
-1548,Tamms,IL
-1549,Cairo,IL
-1550,Brookfield,Il
-1551,Carthage,IL
-1552,Stronghurst,Il
-1553,Warsaw,Il
-1554,Chicago,Il
-1555,McHenry County,IL
-1556,Kane County,IL
-1557,Cicero,IL
-1558,Berwyn,IL
-1559,Dwight,IL
-1560,Mazon,IL
-1561,Morris,IL
-1562,Peotone,IL
-1563,Manteno,IL
-1564,Beecher,IL
-1565,Bradley,IL
-1566,Herscher,IL
-1567,Crete,IL
-1568,Braidwood,IL
-1569,Crystal Lake,IL
-1570,Cary,IL
-1571,Potomac,IL
-1572,Philo,IL
-1573,Catlin,IL
-1574,Westville ,IL
-1575,Newman,IL
-1576,Ridge Farm,IL
-1577,Sidney,IL
-1578,Arthur,IL
-1579,Blue Mound,IL
-1580,Buckley,IL
-1581,Oreana,IL
-1582,DeLand,IL
-1583,El Paso,IL
-1584,Paxton,IL
-1585,St. Joseph,IL
-1586,Mt. Zion,IL
-1587,Towanda,IL
-1588,Farmer City,IL
-1589,Fisher,IL
-1590,Monticello,IL
-1591,Saybrook,IL
-1592,Maroa,IL
-1593,Niantic,IL
-1594,Le Roy,IL
-1596,Warrensburg,IL
-1597,Kenney,IL
-1598,Schaumburg,IL
-1599,Niles,IL
-1600,Elk Grove Village,IL
-1601,Glen Carbon,IL
-1602,Elsah,IL
-1603,Granite City,IL
-1604,Madison,IL
-1605,Brooklyn,IL
-1606,East Alton,IL
-1607,Calhoun,IL
-1608,Calhoun County,IL
-1609,Columbia,IL
-1610,Wood River,IL
-1611,San Jose,IL
-1612,Brown County,IL
-1614,New Boston,IL
-1615,Cuba,IL
-1616,Havana,IL
-1617,Lewistown,IL
-1618,Henry,IL
-1619,Lacon,IL
-1620,Toluca,IL
-1621,Minonk,IL
-1622,Beardstown,IL
-1623,Arenzville,IL
-1624,Highland Park,IL
-1625,Mundelein,IL
-1626,Libertyville,IL
-1627,Onarga,IL
-1628,Pembroke,IL
-1629,Earlville,IL
-1630,Bureau,IL
-1631,LaSalle Peru,IL
-1632,Sandwich,IL
-1633,Riverside,IL
-1634,Lyons,IL
-1635,Des Plaines,IL
-1636,Mahomet,IL
-1637,Bethany,IL
-1638,Lovington,IL
-1639,Windsor,IL
-1640,Effingham,IL
-1641,Neoga,IL
-1642,Shelbyville,IL
-1643,Sullivan,IL
-1644,Oakland,IL
-1645,Morrison,IL
-1646,Romeoville,IL
-1647,Naperville,IL
-1648,Wilmette,IL
-1649,Winthrop Harbor,IL
-1650,Barrington,IL
-1651,Deerfield,IL
-1652,Kenilworth,IL
-1653,Roseville,IL
-1654,Fulton,IL
-1655,Oak Lawn,IL
-1656,Oak Park,IL
-1657,Elmwood Park,IL
-1658,Magnet Cove,AR
-1659,Bordentown,NJ
-1660,Mt. Sterling,IL
-1663,Cedarburg,WI
-1664,Western Springs,IL
-1666,Colchester,IL
-1667,Chehalis,WA
-1668,Villa Grove,il
-1669,Spring Lake,NJ
-1671,St. Cloud,FL
-1673,Desha,AR
-1674,Osage City,KS
-1675,Evergreen Park,IL
-1676,Lebanon,OH
-1677,Pompeii,KY
-1678,Pendleton,IN
-1679,Westfield,IN
-1680,Westfield,Il
-1682,Elfers,FL
-1683,Wynot,NE
-1685,Haysville,KS
-1686,Denton,KS
-1687,Glendive,MT
-1688,Galena,MO
-1689,Russell,KS
-1690,Worden,IL
-1691,Mt. Ida,AR
-1692,Laramie,WY
-1693,Green River,Wy
-1694,Tolono,Il
-1695,Pickneyville,Il
-1696,Chincoteague,Va
-1697,Sellersburg,IN
-1698,Henryville,IN
-1699,Clarksville,IN
-1700,Roundup,MT
-1701,Baxter County,Ar
-1702,Bedford,IN
-1703,Moosup,Ct
-1705,sterling,Ct
-1706,Slinger,WI
-1707,Malvern,IA
-1708,White City,KS
-1709,Plainfield,Il
-1710,New Holland,PA
-1711,Holt,MO
-1712,Kearney,MO
-1713,El Norte,CA
-1714,Roachdale,IN
-1715,Nashville,Il
-1716,Kennewick,Wa
-1717,Kingman,Az
-1718,Evening Shade,Ar
-1719,Colville,wa
-1720,Conestoga,PA
-1721,Glens Falls,NY
-1722,Irwin,PA
-1723,Trent Woods,NC
-1724,Warren ,IN
-1725,Tilghman Island,MD
-1726,Auburn,IL
-1727,Thayer,IL
-1728,Virden,IL
-1729,Divernon,IL
-1730,Pawnee,IL
-1731,Girard,IL
-1732,Dupo,Il
-1734,Rosman,NC
-1735,Shelton,WA
-1736,Glastonbury,CT
-1737,Stockton,MO
-1740,Winston County,AL
-1741,Brewster,Wa
-1743,Chippewa Township,OH
-1744,Brewster,WA
-1745,Hillsboro,KS
-1746,Fenton,MI
-1747,Floral Park,NY
-1748,Crawford County,AR
-1749,Southport,FL
-1750,Salem,IL
-1751,Ridgefield,CT
-1752,Lowell,IN
-1753,Weston,IL
-1754,Santa Cruz,CA
-1755,Davy,WV
-1756,Keystone,WV
-1757,Milton,OR
-1759,Pana,IL
-1760,Vergennes,IL
-1761,McLeansboro,IL
-1762,Carterville,IL
-1763,Crainville,IL
-1764,Johnston City,IL
-1765,West Frankfort,IL
-1766,Benton,IL
-1767,Herrin,IL
-1768,Sesser,IL
-1769,Mulkeytown,IL
-1770,Zeigler,IL
-1771,Christopher,IL
-1772,Eldorado,IL
-1773,Royalton,IL
-1774,Bunker Hill,IL
-1775,Mount Olive,IL
-1776,Gillespie,IL
-1777,Hardin,IL
-1778,White Hall,IL
-1779,Buffalo,IL
-1780,Spaulding,IL
-1781,Athens,IL
-1782,Greenview,IL
-1783,Dawson,IL
-1784,Leland Grove,IL
-1785,Ashland,IL
-1786,Sherman,IL
-1787,Vandalia,IL
-1788,Irvington,IL
-1789,Hoyleton,IL
-1790,Kinmundy,IL
-1791,Ashley,IL
-1792,Sandoval,Il
-1793,Richview,IL
-1794,Greenup,IL
-1795,Montrose,IL
-1796,Hazel Dell,IL
-1797,St. Elmo,IL
-1798,Casey,IL
-1799,Marshall,IL
-1800,Martinsville,IL
-1801,Rosiclare,IL
-1802,Lamb,IL
-1803,Cave-in-Rock,IL
-1804,Ava,IL
-1805,Marissa,IL
-1806,Tamaroa,IL
-1807,Steeleville,IL
-1808,Beaucoup,IL
-1809,Okawville,IL
-1810,Red Bud,IL
-1811,Chillicothe,IL
-1812,Morton,IL
-1813,Metamora,IL
-1814,Washington,IL
-1815,Creve Coeur,IL
-1816,South Pekin,IL
-1817,Pekin,IL
-1818,Marquette Heights,IL
-1819,Witt,IL
-1820,Assumption,IL
-1821,Moweaqua,IL
-1822,Ramsey,IL
-1823,Freeburg,IL
-1824,Albers,IL
-1825,Aviston,IL
-1826,Breese,IL
-1827,Clinton County,IL
-1828,Posey,IL
-1829,Germantown,IL
-1831,Trenton,IL
-1832,New Baden,IL
-1833,Staunton,IL
-1834,Bartelso,IL
-1835,O'Fallon,IL
-1836,Carlyle,IL
-1837,St. Rose,IL
-1838,Valier,IL
-1839,Albion,IL
-1840,Mascoutah,IL
-1842,Beckemeyer,IL
-1844,Elmwood,IL
-1846,Bartonville,IL
-1847,Coal City,IL
-1848,St. Anne,IL
-1850,Tuscola,IL
-1851,Ridgway,IL
-1852,Equality,IL
-1853,Golconda,IL
-1854,Omaha,IL
-1855,Highland,IL
-1856,Maryville,IL
-1857,Patoka,IL
-1858,Iuka,IL
-1859,Bluford,IL
-1860,Oakawville,IL
-1861,Pinckneyville,IL
-1862,Fairfield,IL
-1863,Mt. Carmel,IL
-1864,Norris City,IL
-1865,Enfield,IL
-1866,Grayville,IL
-1867,Wayne City,IL
-1868,Palestine,IL
-1869,Flora,IL
-1870,Olney,IL
-1871,Robinson,IL
-1872,Oblong,IL
-1873,Bridgeport,IL
-1874,Carlinville,IL
-1875,Panama,IL
-1876,Greenfield,IL
-1877,New Minden,IL
-1878,Buckner,IL
-1879,West City,IL
-1880,Orient,IL
-1881,Teutopolis,IL
-1882,Toledo,IL
-1883,Jewett,IL
-1884,Altamont,IL
-1885,Brownstown,IL
-1886,Pocahontas,IL
-1887,Pierron,IL
-1888,St. Jacob,IL
-1889,Nokomis,IL
-1890,Crossville,IL
-1891,West Salem,IL
-1892,Chester,IL
-1893,Evansville,IL
-1894,Waterloo,IL
-1895,Danvers,IL
-1896,De Land,IL
-1897,Atwood,IL
-1898,Homer,IL
-1899,Rochester,IL
-1900,Cantrall,IL
-1901,Carmi,IL
-1902,Lawrenceville,IL
-1903,Grant Park,IL
-1904,Mount Prospect,IL
-1905,Glen Ellyn,IL
-1907,DuPage County,IL
-1908,Addison,IL
-1910,Bartlett,IL
-1911,Bensenville,IL
-1912,Bloomingdale,IL
-1913,Bolingbrook,IL
-1914,Burr Ridge,IL
-1916,Clarendon Hills,IL
-1917,Cloverdale,IL
-1918,Darien,IL
-1919,Downers Grove,IL
-1920,Elmhurst,IL
-1921,Eola,IL
-1922,Flowerfield,IL
-1923,Forest Park,IL
-1924,Fox Valley,IL
-1925,Franklin Park,IL
-1926,Glendale Heights,IL
-1927,Hinsdale,IL
-1928,Itasca,IL
-1929,Keeneyville,IL
-1930,Lemont,IL
-1931,Lisle,IL
-1933,Medinah,IL
-1934,Oak Brook,IL
-1935,Oakbrook Terrace,IL
-1936,Roselle,IL
-1937,Villa Park,IL
-1938,Warrenville,IL
-1939,Wayne,IL
-1940,West Chicago,IL
-1941,Westmont,IL
-1942,Wheaton,IL
-1943,Willowbrook,IL
-1944,Winfield,IL
-1945,Wood Dale,IL
-1946,Woodridge,IL
-1947,Orland Park,IL
-1948,Park Ridge,IL
-1949,Lombard,IL
-1950,Melrose Park,IL
-1951,Meredosia,IL
-1954,Nocona,TX
-1955,Seneca,KS
-1956,Eleanor,WV
-1957,Dyess,AR
-1959,Teste,TN
-1961,Wyanet,IL
-1962,Cedaredge,CO
-1964,Longmont,CO
-1966,minerva,ok
-1967,Aubrey,Tx
-1969,Tioga,TX
-1970,Gore,OK
-1971,walters,ok
-1972,Tioga,OK
-1973,Princeton,IL
-1974,Durant,OK
-1975,Skiatook,OK
-1976,blair,ok
-1977,Rantoul,IL
-1978,Purcell,OK
-1979,Bixby,OK
-1980,Lexington,OK
-1981,Madill,OK
-1982,Erick,OK
-1985,Marshall,AR
-1986,Mankato,MN
-1987,New Ulm,MN
-1990,West Portsmouth,OH
-1991,Fremont,MI
-1993,Biwabik,MN
-1994,Paynesville,MN
-1996,Bonanza,AR
-1997,Stafford,CT
-1998,Kalamazoo,MI
-1999,Brillion,WI
-2000,Waseca,MN
-2001,Granite Falls,MN
-2002,Manhattan,IL
-2003,Petersburg,KY
-2004,Throckmorton County,TX
-2006,West Point,AL
-2007,Coral Gables,FL
-2008,Mountain View,AR
-2009,San Juan Bautista,CA
-2010,Justice,IL
-2011,Caro,MI
-2012,Delmar,NY
-2014,Mequon,WI
-2015,Harvard,IL
-2016,Mansfield,IL
-2017,Piatt County,IL
-2018,La Moille,IL
-2019,Williamsville,IL
-2020,Cherry,IL
-2021,White Heath,IL
-2022,Marseilles,IL
-2023,Jasper County,IL
-2024,New Lenox,IL
-2025,Lexington,IL
-2026,Ivesdale,IL
-2027,Pittsfield,IL
-2028,Monroe County,IL
-2031,Chesterfield,IN
-2034,Attica,IN
-2035,Stinesville,IN
-2036,Mitchell,IN
-2037,Bloomer,WI
-2038,Morocco,IN
-2039,Peru,IN
-2040,Perry County,IN
-2041,Laurel,IN
-2042,Fruita,CO
-2043,Cannelton,IN
-2044,Greendale,IN
-2046,Fairmount,IN
-2047,Janesville,WI
-2048,Roanoke,IL
-2049,Gulfport,Fl
-2050,Perryton,Te
-2051,Perryton,TX
-2052,Solon,OH
-2054,Orange,TX
-2055,Anon,CA
-2056,Hooker,OK
-2057,Euclid,OH
-2058,Chesapeake,OH
-2059,Garrettsville,OH
-2060,Beverly,OH
-2061,Greenhills,OH
-2062,Pembina,ND
-2063,Grove,OK
-2065,West Liberty,OH
-2066,Boerne,TX
-2067,Ochiltree County,TX
-2068,Altamont,KS
-2069,Anthony,KS
-2070,Herington,KS
-2071,Neffs,OH
-2072,Derby,KS
-2073,De Soto,KS
-2074,Moundridge,KS
-2075,Towanda,KS
-2076,Ulysses,KS
-2077,Haskell County,KS
-2078,Mayfield,OH
-2079,Mayfield Heights,OH
-2080,Comanche County,KS
-2081,Cheyenne County,KS
-2082,Elk County,KS
-2083,Gove County,KS
-2084,Greeley County,KS
-2085,Kiowa County,KS
-2086,Lane County,KS
-2087,Lincoln County,KS
-2088,Morton County,KS
-2089,Ness County,KS
-2090,Wichita County,KS
-2091,Rawlins County,Ks
-2092,Sherman County,KS
-2093,Jewell county,KS
-2094,Mitchell County,KS
-2095,Republic County,KS
-2096,Decatur County,KS
-2097,McPherson County,KS
-2098,Woodson County,KS
-2099,Seward County,KS
-2100,Willowick,OH
-2101,Eastlake,OH
-2102,Canyon,TX
-2104,ONeill,NE
-2105,Broadview Heights,Oh
-2106,Bridgetown,Oh
-2107,Gering,NE
-2108,Holdredge,NE
-2109,Nebraska City,NE
-2110,Wymore,NE
-2111,Crete,NE
-2112,Galesburg,MI
-2113,Vicksburg,MI
-2114,Marshall,MI
-2115,Hudson,MI
-2116,Cheviot,OH
-2117,lexington,NE
-2118,Arthur County,NE
-2119,Banner County,NE
-2120,Chase County,NE
-2121,Cuming County,NE
-2122,Deuel County,NE
-2123,Brush,CO
-2124,Burlington,CO
-2125,Cherry Hill Village,CO
-2126,Craig,CO
-2127,Delta,CO
-2128,Evans,CO
-2129,Bad Axe,MI
-2130,Harbor Beach,MI
-2131,Brown City,MI
-2132,Marlette,MI
-2133,Dixon County,NE
-2134,Dundy County,NE
-2135,Franklin County,NE
-2136,Garden County,NE
-2137,Garfield County,NE
-2138,Gosper County,NE
-2139,Hayes County,NE
-2140,Hooker County,NE
-2141,Johnson County,NE
-2142,Dearborn Heights,MI
-2143,Fort Thomas,KY
-2144,Marshall County,KY
-2145,Redwood Falls,MN
-2146,Stillwater,MN
-2147,Caneyville,KY
-2148,Lumberton,TX
-2149,Kearney County,NE
-2150,Loup County,NE
-2151,McPherson County,NE
-2152,Nance County,NE
-2153,Colfax County,NE
-2155,Marysville,MI
-2156,Marine City,MI
-2157,Greeley County,NE
-2158,Keith County,NE
-2159,Platte County,NE
-2160,Seward County,NE
-2161,Logan County,NE
-2162,Saunders County,NE
-2163,Nuckolls County,NE
-2164,Dawson County,NE
-2165,Harlan County,NE
-2166,Nemaha County,NE
-2167,Sheridan County,NE
-2168,Merrick County,NE
-2169,Sarpy County,NE
-2170,York County,NE
-2171,Cherry County,NE
-2172,Lincoln County,NE
-2173,Madison County,NE
-2174,Red Willow County,NE
-2175,Dawes County,NE
-2176,Richardson County,NE
-2177,Otoe County,NE
-2178,Buffalo County,NE
-2179,Dodge County,NE
-2180,Gage County,NE
-2181,Fraser,MI
-2182,New Baltimore,MI
-2183,Richmond,MI
-2184,Rockford,MI
-2185,Rockwood,MI
-2186,Utica,MI
-2187,St. Clair,MI
-2188,Menominee,MI
-2189,Algonac ,MI
-2190,Adams County,NE
-2191,Scotts Bluff,NE
-2192,Hall County,NE
-2193,Box Butte,NE
-2194,Lancaster County,NE
-2195,Douglas County,NE
-2196,Hudson,OH
-2197,Sheffield Lake,OH
-2198,Rocky River,OH
-2199,Bedford,OH
-2200,Bay Village,OH
-2201,Brunswick,OH
-2202,Covedale CDP,OH
-2203,St. Bernard,OH
-2204,Canadian,TX
-2205,Grant County,NE
-2206,Perkins County,NE
-2207,Rock County,NE
-2208,Thomas County,NE
-2209,Valley County,NE
-2210,Frontier County,NE
-2211,Hitchcock County,NE
-2212,Kimball County,NE
-2213,Pierce County,NE
-2214,Blaine County,NE
-2215,Furnas County,NE
-2216,Brown County,NE
-2217,Pawnee County,NE
-2218,Phelps County,NE
-2219,Wayne County,NE
-2220,Boyd County,NE
-2221,Sherman County,NE
-2222,Howard County,NE
-2223,Boone County,NE
-2224,Sioux County,NE
-2225,Stanton County,NE
-2226,Webster County,NE
-2227,Thayer County,NE
-2228,Polk County,NE
-2229,Clay County,NE
-2230,Fillmore County,NE
-2231,Keya Paha County,NE
-2232,Holt County,NE
-2233,Knox County,NE
-2234,Morrill County,NE
-2235,Hamilton County,NE
-2236,Wheeler County,NE
-2237,Saline County,NE
-2238,Jackson,NE
-2239,Harrison ,NE
-2240,Alamo,TX
-2242,Brownsville,TX
-2243,Benavides,TX
-2245,Cotulla,TX
-2246,Donna,TX
-2247,Dalhart,TX
-2248,Dumas,TX
-2249,Edcouch,TX
-2250,Hico,TX
-2251,Hamilton,TX
-2252,Hereford,TX
-2253,Highlands,TX
-2254,Hillcrest,TX
-2255,Jacinto City,TX
-2256,Lake Jackson,TX
-2257,Lakeview,TX
-2258,Oak Knoll,TX
-2259,White Settlement,TX
-2260,Phillips,TX
-2261,Fremont,TX
-2262,Rio Grande City,TX
-2263,River Oaks,TX
-2264,San Diego,TX
-2265,San Juan,TX
-2266,Spearman,TX
-2267,Stinnett,TX
-2269,West Orange,TX
-2270,Pharr,TX
-2271,Climax,MI
-2272,Lexington,MI
-2273,Linden,MI
-2274,Mancelona,MI
-2275,Manistique,MI
-2276,Traverse City,MI
-2277,Trenton,MI
-2278,Wixom ,MI
-2279,Armstrong County,TX
-2280,Briscoe County,TX
-2281,Carson County,TX
-2282,Castro County,TX
-2283,Childress County,TX
-2284,Collingsworth County,TX
-2285,Deaf Smith,TX
-2286,Deaf Smith County,TX
-2287,Donley County,TX
-2288,Gray County,TX
-2289,Hall County,TX
-2290,Hansford County,TX
-2291,Hartley County,TX
-2292,Hemphill County,TX
-2293,Hutchinson County,TX
-2294,Lipscomb County,TX
-2295,Moore County,TX
-2296,Oldham County,TX
-2297,Parmer County,TX
-2298,Potter County,TX
-2299,Randall County,TX
-2300,Roberts County,TX
-2301,Sherman County,TX
-2302,Swisher County,TX
-2303,Pinckney,MI
-2304,Ishpeming,MI
-2305,Ontonagon,MI
-2306,Munising,MI
-2307,Marquette,MI
-2308,Bessemer,MI
-2309,Sebewaing,MI
-2310,Ferguson,MO
-2311,Winnie,TX
-2312,Port Neches,TX
-2313,Nederland,TX
-2314,Bevil Oaks,TX
-2315,Pinewood Estates,TX
-2316,Evadale,TX
-2317,Porter Heights,TX
-2320,Advance,IN
-2321,Albany,IN
-2322,Albion,IN
-2323,Argos,IN
-2324,Austin,IN
-2325,Avilla,IN
-2326,Bloomfield,IN
-2327,Boswell ,IN
-2328,Bourbon,IN
-2329,Bremen,IN
-2330,Brooklyn,IN
-2331,Burnettsville,IN
-2332,Butler City,IN
-2333,Camden,IN
-2334,Campbellsburg,IN
-2335,Carmel,IN
-2336,Cayuga,IN
-2337,Cicero,IN
-2338,Clay City,IN
-2339,Converse,IN
-2340,Covington,IN
-2341,Crothersville,IN
-2342,Dale,IN
-2343,Daleville,IN
-2344,Danville,IN
-2345,Delphi,IN
-2346,Dillsboro,IN
-2347,Dublin,IN
-2348,Dugger,IN
-2349,Dyer,IN
-2350,Eaton,IN
-2351,Ellettsville,IN
-2352,Elnora,IN
-2354,Fairview Park,IN
-2355,Farmersburg,IN
-2356,Farmland,IN
-2357,Ferdinand,IN
-2358,Flora,IN
-2359,Sheridan County,KS
-2360,Stanton County,KS
-2361,Rush County,KS
-2362,Clark County,KS
-2363,Thomas County,KS
-2364,Kearney County,KS
-2365,Gray County,KS
-2366,Stevens County,KS
-2367,Logan County,KS
-2368,Fort Branch,IN
-2369,Fortville,IN
-2370,Francesville,IN
-2371,Frankton,IN
-2372,Fremont,IN
-2375,Galena ,IN
-2376,Goodland,IN
-2377,Greentown,IN
-2378,Hartford City,IN
-2379,Haubstadt,IN
-2380,Hebron,IN
-2381,Highland,IN
-2382,Hope,IN
-2383,Huntingburg,IN
-2384,Jasonville,IN
-2385,Jonesboro,IN
-2386,Kendallville,IN
-2387,Kentland,IN
-2388,Kouts,IN
-2389,Ladoga,IN
-2390,LaGrange,IN
-2391,Lapel,IN
-2392,Leavenworth,IN
-2393,Ligonier,IN
-2394,Loogootee,IN
-2395,Lynn,IN
-2396,Barber County,KS
-2397,Cloud County,KS
-2398,Wallace County,KS
-2399,Trego County,KS
-2400,Ford County,KS
-2401,Hamilton County,KS
-2402,Rooks County,KS
-2403,Finney County,KS
-2404,Ellis County,KS
-2405,Ottawa County,KS
-2406,Edwards County,KS
-2407,Butler County,KS
-2408,Marengo,IN
-2409,Middlebury,IN
-2410,Middletown,IN
-2411,Milltown,IN
-2412,Milton,IN
-2413,Monon,IN
-2414,Monroeville,IN
-2415,Montezuma,IN
-2416,Montpelier,IN
-2417,Morristown,IN
-2418,Mulberry,IN
-2419,Munster,IN
-2420,Nappanee ,IN
-2421,New Carlisle,IN
-2422,New Chicago,IN
-2423,New Haven,IN
-2424,New Paris,IN
-2425,New Pekin,IN
-2426,Odon,IN
-2427,Orleans,IN
-2428,Osceola,IN
-2429,Osgood,IN
-2430,Ossian,IN
-2431,Owensville,IN
-2432,Oxford,IN
-2433,Parker City,IN
-2434,Petersburg,IN
-2435,Plymouth,IN
-2436,Porter,IN
-2437,Redkey,IN
-2438,Rensselaer,IN
-2439,Ridgeville,IN
-2440,Roanoke,IN
-2441,Rochester,IN
-2442,Rome City,IN
-2443,Rossville,IN
-2444,Royal Center,IN
-2445,Russiaville,IN
-2446,Schererville,IN
-2447,Seelyville,IN
-2448,Shelburn,IN
-2449,Shirley,IN
-2450,Shoals,IN
-2451,St. John,IN
-2452,Syracuse,IN
-2453,Thorntown,IN
-2454,Trail Creek,IN
-2455,Tri-Lakes,IN
-2456,Van Buren,IN
-2457,Veedersburg,IN
-2458,Versailles,IN
-2459,Walkerton,IN
-2460,Walton,IN
-2461,Waterloo,IN
-2462,West Lafayette,IN
-2463,Whiteland,IN
-2464,Williamsport,IN
-2465,Winamac,IN
-2466,Windfall City,IN
-2467,Winslow,IN
-2468,Wolcott,IN
-2469,Woodburn,IN
-2470,Worthington,IN
-2471,Yorktown,IN
-2472,Osborne County,KS
-2473,Rice County,KS
-2474,Ellsworth County,KS
-2475,Pawnee County,KS
-2476,Hodgeman County,KS
-2477,Dickinson County,KS
-2478,Phillips County,KS
-2479,Greenwood County,KS
-2480,Sumner County,KS
-2481,Chase County,KS
-2482,Pratt County,KS
-2483,Coffey County,KS
-2484,Arkoma,OK
-2485,Everman,TX
-2486,Sidell,IL
-2487,Stroud,OK
-2488,Taft,OK
-2493,Smith,IL
-2494,Smith,IL
-2498,St. Marys,WV
-2499,Belington,WV
-2500,Lincoln County,WV
-2502,Shannondale,WV
-2504,Folcroft,PA
-2505,Cohoes,NY
-2506,Green Island,NY
-2507,Pleasantville,NY
-2508,Irondequoit ,NY
-2509,Penfield,NY
-2510,Johnsburg,NY
-2511,Shenandoah,PA
-2512,Royersford,PA
-2513,Bradford,PA
-2514,Levittown,PA
-2515,Locust Gap,PA
-2516,Boyertown,PA
-2517,Manheim,PA
-2518,Susquehanna,PA
-2519,Johnstown,PA
-2520,Mechanicsburg,PA
-2521,Bellwood,PA
-2522,Stoneboro,PA
-2523,Coatsville,PA
-2524,Elizabethtown,PA
-2525,Everett,PA
-2526,Milton,WV
-2527,Maple Bluff,WI
-2528,River Hills,WI
-2529,Baraboo,WI
-2530,Chetek,WI
-2531,Roxana,IL
-2532,Plainfield,CT
-2533,East Haven,CT
-2534,Quincy,MA
-2535,Weston,CT
-2536,Burlington,CT
-2538,Allen Park,MI
-2539,Taylor,MI
-2540,La Crosse,WI
-2541,Greenfield,WI
-2542,Sparta,WI
-2543,Brookfield,WI
-2544,Brown Deer,WI
-2545,New Berlin,WI
-2546,St. Francis,WI
-2547,Glendale,WI
-2548,Grand Rapids,WI
-2549,Monona,WI
-2550,Menomonee Falls,WI
-2551,Onalaska,WI
-2552,Portage,WI
-2554,Bayside,WI
-2555,Abbotsford,WI
-2556,Adams,WI
-2557,Alma,WI
-2558,Amery,WI
-2559,Arcadia,WI
-2560,Augusta,WI
-2561,Baldwin,WI
-2562,Barton,WI
-2563,Butler,WI
-2564,Campbellsport,WI
-2565,Cassville,WI
-2566,Cedar Grove,WI
-2568,Colby,WI
-2569,Cornell,WI
-2570,Clinton,WI
-2571,Cottage Grove ,WI
-2572,Cottage Grove (town),WI
-2573,Crandon,WI
-2574,Cross Plains ,WI
-2575,Cuba City,WI
-2576,Cumberland,WI
-2577,Darlington,WI
-2578,De Forest,WI
-2580,Delavan Lake,WI
-2581,Denmark,WI
-2582,Durand,WI
-2583,Eagle River,WI
-2584,East Troy,WI
-2585,Ellsworth,WI
-2586,Elroy,WI
-2587,Fennimore,WI
-2588,Fontana on Geneva Lake,WI
-2589,Galesville,WI
-2590,Genoa City,WI
-2591,Gillett,WI
-2592,Greenwood,WI
-2593,Hayward,WI
-2594,Hillsboro,WI
-2595,Hortonville,WI
-2596,Juneau,WI
-2597,Kewaskum,WI
-2598,Kohler,WI
-2599,Lannon,WI
-2600,Lodi,WI
-2601,Loyal,WI
-2602,Manawa,WI
-2603,Marathon,WI
-2604,Marion,WI
-2605,Markesan,WI
-2606,Mazomanie,WI
-2607,Mellen,WI
-2608,Montello,WI
-2609,Montreal,WI
-2610,New Glarus,WI
-2611,New Lisbon,WI
-2612,Niagara,WI
-2613,North Hudson,WI
-2614,Oostburg,WI
-2615,Osseo,WI
-2616,Owen,WI
-2617,Palmyra (village),WI
-2618,Palmyra (town),WI
-2619,Pardeeville,WI
-2620,Phillips,WI
-2621,Port Edwards,WI
-2622,Poynette,WI
-2623,Prairie du Sac,WI
-2624,Princeton ,WI
-2625,Pulaski,WI
-2626,Randolph,WI
-2627,St. Croix Falls,WI
-2628,Saukville,WI
-2629,Sharon,WI
-2630,Shell Lake,WI
-2631,Shullsburg,WI
-2632,Silver Lake,WI
-2633,Spring Green,WI
-2634,Stratford,WI
-2635,Thorp,WI
-2636,Twin Lakes,WI
-2637,Verona,WI
-2638,Walworth,WI
-2639,Waterford,WI
-2640,Waterloo,WI
-2641,Waunakee,WI
-2642,Wautoma,WI
-2643,Westby,WI
-2644,West Salem,WI
-2645,Weyauwega,WI
-2646,Whitehall,WI
-2647,Whiting,WI
-2648,Williams Bay,WI
-2649,Wind Lake,WI
-2650,Winneconne,WI
-2651,Wisconsin Dells,WI
-2652,Utica,OH
-2653,Portage,MI
-2654,Hartford,MI
-2655,White Pigeon,MI
-2656,Big Star Lake,MI
-2657,Sterling Heights,MI
-2658,Lathrup Village,MI
-2659,Troy,MI
-2660,Coopersville,MI
-2662,new,AL
-2663,Adams,PA
-2664,Albany,PA
-2665,Allegheny ,PA
-2666,Alsace ,PA
-2667,Amity,PA
-2668,Archbald ,PA
-2669,Ashland,PA
-2670,Arthurdale,WV
-2677,Flushing,MI
-2678,Chazy,NY
-2679,Defiance,OH
-2680,Marion,OH
-2681,Beavercreek,OH
-2682,Cridersville,OH
-2683,Enon,OH
-2684,Lodi,OH
-2685,Willoughby,OH
-2687,Linglestown,PA
-2688,York County,PA
-2689,Hazleton,PA
-2691,Voorheesville,NY
-2692,Glen Head,NY
-2693,Pelham Manor,NY
-2694,Nunda,NY
-2695,Westchester County,NY
-2696,Miller Place,NY
-2697,Yaphank,NY
-2698,Hamburg,NY
-2699,Marblehead,MA
-2700,Groton,MA
-2701,Alba,TX
-2702,Tecumseh,OK
-2703,Moore,OK
-2704,Noble,OK
-2705,AAA,AL
-2706,Garwood,NJ
-2707,Baker,NJ
+8,Anna,IL,Surely
+9,Glendale,PA,
+11,Mize,MS,Surely
+12,Baxterville,MS,Possible
+13,d'Iberville,MS,Possible
+14,Clinton,MS,Unlikely
+15,Pearl,MS,Possible
+16,Southaven,MS,Possible
+17,Burnsville,MS,Probable
+18,Belmont,MS,Possible
+19,Buchanan County,VA,Probable
+20,Colonial Heights,VA,Probable
+21,Inglewood,CA,Surely
+22,Hawthorne,CA,Surely
+23,Chester,WV,Probable
+24,Follansbee,WV,Probable
+25,Kenova,WV,Possible
+26,McMechen,WV,Possible
+27,It,MS,Possible
+29,Mound Bayou,MS,Black Town or Township
+30,Renova,MS,Black Town or Township
+31,New Bethlehem,PA,Possible
+32,Warren,PA,Possible
+33,New Africa,MS,Black Town or Township
+34,Winstonville,MS,Black Town or Township
+35,Expose,MS,Black Town or Township
+36,Corry,PA,Probable
+37,Punxsutawney,PA,Don't Know
+39,Millvale,PA,Possible
+40,General,MS,
+42,Falls Church,VA,Unlikely
+43,Clintwood,VA,Probable
+44,Elkton,VA,Possible
+45,Fieldale,VA,Possible
+46,Narrows,VA,Possible
+48,Grundy,VA,Surely
+49,Weber City,VA,Possible
+50,Poquoson,VA,Possible
+51,Richlands,VA,Probable
+52,Wise,VA,Probable
+53,South St. Paul,MN,Possible
+56,Worthington,MN,Possible
+57,Pine Island,MN,Probable
+58,St. Louis Park,MN,Surely
+60,Red Wing,MN,Possible
+61,Cannon Falls,MN,Possible
+62,New Brighton,MN,Don't Know
+63,Coleraine,MN,Probable
+64,Marshall,MN,Possible
+65,Albert Lea,MN,Possible
+66,Appleton,MN,Possible
+67,Austin,MN,Surely
+68,Edina,MN,Surely
+69,Princeton,SC,Possible
+70,Salem,SC,Possible
+71,Folly Beach,SC,Possible
+72,Isle of Palms,SC,Possible
+74,Moncks Corner,SC,Surely
+75,Shandon,SC,Possible
+76,Ellenton,SC,Possible
+77,Hamburg,SC,Possible
+78,Maryville,SC,Black Town or Township
+79,Georgetown,SC,Don't Know
+80,Brooklyn,OH,Possible
+81,Cuyahoga Falls,OH,Probable
+83,Miamisburg,OH,Probable
+84,Napoleon,OH,Probable
+85,Shawnee,OH,Probable
+86,Ada,OH,Possible
+87,Clymer,PA,Probable
+88,Camp Hill,PA,Probable
+90,Avon,OH,Possible
+91,Avon Lake,OH,Probable
+92,Bellevue,OH,Possible
+93,Blanchester,OH,Possible
+94,Brookville,OH,Possible
+95,Bryan,OH,Possible
+96,Canfield,OH,Possible
+97,Carey,OH,Possible
+98,Carrollton,OH,Possible
+99,Celina,OH,Probable
+100,Chagrin Falls,OH,Probable
+101,Chardon,OH,Possible
+102,Clyde,OH,Possible
+103,Coal Grove,OH,Probable
+104,Coldwater,OH,Possible
+105,Columbiana,OH,Probable
+106,Crooksville,OH,Possible
+107,Deer Park,OH,Possible
+108,Delphos,OH,Possible
+109,Germantown,OH,Possible
+110,Gibsonburg,OH,Possible
+111,Grove City,OH,Possible
+112,Harrison,OH,Possible
+113,Hicksville,OH,Possible
+114,Hubbard,OH,Possible
+115,Huron,OH,Probable
+116,Independence,OH,Probable
+117,Jefferson,OH,Possible
+118,Johnstown,OH,Possible
+119,Lakemore,OH,Possible
+120,Loudonville,OH,Probable
+121,Louisville,OH,Probable
+122,McDonald,OH,Possible
+123,Mariemont,OH,Possible
+124,Millersburg,OH,Possible
+125,Minerva,OH,Possible
+126,Mogadore,OH,Probable
+127,Montpelier,OH,Possible
+128,Mount Gilead,OH,Probable
+129,New Boston,OH,Probable
+131,New Lexington,OH,Probable
+132,Newton Falls,OH,Possible
+133,Hershey,PA,Possible
+134,North Baltimore,OH,Probable
+135,Oak Harbor,OH,Probable
+136,Johnston,PA,
+137,Hanover,PA,Probable
+138,Mount Lebanon,PA,Possible
+139,Canadensis,PA,Surely
+140,Ottawa,OH,Possible
+141,Poland,OH,Possible
+142,Rittman,OH,Probable
+143,Seven Hills,OH,Possible
+144,Shadyside,OH,Probable
+145,Shelby,OH,Probable
+147,Silver Lake,OH,Probable
+148,Strongsville,OH,Possible
+149,South Lebanon,OH,Probable
+150,Sylvania,OH,Probable
+151,Trenton,OH,Possible
+152,Upper Sandusky,OH,Probable
+153,Vermilion,OH,Possible
+154,Wapakoneta,OH,Probable
+155,Wauseon,OH,Probable
+156,West Milton,OH,Possible
+157,Wheelersburg,OH,Possible
+158,Woodsfield,OH,Probable
+161,Fairborn,OH,Possible
+162,Fairview,OH,Possible
+163,Galion,OH,Possible
+164,Kettering,OH,Possible
+165,Lakewood,OH,Possible
+166,Lyndhurst,OH,Possible
+167,North Olmsted,OH,Possible
+168,Norwood,OH,Possible
+169,Parma,OH,Surely
+170,Parma Heights,OH,Possible
+171,Reading,OH,Probable
+172,Stow,OH,Possible
+173,Tallmadge,OH,Possible
+174,University Heights,OH,Possible
+175,Alger,OH,Probable
+176,Upper Arlington,OH,Possible
+177,Westlake,OH,Possible
+178,Warrensville Heights,OH,Possible
+179,Ansonia,OH,Probable
+180,Antwerp,OH,Probable
+181,Arcanum,OH,Probable
+182,Ashville,OH,Probable
+183,South Amherst,OH,Possible
+184,Tipp City,OH,Possible
+185,Mount Sterling,OH,Probable
+186,Oakwood,OH,Possible
+187,Bethel,OH,Possible
+189,Waldwick,NJ,Possible
+190,Allendale,NJ,Possible
+192,Ridgewood,NJ,Possible
+193,Radburn,NJ,Possible
+194,Fair Lawn,NJ,Probable
+196,Haddonfield,NJ,Don't Know
+197,Long Valley,NJ,Possible
+198,Levittown/Willingboro,NJ,Surely
+199,Hamilton Township,NJ,Possible
+200,Cherry Hill,NJ,Possible
+201,Clark,NJ,Surely
+202,Clifton,NJ,Possible
+203,Dividing Creek,NJ,Possible
+204,Seaside Park,NJ,Probable
+205,Somerset,NJ,Possible
+206,Green Brook,NJ,Possible
+207,Hillside,NJ,Possible
+208,Tenafly,NJ,Possible
+209,Paterson,NJ,Unlikely
+210,Princeton,NJ,Unlikely
+212,Alloway,NJ,Possible
+214,Mahwah,NJ,Possible
+215,Saddle River,NJ,Possible
+216,Llewellyn Park,NJ,Possible
+217,Ocean Grove,NJ,Possible
+218,Attica,NY,Probable
+219,Cooperstown,NY,Possible
+220,Cold Spring,NY,Probable
+222,Johnson City,NY,Probable
+223,Mexico,NY,Possible
+225,Roscoe,NY,Possible
+227,Bennington,NY,Possible
+228,Whitesboro,NY,Probable
+229,West Elmira,NY,Possible
+230,Elmont,NY,Don't Know
+232,Belle Terre,NY,Possible
+234,Saratoga Springs,NY,Possible
+235,Rochester,NY,Unlikely
+236,Brighton,NY,Possible
+237,Buffalo,NY,Always Biracial
+238,Amherst,NY,Possible
+239,Orchard Park,NY,Possible
+240,Tonawanda,NY,Possible
+241,North Tonawanda,NY,Surely
+242,New York,NY,Always Biracial
+243,Yonkers,NY,Don't Know
+244,Bronxville,NY,Possible
+245,Scarsdale,NY,Unlikely
+246,Tuxedo Park,NY,Surely
+247,Sun City,AZ,Possible
+248,Youngtown,AZ,Possible
+249,Bisbee,AZ,Probable
+250,Duncan,AZ,Surely
+251,Globe,AZ,Probable
+252,Prescott,AZ,Probable
+253,Scottsdale,AZ,Probable
+255,Colorado Springs,CO,Possible
+256,Durango,CO,Possible
+264,Reynoldsburg,OH,Possible
+265,Niles,OH,Probable
+266,Smithtown,NY,Don't Know
+267,Sayville,NY,Possible
+268,Seaford,NY,Possible
+270,Oceanside,NY,Possible
+271,Valley Stream,NY,Possible
+272,Levittown,NY,Surely
+273,Garden City,NY,Possible
+274,Roosevelt,NY,Possible
+276,North Amityville,NY,Black Town or Township
+278,Sea Cliff,NY,Surely
+279,Lynchburg,OH,Probable
+280,Findlay,OH,
+281,Bluffton,OH,Possible
+282,Caldwell,OH,Probable
+283,St. Marys,OH,Possible
+284,Fort Recovery,OH,Possible
+285,Middletown,OH,Possible
+286,Ottawa Hills,OH,Possible
+287,Syracuse,OH,Surely
+288,Corning,OH,Probable
+289,Waverly,OH,Surely
+290,Williamsburg,OH,Probable
+291,Strasburg,OH,Probable
+292,Marmet,WV,Possible
+293,New Martinsville,WV,Probable
+294,Nitro,WV,Possible
+295,Oak Hill,WV,Possible
+296,Marlinton,WV,Possible
+297,Cookeville,TN,Possible
+298,Crossville,TN,Probable
+299,Ducktown,TN,Probable
+300,Englewood,TN,Probable
+301,Gatlinburg,TN,Probable
+302,Erwin,TN,Probable
+303,Jamestown,TN,Probable
+304,Lafayette,TN,Probable
+305,Lenoir City,TN,Possible
+306,Monterey,TN,Probable
+307,Norris,TN,Probable
+308,Oneida,TN,Probable
+309,Tracy City,TN,Probable
+310,Waynesboro,TN,Probable
+311,East Ridge,TN,Possible
+312,Signal Mountain,TN,Probable
+313,Celina,TN,Possible
+314,Soddy-Daisy,TN,Possible
+315,Dunlap,TN,Probable
+316,Fairview,TN,Possible
+317,Greenbrier,TN,Possible
+318,Palmer,TN,Probable
+319,Copperhill,TN,Probable
+320,General,TN,
+321,North Chattanooga,TN,Surely
+330,Tybee Island,GA,Don't Know
+332,Avondale Estates,GA,Possible
+333,Chamblee,GA,Probable
+334,Palmetto,GA,Possible
+335,Watkinsville,GA,Don't Know
+347,Baxter,TN,Possible
+348,Benton,KY,Probable
+349,Dayton,KY,Probable
+350,Corbin,KY,Probable
+351,Bellevue,KY,Probable
+352,Erlanger,KY,Possible
+353,Paintsville,KY,Probable
+354,Park Hills,KY,Probable
+355,Prestonsburg,KY,Possible
+356,Russell Springs,KY,Possible
+357,Albany,KY,Probable
+358,Ludlow,KY,Probable
+359,Bromley,KY,Possible
+360,Clay,KY,Probable
+361,Olive Hill,KY,Possible
+362,General,UT,
+363,Corinne,UT,Probable
+364,Bingham,UT,Possible
+365,Brigham City,UT,Possible
+366,Murray,UT,Probable
+367,Carbon,UT,Possible
+368,Blanding,UT,Possible
+369,Salt Lake City,UT,Always Biracial
+370,Bluffdale,UT,Possible
+371,Price,UT,Surely
+372,Eagle Mountain,UT,Possible
+373,Elkhorn City,KY,Probable
+374,Florence,KY,Possible
+375,Fort Mitchell,KY,Possible
+376,Highland Heights,KY,Possible
+377,Martin,KY,Possible
+378,Mount Vernon,KY,Probable
+379,North Corbin,KY,Probable
+380,Parkway Village,KY,Possible
+381,Raceland,KY,Probable
+382,Russell,KY,Probable
+383,Salyersville,KY,Probable
+384,Shively,KY,Possible
+385,Southgate,KY,Probable
+386,Van Lear,KY,Possible
+387,Whitesburg,KY,Probable
+388,Worthington,KY,Probable
+389,Alexandria,KY,Possible
+390,Audubon Park,KY,Possible
+391,Beechwood Village,KY,Probable
+392,Brodhead,KY,Possible
+393,Calvert City,KY,Possible
+394,Cold Spring,KY,Possible
+395,Centertown,KY,Probable
+396,Burnside,KY,Probable
+397,Irvine,KY,Possible
+398,Jeffersonville,KY,Possible
+399,Liberty,KY,Possible
+400,Livermore,KY,Possible
+401,Catlettsburg,KY,Possible
+402,Silver Grove,KY,Probable
+403,Williamstown,KY,Possible
+404,Edgewood,KY,Possible
+405,Loyall,KY,Probable
+406,Lynnview,KY,Possible
+407,Meadow Vale,KY,Possible
+408,Minor Lane Heights,KY,Possible
+409,Mount Washington,KY,Possible
+410,St. Regis Park,KY,Possible
+411,Stanton,KY,Probable
+412,Vanceburg,KY,Possible
+413,Windy Hills,KY,Possible
+414,London,KY,Possible
+415,Augusta,KS,Probable
+416,Arma,KS,Probable
+417,Ashland,KS,Possible
+418,Atwood,KS,Probable
+419,Belle Plaine,KS,Probable
+420,Belleville,KS,Probable
+421,Beloit,KS,Probable
+423,Blue Rapids,KS,Possible
+424,Burlingame,KS,Probable
+425,Burlington,KS,Possible
+426,Caney,KS,Probable
+427,Chapman,KS,Possible
+428,Cheney,KS,Probable
+429,Cimarron,KS,Probable
+430,Clearwater,KS,Possible
+431,Clyde,KS,Probable
+432,Colby,KS,Possible
+433,Coldwater,KS,Probable
+434,Conway Springs,KS,Probable
+435,Dighton,KS,Probable
+436,Douglass,KS,Probable
+437,Elkhart,KS,Probable
+438,Ellinwood,KS,Probable
+439,Enterprise,KS,Possible
+440,Erie,KS,Possible
+441,Eureka,KS,Probable
+442,Frontenac,KS,Probable
+443,Greensburg,KS,Probable
+444,Halstead,KS,Probable
+445,Hays,KS,Probable
+446,Howard,KS,Probable
+447,Hoxie,KS,Probable
+448,Kiowa,KS,Probable
+449,La Crosse,KS,Probable
+450,Lakin,KS,Probable
+451,Leoti,KS,Probable
+452,Lincoln Center,KS,Probable
+453,Madison,KS,Probable
+454,Mankato,KS,Probable
+455,Marion,KS,Possible
+456,Meade,KS,Probable
+457,Ness City,KS,Probable
+458,Nickerson,KS,Probable
+459,Lindsborg,KS,Probable
+460,Marysville,KS,Possible
+461,Mulvane,KS,Probable
+462,Neodesha,KS,Probable
+463,Norton,KS,Probable
+464,Oberlin,KS,Probable
+465,St. Francis,KS,Probable
+466,Scott City,KS,Possible
+467,Smith Center,KS,Probable
+468,Solomon,KS,Probable
+469,Stafford,KS,Probable
+470,Sublette,KS,Probable
+471,Tribune,KS,Probable
+472,Victoria,KS,Probable
+473,Washington,KS,Probable
+474,Harper,KS,Probable
+475,Wilson,KS,Possible
+476,Yates Center,KS,Probable
+477,Hoisington,KS,Possible
+478,Cedar Vale,KS,Possible
+479,Scammon,KS,Possible
+480,Poultney,VT,Possible
+481,Swanton,VT,Possible
+482,Bellows Falls,VT,Possible
+483,Waterbury,VT,Possible
+484,Morrisville,VT,Probable
+485,Tunbridge,VT,Probable
+486,Pulaski County,IL,Unlikely
+487,Kaolin,IL,Surely
+488,Goreville,IL,Probable
+489,Alto Pass,IL,Surely
+490,Elco,IL,Surely
+491,Wolf Lake,IL,Surely
+492,Belknap,IL,Surely
+493,Vienna,IL,Surely
+494,Campbell Hill,IL,Surely
+495,Dongola,IL,Probable
+496,McClure,IL,Probable
+497,Karnak,IL,Probable
+498,Jonesboro,IL,Surely
+499,Arcola,IL,Surely
+500,Arlington Heights,IL,Probable
+501,DeKalb,IL,Possible
+502,Winnebago,IL,Possible
+503,Bellwood,IL,Probable
+504,Algoma,WI,Possible
+505,Antigo,WI,Possible
+506,Berlin,WI,Possible
+507,Black River Falls,WI,Possible
+509,Burlington,WI,Possible
+511,Clintonville,WI,Possible
+512,Columbus,WI,Possible
+513,De Pere,WI,Possible
+514,Dodgeville,WI,Possible
+515,Edgerton,WI,Possible
+516,Elkhorn,WI,Possible
+517,Evansville,WI,Probable
+518,Fort Atkinson,WI,Possible
+519,Greendale,WI,Possible
+520,Hartford,WI,Possible
+521,Horicon,WI,Possible
+522,Hudson,WI,Possible
+523,Hurley,WI,Possible
+524,Jefferson,WI,Possible
+525,Kaukauna,WI,Possible
+526,Kewaunee,WI,Probable
+527,Kimberly,WI,Possible
+528,Ladysmith,WI,Possible
+529,Lake Mills,WI,Possible
+530,Lancaster,WI,Possible
+531,Little Chute,WI,Possible
+532,Mauston,WI,Possible
+533,Mayville,WI,Possible
+534,Medford,WI,Possible
+535,Menomonie,WI,Possible
+536,Merrill,WI,Possible
+537,Monroe,WI,Possible
+538,Neillsville,WI,Possible
+539,New London,WI,Possible
+540,New Richmond,WI,Possible
+541,Oconomowoc,WI,Possible
+542,Oconto,WI,Possible
+543,Park Falls,WI,Possible
+544,Platteville,WI,Possible
+545,Plymouth,WI,Possible
+547,Prairie du Chien,WI,Possible
+548,Reedsburg,WI,Possible
+549,Rhinelander,WI,Possible
+550,Rice Lake,WI,Possible
+551,Richland Center,WI,Possible
+552,Ripon,WI,Possible
+553,River Falls,WI,Possible
+554,Shawano,WI,Possible
+555,Two Rivers,WI,Possible
+556,Spooner,WI,Possible
+557,Stoughton,WI,Possible
+559,Tomah,WI,Possible
+560,Tomahawk,WI,Possible
+561,Viroqua,WI,Possible
+562,Lake Geneva,WI,Probable
+563,Waupaca,WI,Possible
+564,West Bend,WI,Probable
+565,West Milwaukee,WI,Possible
+566,Appleton,WI,Surely
+567,Whitewater,WI,Possible
+568,Ashland,WI,Probable
+569,Beaver Dam,WI,Probable
+570,Cudahy,WI,Possible
+571,Fond du Lac,WI,Possible
+572,Port Washington,WI,Probable
+573,Manitowoc,WI,Probable
+574,Marshfield,WI,Possible
+575,Menasha,WI,Probable
+576,Neenah,WI,Possible
+577,Sheboygan,WI,Possible
+578,South Milwaukee,WI,Probable
+579,Stevens Point,WI,Probable
+580,Watertown,WI,Possible
+581,Wausau,WI,Probable
+582,Wauwatosa,WI,Probable
+583,West Allis,WI,Possible
+584,Mineral Point,WI,Possible
+585,Eau Claire,WI,Possible
+586,Green Bay,WI,Possible
+587,Washburn,WI,Possible
+588,Chippewa Falls,WI,Possible
+589,Shorewood,WI,Possible
+590,Stanley,WI,Possible
+591,Marinette,WI,Probable
+592,Whitefish Bay,WI,Possible
+593,Wisconsin Rapids,WI,Probable
+594,Boscobel,WI,Possible
+595,Chilton,WI,Possible
+596,Elm Grove,WI,Possible
+597,Grafton,WI,Possible
+598,Hales Corners,WI,Possible
+599,Howard,WI,Possible
+600,Kiel,WI,Possible
+601,Middleton,WI,Possible
+602,Nekoosa,WI,Possible
+603,North Fond du Lac,WI,Probable
+604,Peshtigo,WI,Possible
+605,Rothschild,WI,Possible
+606,Schofield,WI,Possible
+607,Sun Prairie,WI,Possible
+608,Thiensville,WI,Possible
+609,Muskego,WI,Possible
+610,Altoona,WI,Possible
+612,Brodhead,WI,Possible
+613,Combined Locks,WI,Probable
+614,Delafield,WI,Possible
+615,Hartland,WI,Possible
+616,Milton,WI,Possible
+617,New Holstein,WI,Possible
+618,Oconto Falls,WI,Probable
+619,Okauchee Lake,WI,Possible
+620,Oregon,WI,Possible
+621,Pewaukee,WI,Possible
+622,Sturtevant,WI,Possible
+623,Sussex,WI,Possible
+625,Weston,WI,Possible
+626,Barron,WI,Possible
+627,McFarland,WI,Possible
+628,Mondovi,WI,Possible
+629,Mosinee,WI,Possible
+630,Mount Horeb,WI,Possible
+631,Mukwonago,WI,Possible
+632,Omro,WI,Possible
+633,Prescott,WI,Possible
+634,Sauk City,WI,Possible
+635,Seymour,WI,Possible
+636,Oshkosh,WI,Possible
+638,Charles City,IA,Probable
+639,Belle Plaine,IA,Possible
+640,Taylor County,IA,Probable
+642,Maquoketa,IA,Probable
+643,Clarion,IA,Probable
+645,Algona,IA,Possible
+646,Vinton,IA,Probable
+647,Anderson,MO,Possible
+648,Aurora,MO,Probable
+649,Buffalo,MO,Possible
+650,Albany,MO,Probable
+651,Ava,MO,Possible
+652,Bernie,MO,Possible
+653,Bethany,MO,Possible
+654,Bismarck,MO,Probable
+655,Bloomfield,MO,Probable
+656,Bolivar,MO,Possible
+657,Campbell,MO,Possible
+658,Carl Junction,MO,Possible
+659,Chaffee,MO,Possible
+660,Cassville,MO,Probable
+661,Creve Coeur,MO,Probable
+662,Dexter,MO,Possible
+663,Carterville,MO,Possible
+664,Concordia,MO,Possible
+665,Crane,MO,Possible
+666,Deepwater,MO,Possible
+667,Doniphan,MO,Possible
+668,East Prairie,MO,Probable
+669,El Dorado Springs,MO,Possible
+670,Eldon,MO,Possible
+671,Elvins,MO,Possible
+672,Granby,MO,Possible
+673,Grant City,MO,Possible
+674,Hermann,MO,Probable
+675,King City,MO,Possible
+676,Lamar,MO,Possible
+677,La Plata,MO,Possible
+678,Marionville,MO,Possible
+680,Mound City,MO,Possible
+681,Mt. Vernon,MO,Possible
+682,Monett,MO,Probable
+683,Owensville,MO,Possible
+684,North Kansas City,MO,Possible
+685,Perryville,MO,Possible
+686,Pattonsburg,MO,Possible
+687,Pierce City,MO,Probable
+688,Princeton,MO,Possible
+689,Rockport,MO,Possible
+690,St. Clair,MO,Possible
+691,St. James,MO,Possible
+694,Salem,MO,Possible
+696,Sarcoxie,MO,Possible
+697,Seneca,MO,Possible
+698,Shrewsbury,MO,Possible
+699,Stanberry,MO,Possible
+700,Sugar Creek,MO,Possible
+701,Sullivan,MO,Possible
+702,Thayer,MO,Possible
+703,Unionville,MO,Possible
+705,Waukon,IA,Probable
+708,Pella,IA,Possible
+709,Eagle Grove,IA,Probable
+710,Emmetsburg,IA,Probable
+711,Cresco,IA,Probable
+712,Willow Springs,MO,Possible
+713,Webb City,MO,Possible
+714,Oran,MO,Possible
+715,St. Genevieve,MO,Possible
+716,Adrian,MO,Possible
+717,Belle,MO,Possible
+718,Branson,MO,Possible
+719,Buckner,MO,Possible
+720,Cabool,MO,Possible
+721,Camdenton,MO,Possible
+722,Ellington,MO,Possible
+723,Claycomo,MO,Possible
+724,Cole Camp,MO,Possible
+725,Cuba,MO,Possible
+726,Desloge,MO,Possible
+727,Dixon,MO,Possible
+728,Edina,MO,Probable
+729,Gideon,MO,Possible
+730,Hamilton,MO,Probable
+731,Houston,MO,Possible
+732,Kahoka,MO,Possible
+733,Lake Lotawama,MO,Possible
+734,Leadwood,MO,Possible
+735,Linn,MO,Possible
+736,Adel,IA,Possible
+737,Akron,IA,Possible
+738,Marshfield,MO,Possible
+739,Memphis,MO,Probable
+740,Milan,MO,Possible
+741,Piedmont,MO,Possible
+742,Richland,MO,Possible
+743,St. George,MO,Possible
+744,Savannah,MO,Possible
+745,Senath,MO,Possible
+746,Seymour,MO,Possible
+747,Smithville,MO,Probable
+748,Steelville,MO,Possible
+749,Warsaw,MO,Possible
+750,Blue Springs,MO,Possible
+751,Flat River,MO,Possible
+752,Mountain Grove,MO,Possible
+753,Bella Villa,MO,Possible
+754,Mindenmines,MO,Possible
+755,Liberal,MO,Possible
+756,Maryville,MO,Possible
+757,Alton,IA,Possible
+758,Allison,IA,Possible
+759,Arnolds Park,IA,Possible
+760,Avoca,IA,Possible
+761,Bedford,IA,Probable
+762,Bellevue,IA,Possible
+763,Belmond,IA,Possible
+764,Bloomfield,IA,Possible
+765,Blue Grass,IA,Possible
+766,Bondurant,IA,Possible
+768,Brooklyn,IA,Possible
+769,Sioux Center,IA,Possible
+770,Spirit Lake,IA,Possible
+771,Bolton,MA,Possible
+773,Ashby,MA,Probable
+774,Maynard,MA,Probable
+775,General,Or,
+776,General,OR,
+777,Florence,OR,Surely
+778,Eugene,OR,Surely
+779,Albany,OR,Possible
+780,Coos Bay,OR,Probable
+781,Springfield,OR,Possible
+782,The Dalles,OR,Possible
+783,Jacksonville,OR,Possible
+784,La Grande,OR,Possible
+785,McMinnville,OR,Probable
+786,Salem,OR,Surely
+787,Medford,OR,Surely
+789,Vestavia Hills,AL,Possible
+790,Chickasaw,AL,Probable
+791,Arab,AL,Surely
+792,Cullman,AL,Surely
+793,Ash Flat,AR,Probable
+794,Bauxite,AR,Probable
+795,Black Rock,AR,Probable
+796,Bradford,AR,Probable
+797,Brookland,AR,Probable
+798,Cabot,AR,Possible
+799,Calico Rock,AR,Probable
+800,Cammack Village,AR,Probable
+801,Hillcrest,AR,Probable
+802,Decatur,AR,Probable
+803,Diamond City,AR,Probable
+804,Dierks,AR,Probable
+805,Dyer,AR,Probable
+806,Elkins,AR,Probable
+807,Elm Springs,AR,Probable
+808,Goshen,AR,Probable
+809,Grannis,AR,Probable
+810,Gravette,AR,Probable
+811,Grubbs,AR,Probable
+812,Imboden,AR,Probable
+813,Williford,AR,Probable
+814,Johnson,AR,Possible
+815,Kibler,AR,Probable
+816,Lavaca,AR,Probable
+817,Little Flock,AR,Possible
+818,Oakland,AR,Possible
+819,Oak Grove Heights,AR,Probable
+820,Oppelo,AR,Probable
+821,Oxford,AR,Probable
+822,Magazine,AR,Probable
+823,Pottsville,AR,Possible
+824,Quitman,AR,Probable
+826,Subiaco,AR,Possible
+827,Sulphur Springs,AR,Probable
+828,Taylor,AR,Possible
+829,Wickes,AR,Probable
+830,Clay County,AR,Surely
+831,Piggott,AR,Probable
+832,Pangburn,AR,Probable
+833,Portia,AR,Probable
+834,Paragould,AR,Surely
+835,Leachville,AR,Probable
+836,Manila,AR,Probable
+839,Greenway,AR,Probable
+840,Altus,AR,Probable
+841,London,AR,Possible
+842,Provo,AR,Surely
+843,Colchester,VT,Possible
+844,Grants Pass,OR,Surely
+845,Roseburg,OR,Probable
+846,Lake Oswego,OR,Possible
+847,Oregon City,OR,Surely
+848,Tillamook,OR,Probable
+849,Ashland,OR,Probable
+850,Dallas,OR,Probable
+851,Lebanon,OR,Probable
+852,Oakridge,OR,Probable
+853,Toledo,OR,Surely
+854,Astoria,OR,Surely
+855,Pendleton,OR,Possible
+856,Monroe,OR,Possible
+857,Lyles Station,IN,Black Town or Township
+858,Whitestown,IN,Probable
+859,Ogden Dunes,IN,Possible
+860,Chandler,IN,Don't Know
+861,Long Beach,IN,Probable
+862,North Manchester,IN,Possible
+863,New Whiteland,IN,Probable
+864,Oolitic,IN,Possible
+865,Greensburg,IN,Surely
+866,Evansville,IN,Always Biracial
+867,Greenwood,IN,Possible
+868,Tipton,IN,Probable
+869,Alexandria,IN,Surely
+870,Elwood,IN,Surely
+871,Hagerstown,IN,Surely
+872,Huntington,IN,Surely
+873,Goshen,IN,Surely
+874,Linton,IN,Probable
+875,Hobart,IN,Surely
+876,New Palestine,IN,Probable
+877,Milan,IN,Possible
+878,New Harmony,IN,Possible
+879,Jasper,IN,Surely
+880,Bluffton,IN,Surely
+881,Mooresville,IN,Surely
+882,Batesville,IN,Surely
+883,Whiting,IN,Surely
+884,Crown Point,IN,Probable
+885,Brownsburg,IN,Surely
+886,Mishawaka,IN,Probable
+887,Sunman,IN,Surely
+888,Brookston,IN,Surely
+889,Utica,IN,Surely
+890,Aurora,IN,Surely
+891,Decatur,IN,Surely
+892,French Lick,IN,Unlikely
+893,Rockport,IN,Probable
+894,Salem,IN,Surely
+895,Vevay,IN,Surely
+896,Valparaiso,IN,Surely
+897,Chesterton,IN,Surely
+898,Martinsville,IN,Surely
+899,Wabash,IN,Possible
+901,Scottsburg,IN,Surely
+902,Brownstown,IN,Surely
+903,Gas City,IN,Surely
+904,Beech Grove,IN,Possible
+905,Merrillville,IN,Possible
+906,Hymera,IN,Probable
+907,Auburn,IN,Surely
+908,Mentone,IN,Surely
+909,East Gary,IN,
+910,General,IN,
+911,Newburg,IN,Surely
+912,Grand View,IN,Surely
+913,Tell City,IN,Surely
+914,Arcadia,IN,Probable
+915,North Judson,IN,Surely
+916,Cedar Lake,IN,Surely
+917,Andrews,IN,Surely
+918,Berne,IN,Surely
+919,Bicknell,IN,Surely
+920,Brookville,IN,Surely
+922,Centerville,IN,Surely
+923,Churubusco,IN,Surely
+925,Columbia City,IN,Surely
+926,Deputy,IN,Surely
+927,English,IN,Surely
+928,Geneva,IN,Surely
+929,Greenfield,IN,Surely
+930,Knox,IN,Surely
+931,Lexington,IN,Surely
+932,Monticello,IN,Surely
+933,Morgantown,IN,Surely
+934,North Liberty,IN,Surely
+935,Lagro,IN,Probable
+936,Pierceton,IN,Surely
+937,Poseyville,IN,Surely
+938,Remington,IN,Surely
+939,Roann,IN,Surely
+940,Sidney,IN,Surely
+941,Silver Lake,IN,Surely
+942,South Whitley,IN,Surely
+943,Speedway,IN,Surely
+944,Summitville,IN,Surely
+945,Swayzee,IN,Surely
+946,Sweetser,IN,Surely
+947,Wakarusa,IN,Surely
+948,West Terre Haute,IN,Surely
+949,Zionsville,IN,Surely
+950,North Webster,IN,Surely
+951,Lizton,IN,Surely
+952,Jamestown,IN,Probable
+953,Corydon,IN,Surely
+954,Frankfort,IN,Surely
+955,Brook,IN,Surely
+956,Cambridge City,IN,Possible
+957,Crawford,IN,Surely
+961,Boulder City,NV,Surely
+962,Minden-Gardnerville,NV,Surely
+963,Ely,NV,Surely
+964,Fallon,NV,Probable
+965,Goldfield,NV,Surely
+966,Unionville,NV,Probable
+967,General,NV,
+968,Etowah,AR,Probable
+969,Lepanto,AR,Unlikely
+970,Newton County,AR,Probable
+971,Alix,AR,Probable
+972,Hardy,AR,Probable
+973,Perryville,AR,Probable
+974,Mount Ida,AR,Surely
+975,Mena,AR,Surely
+976,Lamar,AR,Probable
+977,Dover,AR,Probable
+978,Van Buren,AR,Probable
+980,Cleburne County,AR,Probable
+981,Greers Ferry,AR,Possible
+982,Fairfield Bay,AR,Probable
+985,Mountain Home,AR,Probable
+986,Cotter,AR,Probable
+988,St. Francis,AR,Probable
+989,Mulberry,AR,Probable
+990,Ozark,AR,Probable
+991,Booneville,AR,Surely
+992,Greenwood,AR,Probable
+993,Glenwood,AR,Probable
+995,Waldron,AR,Surely
+996,Siloam Springs,AR,Probable
+997,Sand Mountain,AL,Surely
+998,Dixie,AL,Possible
+999,Oneonta,AL,Probable
+1000,Nauvoo,AL,Surely
+1001,Hanceville,AL,Probable
+1002,Good Hope,AL,Probable
+1004,Hokes Bluff,AL,Probable
+1005,Rehoboth Beach,DE,Probable
+1006,Wilmington,DE,Unlikely
+1007,Delight,AR,Possible
+1008,Amity,AR,Probable
+1009,Leslie,AR,Probable
+1010,Scott County,AR,Probable
+1011,Rogers,AR,Surely
+1012,Springdale,AR,Surely
+1014,Stone County,AR,Probable
+1015,Gentry,AR,Probable
+1016,Fouke,AR,Surely
+1017,Harrison,AR,Surely
+1018,Eureka Springs,AR,Probable
+1019,Sheridan,AR,Surely
+1020,Lacrosse,AR,Possible
+1021,Belle Fourche,SD,Possible
+1022,Delmont,SD,Possible
+1023,Doland,SD,Possible
+1024,Spink County,SD,Possible
+1025,Canton,SD,Possible
+1026,Lead,SD,Probable
+1027,Miles City,MT,Surely
+1028,Pasadena,CA,Surely
+1029,Fresno,CA,Surely
+1030,Redlands,CA,Surely
+1031,Riverside,CA,Surely
+1032,Crescent City,CA,Surely
+1033,Visalia,CA,Surely
+1035,Selma,CA,Surely
+1036,Bakersfield,CA,Probable
+1037,Red Bluff,CA,Surely
+1038,Antioch,CA,Surely
+1039,Rocklin,CA,Surely
+1040,Truckee,CA,Surely
+1041,Santa Ana,CA,Surely
+1042,Wheatland,CA,Surely
+1043,Marysville,CA,Surely
+1044,Eureka,CA,Surely
+1045,San Jose,CA,Surely
+1046,Gold Run,CA,Surely
+1047,Arroyo Grande,CA,Surely
+1048,Sonora,CA,Surely
+1049,San Pablo,CA,Surely
+1050,Dutch Flat,CA,Surely
+1051,Lincoln,CA,Surely
+1052,Nicolaus,CA,Surely
+1053,Sawyers Bar,CA,Surely
+1054,Folsom,CA,Surely
+1055,Watsonville,CA,Surely
+1056,Nevada City,CA,Probable
+1057,Grass Valley,CA,Probable
+1058,Oildale,CA,Surely
+1059,Taft,CA,Surely
+1061,Holy City,CA,Surely
+1062,Napa,CA,Probable
+1063,Lafayette,CA,Probable
+1064,Chester,CA,Probable
+1065,Redding,CA,Probable
+1066,Sheridan,CA,Surely
+1067,Lodi,CA,Probable
+1068,Parlier,CA,Possible
+1069,Corning,CA,Probable
+1070,Chico,CA,Surely
+1071,Bayshore City,CA,Possible
+1072,Berkeley,CA,Possible
+1073,Mill Valley,CA,Probable
+1074,Redwood City,CA,Probable
+1075,San Leandro,CA,Surely
+1076,Burlingame,CA,Probable
+1077,East Palo Alto,CA,Probable
+1078,Piedmont,CA,Probable
+1079,North Palo Alto,CA,Probable
+1080,Bishop,CA,Probable
+1081,Kingsburg,CA,Probable
+1082,Indian Wells,CA,Possible
+1083,Garden Grove,CA,Probable
+1084,Hemet,CA,Probable
+1085,Norco,CA,Surely
+1086,South Gate,CA,Probable
+1087,San Fernando Valley,CA,Surely
+1088,Tarzana,CA,Surely
+1089,Whittier,CA,Probable
+1090,Arcadia,CA,Possible
+1091,Fontana,CA,Probable
+1092,Newport Beach,CA,Surely
+1093,Palos Verdes Estates,CA,Probable
+1094,Westfield,CA,Probable
+1095,Lomita,CA,Probable
+1096,Manhattan Beach,CA,Surely
+1098,Orange County,CA,Surely
+1099,Yorba Linda,CA,Possible
+1100,Cerritos,CA,Possible
+1101,Costa Mesa,CA,Possible
+1102,Orange,CA,Probable
+1103,Huntington Beach,CA,Probable
+1104,La Habra,CA,Probable
+1105,Irvine,CA,Probable
+1106,Brea,CA,Surely
+1107,Glendale,CA,Surely
+1108,Azusa,CA,Probable
+1109,Buena Park,CA,Possible
+1110,Burbank,CA,Surely
+1111,Compton,CA,Surely
+1112,San Juan Capistrano,CA,Possible
+1113,San Jacinto,CA,Probable
+1114,Arcata,CA,Surely
+1115,Stanton,CA,Possible
+1116,Culver City,CA,Surely
+1117,Palmdale,CA,Possible
+1118,Torrance,CA,Surely
+1119,Kernville,CA,Surely
+1120,Porterville,CA,Possible
+1121,Lynwood,CA,Surely
+1122,Bel Air,CA,Probable
+1123,Monterey Park,CA,Surely
+1124,Hidden Hills,CA,Possible
+1125,La Jolla,CA,Surely
+1126,San Marino,CA,Surely
+1127,South Pasadena,CA,Probable
+1129,Palm Beach,FL,Probable
+1131,Daytona Beach Shores,FL,Possible
+1132,Flagler Beach,FL,Possible
+1133,Holmes Beach,FL,Probable
+1134,Longboat Key,FL,Possible
+1135,Melbourne Beach,FL,Probable
+1137,Samsula,FL,Possible
+1138,Altha,FL,Possible
+1139,Old Homosassa,FL,Possible
+1140,Cedar Key,FL,Surely
+1141,Del Ray Beach,FL,Probable
+1142,Winterhaven,FL,Possible
+1143,Ocoee,FL,Surely
+1144,Myakka City,FL,Probable
+1145,Yankeetown,FL,Possible
+1146,Miami Beach,FL,Probable
+1148,Venice,FL,Possible
+1149,Twin Falls,ID,Probable
+1150,Clark Fork,ID,Surely
+1151,Bonners Ferry,ID,Surely
+1152,Moscow,ID,Probable
+1154,Hoodoo,ID,Surely
+1155,Ashton,ID,Probable
+1156,Wallace,ID,Probable
+1157,Simpson,LA,Possible
+1158,Pitkin,LA,Probable
+1159,Anacoco,LA,Possible
+1160,Pollock,LA,Surely
+1162,Milo,ME,Probable
+1163,Fargo,ND,Possible
+1164,Lincoln,NE,Probable
+1165,Auburn,NE,Possible
+1166,Aurora,NE,Possible
+1167,Broken Bow,NE,Possible
+1168,Central City,NE,Possible
+1169,Cozad,NE,Possible
+1170,David City,NE,Possible
+1171,Fairbury,NE,Probable
+1172,O'Neill,NE,
+1173,Plainview,NE,Possible
+1174,Schuyler,NE,Possible
+1175,Sidney,NE,Possible
+1176,Valentine,NE,Possible
+1177,Wahoo,NE,Possible
+1178,West Point,NE,Possible
+1179,Fremont,NE,Probable
+1180,Tecumseh,NE,Probable
+1181,North Platte,NE,Probable
+1182,Minden,NE,Probable
+1183,Plattsmouth,NE,Surely
+1184,Portales,NM,Surely
+1185,Taos,NM,Surely
+1186,Montesano,WA,Possible
+1187,Chelan,WA,Possible
+1189,Olympia,WA,Probable
+1191,Richland,WA,Surely
+1194,Walla Walla,WA,Possible
+1195,Vancouver,WA,Possible
+1196,Bellingham,WA,Surely
+1197,Tacoma,WA,Surely
+1198,Seattle,WA,Surely
+1200,Powell,WY,Possible
+1202,Wheeler County,TX,Surely
+1203,Pasadena,TX,Possible
+1204,Big Spring,TX,Probable
+1205,Santa Fe,TX,Probable
+1206,Amherst,OH,Probable
+1208,Kirvin,TX,Probable
+1209,White Deer,TX,Probable
+1210,Vidor,TX,Surely
+1211,Cumby,TX,Probable
+1212,Whitesboro,TX,Probable
+1213,Grand Saline,TX,Surely
+1214,Iowa Park,TX,Possible
+1215,Cut and Shoot,TX,Possible
+1216,Highland Park,TX,Surely
+1217,Comanche,TX,Surely
+1218,Bowie,TX,Probable
+1219,Goldthwaite,TX,Possible
+1220,Comanche County,TX,Surely
+1221,Hamilton County,TX,Surely
+1222,Killeen,TX,Possible
+1223,Copperas Cove,TX,Probable
+1224,Montague County,TX,Probable
+1225,Archer City,TX,Probable
+1226,Robert Lee,TX,Possible
+1227,De Leon,TX,Surely
+1228,Moulton,TX,Probable
+1229,Greenwich,CT,
+1230,Litchfield,CT,Possible
+1231,Sharon,CT,Possible
+1232,Orange,CT,Probable
+1234,Madison,CT,Probable
+1235,Canterbury,CT,Probable
+1236,Simsbury,CT,Probable
+1237,New Fairfield,CT,Probable
+1238,Portland,CT,Possible
+1239,Holliday,TX,Probable
+1240,Paradise,TX,Possible
+1241,Slocum,TX,Possible
+1242,Glen Rose,TX,Possible
+1243,Throckmorton,TX,Surely
+1244,Irving,TX,Probable
+1245,Sunnyvale,TX,Surely
+1246,Marion County,AR,Probable
+1248,Del Norte County,CA,Surely
+1249,Westminster,CA,Possible
+1250,Cullman County,AL,Surely
+1251,Fyffe,AL,Possible
+1253,Orange Beach,AL,Probable
+1254,Placerville,CA,Probable
+1255,Malaga Island,ME,Surely
+1256,Antelope County,NE,Possible
+1257,Burt County,NE,Possible
+1258,Butler County,NE,Possible
+1259,Cass County,NE,Possible
+1260,Cedar County,NE,Possible
+1261,Cheyenne County,NE,Possible
+1262,Humboldt County,CA,Surely
+1263,Oroville,CA,Probable
+1264,Fillmore,CA,Possible
+1265,Orinda,CA,Possible
+1266,Ross,CA,Probable
+1267,Escondido,CA,Possible
+1268,Anaheim,CA,Possible
+1269,Shamrock,TX,Probable
+1270,Dallam County,TX,Probable
+1271,Scurry County,TX,Probable
+1272,Rock Springs,WY,Possible
+1273,Saugus,MA,Probable
+1274,Swampscott,MA,Possible
+1275,Dedham,MA,Probable
+1276,Brookline,MA,Probable
+1277,Belmont,MA,Probable
+1278,Montague,MA,Probable
+1279,Athol,MA,Possible
+1280,Manchester,MA,Possible
+1281,Chicopee,MA,Probable
+1282,Mitchell County,NC,Probable
+1283,Graham County,NC,Surely
+1284,Wrightsville,NC,Possible
+1285,Southern Shores,NC,Possible
+1286,Surf City,NC,Possible
+1287,Kure Beach,NC,Possible
+1288,Faith,NC,Possible
+1289,Hot Springs,NC,Possible
+1290,Cadillac,MI,Probable
+1291,Wyandotte,MI,Surely
+1293,Birmingham,MI,Possible
+1294,St. Joseph,MI,Unlikely
+1295,Spring Lake,MI,Surely
+1296,Charlotte,MI,Probable
+1297,Mason,MI,Probable
+1298,East Lansing,MI,Probable
+1300,Tucson,AZ,Unlikely
+1301,Forsyth County,GA,Surely
+1302,Reese,MI,Possible
+1304,Holland,MI,Probable
+1305,East Grand Rapids,MI,Possible
+1306,Brighton,MI,Possible
+1308,Howell,MI,Possible
+1309,Upper Peninsula,MI,Possible
+1310,Menominee County,MI,Possible
+1311,Ironwood,MI,Probable
+1312,Petoskey,MI,Possible
+1313,Hartford,CT,Unlikely
+1314,Portland,MI,Possible
+1315,Ecorse,MI,Unlikely
+1316,St. Clair Shores,MI,Surely
+1317,Dearborn,MI,Surely
+1318,Warren,MI,Surely
+1319,Livonia,MI,Surely
+1320,Grosse Pointe,MI,Surely
+1322,Grosse Pointe Park,MI,Surely
+1323,Grosse Pointe Shores,MI,Surely
+1324,Grosse Pointe Farms,MI,Surely
+1325,Westland,MI,Probable
+1326,Royal Oak,MI,Possible
+1327,Southgate,MI,Possible
+1328,Owosso,MI,Surely
+1330,General,MI,
+1332,Alpena,MI,Probable
+1333,Grosse Pointe Woods,MI,Surely
+1334,South Lyon,MI,Possible
+1335,Welch,OK,Probable
+1336,Colony,OK,Possible
+1337,Lawton,OK,Possible
+1338,Blackwell,OK,Surely
+1339,Sapulpa,OK,Probable
+1340,Hatboro,PA,Possible
+1341,Greer County,OK,Probable
+1342,Edmond,OK,Probable
+1343,Stilwell,OK,Probable
+1344,Barnsdall,OK,Surely
+1345,Henryetta,OK,Surely
+1347,Bozrah,CT,Possible
+1348,Coventry,CT,Possible
+1349,Darien,CT,Probable
+1350,Kent,CT,Possible
+1351,Lisbon,CT,Possible
+1352,Middlefield,CT,Possible
+1353,Montville,CT,Possible
+1354,Morris,CT,Possible
+1355,New Hartford,CT,Possible
+1356,Old Lyme,CT,Possible
+1357,Oxford,CT,Possible
+1358,Seymour,CT,Possible
+1359,Somers,CT,Possible
+1360,Southington,CT,Possible
+1362,Thomaston,CT,Possible
+1363,Thompson,CT,Possible
+1364,Unionville,CT,Possible
+1365,Westbrook,CT,Possible
+1366,Westport,CT,Possible
+1367,Willington,CT,Possible
+1368,Okemah,OK,Probable
+1369,Paden,OK,Possible
+1370,Caddo,OK,Probable
+1371,Marshall,OK,Possible
+1372,Norman,OK,Surely
+1373,Fox,OK,Possible
+1374,Marlow,OK,Surely
+1375,General,OK,
+1376,Ottawa County,OK,Possible
+1377,Cleveland,OK,Possible
+1378,Audobon,IA,Possible
+1379,Clear Lake,IA,Probable
+1380,Fairmont,MN,Possible
+1381,Britt,IA,Possible
+1382,Newburgh Heights,OH,Probable
+1383,Eagan,MN,Don't Know
+1384,Harlan,IA,Probable
+1385,Jefferson,IA,Probable
+1386,Manchester,IA,Probable
+1387,Osage,IA,Probable
+1388,Tabor,IA,Probable
+1389,Winterset,IA,Probable
+1390,General,IA,
+1391,Manning,IA,Probable
+1392,New Market,IA,Surely
+1393,Lenox,IA,Surely
+1394,Pleasant Hill,IA,Possible
+1395,Cedar Falls,IA,Possible
+1396,Lambs Grove,IA,Possible
+1397,Villisca,IA,Probable
+1399,Pacific Junction,IA,Possible
+1400,Golden Meadow,LA,Possible
+1401,Grand Isle,LA,Possible
+1402,Jean Lafitte,LA,Possible
+1403,Krotz Springs,LA,Possible
+1404,Braintree,MA,Possible
+1406,Longmeadow,MA,Possible
+1407,Brasstown,NC,Probable
+1408,Spruce Pine,NC,Possible
+1409,Bakersville,NC,Possible
+1410,Mayodan,NC,Possible
+1411,King,NC,Possible
+1412,Swain County,NC,Probable
+1413,Beacon Falls,CT,Possible
+1415,Cherokee County,GA,Always Biracial
+1416,Dawson County,GA,Surely
+1418,Banks County,GA,Possible
+1419,Gilmer County,GA,Possible
+1421,Towns County,GA,Surely
+1422,Union County,GA,Probable
+1423,Murray County,GA,Don't Know
+1424,Pickens County,GA,Don't Know
+1425,Rabun County,GA,Possible
+1426,Clayton,GA,Possible
+1427,Thomas County,GA,Probable
+1430,General,ID,
+1431,Fulton County,IN,Don't Know
+1432,Hancock County,IN,Probable
+1433,Howard County,IN,Don't Know
+1434,Morehouse,MO,Possible
+1435,Glen Rock,NJ,Possible
+1436,Ho-Ho-Kus,NJ,Probable
+1437,Carteret,NJ,Probable
+1438,Mount Laurel,NJ,Possible
+1439,General,MT,
+1440,Carbon County,MT,Possible
+1441,Lincoln County,MT,Possible
+1442,Choteau,MT,Possible
+1443,General,ND,
+1444,Barnes County,ND,Possible
+1445,Emmons County,ND,Possible
+1447,LaMoure County,ND,Possible
+1448,McLean County,ND,Possible
+1450,Rolette County,ND,Possible
+1452,Traill County,ND,Possible
+1453,Berlin,NH,Possible
+1454,Derry,NH,Possible
+1455,Farmington,NH,Possible
+1457,Franklin,NH,Possible
+1458,Haverhill,NH,Possible
+1459,Keene,NH,Possible
+1460,Lancaster,NH,Probable
+1461,Littleton,NH,Possible
+1463,Newmarket,NH,Possible
+1464,Newport,NH,Possible
+1465,Peterborough,NH,Possible
+1466,Rochester,NH,Probable
+1467,Somersworth,NH,Possible
+1468,Cumberland,RI,Possible
+1469,Woonsocket,RI,Possible
+1470,General,ME,
+1471,Biddeford,ME,Probable
+1472,Brewer,ME,Possible
+1473,Fairfield,ME,Possible
+1474,Orono,ME,Possible
+1475,Presque Isle,ME,Possible
+1476,Westbrook,ME,Probable
+1477,Copiague,NY,Possible
+1478,Cove Neck,NY,Possible
+1479,Selingsgrove,PA,Possible
+1485,Sheboygan Falls,WI,Probable
+1486,Sturgeon Bay,WI,Probable
+1487,Union Grove,WI,Possible
+1488,Washington Grove,MD,Possible
+1490,Calvert County,MD,Possible
+1491,University Park,MD,Probable
+1493,Princess Anne,MD,Possible
+1494,Mayo,MD,Probable
+1495,Smith Island,MD,Possible
+1497,Woodland Beach,MD,Possible
+1498,Crofton,MD,Probable
+1499,Scientists Cliff,MD,Possible
+1500,Chevy Chase,MD,Surely
+1501,Mount Rainier,MD,Probable
+1502,Brentwood,MD,Probable
+1503,Oakland,MD,Probable
+1504,Garrett County,MD,Probable
+1505,Lonaconing,MD,Possible
+1506,Westernport,MD,Possible
+1507,Friendsville,MD,Possible
+1508,Greenbelt,MD,Surely
+1509,Bernalillo,NM,Possible
+1510,Aztec,NM,Possible
+1511,Alva,OK,Probable
+1512,Allen,OK,Probable
+1513,Apache,OK,Probable
+1514,Boise City,OK,Probable
+1515,Broken Arrow,OK,Probable
+1516,Carnegie,OK,Probable
+1517,Cherokee,OK,Probable
+1518,Collinsville,OK,Probable
+1519,Comanche,OK,Probable
+1520,Commerce,OK,Probable
+1521,Haileyville,OK,Probable
+1522,Healdton,OK,Probable
+1523,Hinton,OK,Probable
+1525,Jenks,OK,Probable
+1526,Lindsay,OK,Probable
+1527,Medford,OK,Probable
+1529,Morris,OK,Probable
+1530,Okeene,OK,Probable
+1531,Picher,OK,Probable
+1532,Blairsville,GA,Possible
+1533,Blue Ridge,GA,Probable
+1534,Dahlonega,GA,Possible
+1535, Hartford,CT,
+1536,Waterford,PA,
+1537,Jim Thorpe,PA,Possible
+1538,Nesquehoning,PA,Possible
+1539,Lansford,PA,Possible
+1540,Nazareth,PA,Possible
+1541,Mounds city,Il,
+1542,Balcom,Il,
+1543,Berryville,Il,
+1544,Wolflake,Il,Probable
+1545,Union County,Il,
+1546,Cobden,IL,Always Biracial
+1547,Thebes,IL,Possible
+1548,Tamms,IL,Unlikely
+1549,Cairo,IL,Don't Know
+1550,Brookfield,Il,Possible
+1551,Carthage,IL,Probable
+1552,Stronghurst,Il,Probable
+1553,Warsaw,Il,Probable
+1554,Chicago,Il,Don't Know
+1555,McHenry County,IL,Possible
+1556,Kane County,IL,Possible
+1557,Cicero,IL,Surely
+1558,Berwyn,IL,Surely
+1559,Dwight,IL,Probable
+1560,Mazon,IL,Surely
+1561,Morris,IL,Probable
+1562,Peotone,IL,Probable
+1563,Manteno,IL,Probable
+1564,Beecher,IL,Probable
+1565,Bradley,IL,Unlikely
+1566,Herscher,IL,Probable
+1567,Crete,IL,Probable
+1568,Braidwood,IL,Probable
+1569,Crystal Lake,IL,Possible
+1570,Cary,IL,Probable
+1571,Potomac,IL,Possible
+1572,Philo,IL,Probable
+1573,Catlin,IL,Probable
+1574,Westville ,IL,Probable
+1575,Newman,IL,Probable
+1576,Ridge Farm,IL,Probable
+1577,Sidney,IL,Possible
+1578,Arthur,IL,Possible
+1579,Blue Mound,IL,Probable
+1580,Buckley,IL,Probable
+1581,Oreana,IL,Possible
+1582,DeLand,IL,Probable
+1583,El Paso,IL,Possible
+1584,Paxton,IL,Probable
+1585,St. Joseph,IL,Probable
+1586,Mt. Zion,IL,Probable
+1587,Towanda,IL,Probable
+1588,Farmer City,IL,Surely
+1589,Fisher,IL,Possible
+1590,Monticello,IL,Surely
+1591,Saybrook,IL,Surely
+1592,Maroa,IL,Surely
+1593,Niantic,IL,Probable
+1594,Le Roy,IL,Possible
+1596,Warrensburg,IL,Probable
+1597,Kenney,IL,Possible
+1598,Schaumburg,IL,Probable
+1599,Niles,IL,Possible
+1600,Elk Grove Village,IL,Probable
+1601,Glen Carbon,IL,Surely
+1602,Elsah,IL,Surely
+1603,Granite City,IL,Surely
+1604,Madison,IL,Possible
+1605,Brooklyn,IL,Black Town or Township
+1606,East Alton,IL,Surely
+1607,Calhoun,IL,
+1608,Calhoun County,IL,Unlikely
+1609,Columbia,IL,Probable
+1610,Wood River,IL,Possible
+1611,San Jose,IL,Surely
+1612,Brown County,IL,Surely
+1614,New Boston,IL,Probable
+1615,Cuba,IL,Probable
+1616,Havana,IL,Surely
+1617,Lewistown,IL,Probable
+1618,Henry,IL,Probable
+1619,Lacon,IL,Probable
+1620,Toluca,IL,Probable
+1621,Minonk,IL,Probable
+1622,Beardstown,IL,Surely
+1623,Arenzville,IL,Probable
+1624,Highland Park,IL,Possible
+1625,Mundelein,IL,Probable
+1626,Libertyville,IL,Probable
+1627,Onarga,IL,Probable
+1628,Pembroke,IL,Black Town or Township
+1629,Earlville,IL,Probable
+1630,Bureau,IL,Probable
+1631,LaSalle Peru,IL,Probable
+1632,Sandwich,IL,Probable
+1633,Riverside,IL,Probable
+1634,Lyons,IL,Probable
+1635,Des Plaines,IL,Probable
+1636,Mahomet,IL,Probable
+1637,Bethany,IL,Probable
+1638,Lovington,IL,Probable
+1639,Windsor,IL,Probable
+1640,Effingham,IL,Surely
+1641,Neoga,IL,Surely
+1642,Shelbyville,IL,Probable
+1643,Sullivan,IL,Probable
+1644,Oakland,IL,Probable
+1645,Morrison,IL,Possible
+1646,Romeoville,IL,Surely
+1647,Naperville,IL,Surely
+1648,Wilmette,IL,Probable
+1649,Winthrop Harbor,IL,Surely
+1650,Barrington,IL,Surely
+1651,Deerfield,IL,Surely
+1652,Kenilworth,IL,Probable
+1653,Roseville,IL,Probable
+1654,Fulton,IL,Possible
+1655,Oak Lawn,IL,Probable
+1656,Oak Park,IL,Probable
+1657,Elmwood Park,IL,
+1658,Magnet Cove,AR,Probable
+1659,Bordentown,NJ,Probable
+1660,Mt. Sterling,IL,Surely
+1663,Cedarburg,WI,Possible
+1664,Western Springs,IL,Surely
+1666,Colchester,IL,Possible
+1667,Chehalis,WA,Probable
+1668,Villa Grove,il,Surely
+1669,Spring Lake,NJ,Possible
+1671,St. Cloud,FL,Possible
+1673,Desha,AR,Possible
+1674,Osage City,KS,Probable
+1675,Evergreen Park,IL,
+1676,Lebanon,OH,Always Biracial
+1677,Pompeii,KY,
+1678,Pendleton,IN,Probable
+1679,Westfield,IN,Probable
+1680,Westfield,Il,Surely
+1682,Elfers,FL,
+1683,Wynot,NE,
+1685,Haysville,KS,Probable
+1686,Denton,KS,Probable
+1687,Glendive,MT,Probable
+1688,Galena,MO,Probable
+1689,Russell,KS,Probable
+1690,Worden,IL,Possible
+1691,Mt. Ida,AR,Probable
+1692,Laramie,WY,Probable
+1693,Green River,Wy,Probable
+1694,Tolono,Il,Probable
+1695,Pickneyville,Il,Probable
+1696,Chincoteague,Va,Possible
+1697,Sellersburg,IN,Probable
+1698,Henryville,IN,Possible
+1699,Clarksville,IN,Possible
+1700,Roundup,MT,Possible
+1701,Baxter County,Ar,Probable
+1702,Bedford,IN,Possible
+1703,Moosup,Ct,Probable
+1705,sterling,Ct,Probable
+1706,Slinger,WI,Probable
+1707,Malvern,IA,Probable
+1708,White City,KS,
+1709,Plainfield,Il,Probable
+1710,New Holland,PA,Probable
+1711,Holt,MO,Probable
+1712,Kearney,MO,Probable
+1713,El Norte,CA,Probable
+1714,Roachdale,IN,Probable
+1715,Nashville,Il,Surely
+1716,Kennewick,Wa,
+1717,Kingman,Az,Probable
+1718,Evening Shade,Ar,Surely
+1719,Colville,wa,Possible
+1720,Conestoga,PA,Probable
+1721,Glens Falls,NY,Unlikely
+1722,Irwin,PA,Possible
+1723,Trent Woods,NC,Possible
+1724,Warren ,IN,Possible
+1725,Tilghman Island,MD,Probable
+1726,Auburn,IL,Probable
+1727,Thayer,IL,Probable
+1728,Virden,IL,Probable
+1729,Divernon,IL,Probable
+1730,Pawnee,IL,Probable
+1731,Girard,IL,Probable
+1732,Dupo,Il,Probable
+1734,Rosman,NC,Probable
+1735,Shelton,WA,Probable
+1736,Glastonbury,CT,Probable
+1737,Stockton,MO,Probable
+1740,Winston County,AL,Probable
+1741,Brewster,Wa,
+1743,Chippewa Township,OH,Probable
+1744,Brewster,WA,Possible
+1745,Hillsboro,KS,Probable
+1746,Fenton,MI,Probable
+1747,Floral Park,NY,Probable
+1748,Crawford County,AR,
+1749,Southport,FL,Probable
+1750,Salem,IL,Surely
+1751,Ridgefield,CT,Probable
+1752,Lowell,IN,Probable
+1753,Weston,IL,
+1754,Santa Cruz,CA,
+1755,Davy,WV,Possible
+1756,Keystone,WV,
+1757,Milton,OR,Surely
+1759,Pana,IL,Surely
+1760,Vergennes,IL,Surely
+1761,McLeansboro,IL,Surely
+1762,Carterville,IL,Surely
+1763,Crainville,IL,Surely
+1764,Johnston City,IL,Surely
+1765,West Frankfort,IL,Surely
+1766,Benton,IL,Surely
+1767,Herrin,IL,Surely
+1768,Sesser,IL,Surely
+1769,Mulkeytown,IL,Surely
+1770,Zeigler,IL,Surely
+1771,Christopher,IL,Surely
+1772,Eldorado,IL,Surely
+1773,Royalton,IL,Surely
+1774,Bunker Hill,IL,Surely
+1775,Mount Olive,IL,Surely
+1776,Gillespie,IL,Surely
+1777,Hardin,IL,Surely
+1778,White Hall,IL,Surely
+1779,Buffalo,IL,Unlikely
+1780,Spaulding,IL,Surely
+1781,Athens,IL,Surely
+1782,Greenview,IL,Surely
+1783,Dawson,IL,
+1784,Leland Grove,IL,Surely
+1785,Ashland,IL,Surely
+1786,Sherman,IL,Possible
+1787,Vandalia,IL,Surely
+1788,Irvington,IL,Surely
+1789,Hoyleton,IL,Surely
+1790,Kinmundy,IL,Surely
+1791,Ashley,IL,Surely
+1792,Sandoval,Il,Surely
+1793,Richview,IL,Surely
+1794,Greenup,IL,Surely
+1795,Montrose,IL,Surely
+1796,Hazel Dell,IL,Surely
+1797,St. Elmo,IL,Surely
+1798,Casey,IL,Surely
+1799,Marshall,IL,Surely
+1800,Martinsville,IL,Surely
+1801,Rosiclare,IL,Surely
+1802,Lamb,IL,Surely
+1803,Cave-in-Rock,IL,Surely
+1804,Ava,IL,Surely
+1805,Marissa,IL,Surely
+1806,Tamaroa,IL,Surely
+1807,Steeleville,IL,Surely
+1808,Beaucoup,IL,Surely
+1809,Okawville,IL,Surely
+1810,Red Bud,IL,Probable
+1811,Chillicothe,IL,Surely
+1812,Morton,IL,Surely
+1813,Metamora,IL,Surely
+1814,Washington,IL,Surely
+1815,Creve Coeur,IL,
+1816,South Pekin,IL,Surely
+1817,Pekin,IL,Surely
+1818,Marquette Heights,IL,Surely
+1819,Witt,IL,Probable
+1820,Assumption,IL,Surely
+1821,Moweaqua,IL,Surely
+1822,Ramsey,IL,Surely
+1823,Freeburg,IL,Surely
+1824,Albers,IL,Surely
+1825,Aviston,IL,Surely
+1826,Breese,IL,Surely
+1827,Clinton County,IL,
+1828,Posey,IL,Surely
+1829,Germantown,IL,Surely
+1831,Trenton,IL,Surely
+1832,New Baden,IL,Surely
+1833,Staunton,IL,Surely
+1834,Bartelso,IL,Surely
+1835,O'Fallon,IL,
+1836,Carlyle,IL,Probable
+1837,St. Rose,IL,Surely
+1838,Valier,IL,Probable
+1839,Albion,IL,Surely
+1840,Mascoutah,IL,Surely
+1842,Beckemeyer,IL,Surely
+1844,Elmwood,IL,Don't Know
+1846,Bartonville,IL,Probable
+1847,Coal City,IL,Probable
+1848,St. Anne,IL,Probable
+1850,Tuscola,IL,Possible
+1851,Ridgway,IL,Probable
+1852,Equality,IL,Probable
+1853,Golconda,IL,Probable
+1854,Omaha,IL,Possible
+1855,Highland,IL,Probable
+1856,Maryville,IL,Possible
+1857,Patoka,IL,Probable
+1858,Iuka,IL,Probable
+1859,Bluford,IL,Possible
+1860,Oakawville,IL,
+1861,Pinckneyville,IL,Surely
+1862,Fairfield,IL,Surely
+1863,Mt. Carmel,IL,Surely
+1864,Norris City,IL,Surely
+1865,Enfield,IL,Surely
+1866,Grayville,IL,Probable
+1867,Wayne City,IL,Surely
+1868,Palestine,IL,Possible
+1869,Flora,IL,Possible
+1870,Olney,IL,Surely
+1871,Robinson,IL,Surely
+1872,Oblong,IL,Surely
+1873,Bridgeport,IL,Possible
+1874,Carlinville,IL,Probable
+1875,Panama,IL,Possible
+1876,Greenfield,IL,Possible
+1877,New Minden,IL,Probable
+1878,Buckner,IL,Possible
+1879,West City,IL,Possible
+1880,Orient,IL,Possible
+1881,Teutopolis,IL,Probable
+1882,Toledo,IL,Probable
+1883,Jewett,IL,Probable
+1884,Altamont,IL,Possible
+1885,Brownstown,IL,Possible
+1886,Pocahontas,IL,Possible
+1887,Pierron,IL,Possible
+1888,St. Jacob,IL,Possible
+1889,Nokomis,IL,Possible
+1890,Crossville,IL,Probable
+1891,West Salem,IL,Possible
+1892,Chester,IL,Possible
+1893,Evansville,IL,Possible
+1894,Waterloo,IL,Possible
+1895,Danvers,IL,Possible
+1896,De Land,IL,Probable
+1897,Atwood,IL,Possible
+1898,Homer,IL,Possible
+1899,Rochester,IL,Possible
+1900,Cantrall,IL,Possible
+1901,Carmi,IL,Possible
+1902,Lawrenceville,IL,Unlikely
+1903,Grant Park,IL,Surely
+1904,Mount Prospect,IL,Probable
+1905,Glen Ellyn,IL,Possible
+1907,DuPage County,IL,Possible
+1908,Addison,IL,Possible
+1910,Bartlett,IL,Possible
+1911,Bensenville,IL,Possible
+1912,Bloomingdale,IL,Possible
+1913,Bolingbrook,IL,Possible
+1914,Burr Ridge,IL,Possible
+1916,Clarendon Hills,IL,Probable
+1917,Cloverdale,IL,Possible
+1918,Darien,IL,Probable
+1919,Downers Grove,IL,Possible
+1920,Elmhurst,IL,Possible
+1921,Eola,IL,Possible
+1922,Flowerfield,IL,Possible
+1923,Forest Park,IL,Probable
+1924,Fox Valley,IL,Possible
+1925,Franklin Park,IL,Possible
+1926,Glendale Heights,IL,Possible
+1927,Hinsdale,IL,
+1928,Itasca,IL,Possible
+1929,Keeneyville,IL,Possible
+1930,Lemont,IL,Probable
+1931,Lisle,IL,Possible
+1933,Medinah,IL,Possible
+1934,Oak Brook,IL,Possible
+1935,Oakbrook Terrace,IL,Possible
+1936,Roselle,IL,Possible
+1937,Villa Park,IL,Probable
+1938,Warrenville,IL,Probable
+1939,Wayne,IL,Possible
+1940,West Chicago,IL,Probable
+1941,Westmont,IL,Probable
+1942,Wheaton,IL,Possible
+1943,Willowbrook,IL,Possible
+1944,Winfield,IL,Possible
+1945,Wood Dale,IL,Probable
+1946,Woodridge,IL,Possible
+1947,Orland Park,IL,Possible
+1948,Park Ridge,IL,
+1949,Lombard,IL,Probable
+1950,Melrose Park,IL,
+1951,Meredosia,IL,Probable
+1954,Nocona,TX,
+1955,Seneca,KS,Probable
+1956,Eleanor,WV,Surely
+1957,Dyess,AR,Surely
+1959,Teste,TN,
+1961,Wyanet,IL,Probable
+1962,Cedaredge,CO,Possible
+1964,Longmont,CO,
+1966,minerva,ok,
+1967,Aubrey,Tx,Probable
+1969,Tioga,TX,Probable
+1970,Gore,OK,Possible
+1971,walters,ok,Possible
+1972,Tioga,OK,
+1973,Princeton,IL,Possible
+1974,Durant,OK,Possible
+1975,Skiatook,OK,Possible
+1976,blair,ok,Probable
+1977,Rantoul,IL,Probable
+1978,Purcell,OK,Possible
+1979,Bixby,OK,Possible
+1980,Lexington,OK,Surely
+1981,Madill,OK,Probable
+1982,Erick,OK,Probable
+1985,Marshall,AR,Probable
+1986,Mankato,MN,Possible
+1987,New Ulm,MN,Possible
+1990,West Portsmouth,OH,Possible
+1991,Fremont,MI,Probable
+1993,Biwabik,MN,Don't Know
+1994,Paynesville,MN,Possible
+1996,Bonanza,AR,Surely
+1997,Stafford,CT,Possible
+1998,Kalamazoo,MI,Unlikely
+1999,Brillion,WI,Possible
+2000,Waseca,MN,Possible
+2001,Granite Falls,MN,Probable
+2002,Manhattan,IL,Probable
+2003,Petersburg,KY,Surely
+2004,Throckmorton County,TX,Surely
+2006,West Point,AL,Probable
+2007,Coral Gables,FL,
+2008,Mountain View,AR,Probable
+2009,San Juan Bautista,CA,
+2010,Justice,IL,
+2011,Caro,MI,Probable
+2012,Delmar,NY,Surely
+2014,Mequon,WI,Surely
+2015,Harvard,IL,Possible
+2016,Mansfield,IL,Possible
+2017,Piatt County,IL,Probable
+2018,La Moille,IL,Possible
+2019,Williamsville,IL,Possible
+2020,Cherry,IL,Possible
+2021,White Heath,IL,Possible
+2022,Marseilles,IL,Probable
+2023,Jasper County,IL,Probable
+2024,New Lenox,IL,
+2025,Lexington,IL,Possible
+2026,Ivesdale,IL,
+2027,Pittsfield,IL,Unlikely
+2028,Monroe County,IL,Probable
+2031,Chesterfield,IN,Possible
+2034,Attica,IN,Surely
+2035,Stinesville,IN,Probable
+2036,Mitchell,IN,Possible
+2037,Bloomer,WI,Possible
+2038,Morocco,IN,Probable
+2039,Peru,IN,Unlikely
+2040,Perry County,IN,Don't Know
+2041,Laurel,IN,Possible
+2042,Fruita,CO,Surely
+2043,Cannelton,IN,Probable
+2044,Greendale,IN,Probable
+2046,Fairmount,IN,Possible
+2047,Janesville,WI,Surely
+2048,Roanoke,IL,Probable
+2049,Gulfport,Fl,Possible
+2050,Perryton,Te,
+2051,Perryton,TX,Probable
+2052,Solon,OH,Possible
+2054,Orange,TX,Possible
+2055,Anon,CA,
+2056,Hooker,OK,Probable
+2057,Euclid,OH,Always Biracial
+2058,Chesapeake,OH,Possible
+2059,Garrettsville,OH,Possible
+2060,Beverly,OH,Possible
+2061,Greenhills,OH,Probable
+2062,Pembina,ND,
+2063,Grove,OK,Possible
+2065,West Liberty,OH,Probable
+2066,Boerne,TX,Possible
+2067,Ochiltree County,TX,Possible
+2068,Altamont,KS,
+2069,Anthony,KS,Possible
+2070,Herington,KS,Possible
+2071,Neffs,OH,Probable
+2072,Derby,KS,Don't Know
+2073,De Soto,KS,Don't Know
+2074,Moundridge,KS,Don't Know
+2075,Towanda,KS,Don't Know
+2076,Ulysses,KS,Don't Know
+2077,Haskell County,KS,Don't Know
+2078,Mayfield,OH,Possible
+2079,Mayfield Heights,OH,Possible
+2080,Comanche County,KS,Don't Know
+2081,Cheyenne County,KS,Don't Know
+2082,Elk County,KS,Don't Know
+2083,Gove County,KS,Don't Know
+2084,Greeley County,KS,Don't Know
+2085,Kiowa County,KS,Don't Know
+2086,Lane County,KS,Don't Know
+2087,Lincoln County,KS,Don't Know
+2088,Morton County,KS,Don't Know
+2089,Ness County,KS,Don't Know
+2090,Wichita County,KS,Don't Know
+2091,Rawlins County,Ks,Don't Know
+2092,Sherman County,KS,Don't Know
+2093,Jewell county,KS,Don't Know
+2094,Mitchell County,KS,Don't Know
+2095,Republic County,KS,Don't Know
+2096,Decatur County,KS,Don't Know
+2097,McPherson County,KS,Don't Know
+2098,Woodson County,KS,Don't Know
+2099,Seward County,KS,Don't Know
+2100,Willowick,OH,Possible
+2101,Eastlake,OH,Possible
+2102,Canyon,TX,Possible
+2104,ONeill,NE,Possible
+2105,Broadview Heights,Oh,Possible
+2106,Bridgetown,Oh,Possible
+2107,Gering,NE,Possible
+2108,Holdredge,NE,Possible
+2109,Nebraska City,NE,Possible
+2110,Wymore,NE,Possible
+2111,Crete,NE,Possible
+2112,Galesburg,MI,Possible
+2113,Vicksburg,MI,Possible
+2114,Marshall,MI,Possible
+2115,Hudson,MI,Possible
+2116,Cheviot,OH,Possible
+2117,lexington,NE,Possible
+2118,Arthur County,NE,Possible
+2119,Banner County,NE,Possible
+2120,Chase County,NE,Possible
+2121,Cuming County,NE,Possible
+2122,Deuel County,NE,Possible
+2123,Brush,CO,Possible
+2124,Burlington,CO,Possible
+2125,Cherry Hill Village,CO,Possible
+2126,Craig,CO,Possible
+2127,Delta,CO,Possible
+2128,Evans,CO,Possible
+2129,Bad Axe,MI,Possible
+2130,Harbor Beach,MI,Probable
+2131,Brown City,MI,Possible
+2132,Marlette,MI,Probable
+2133,Dixon County,NE,Possible
+2134,Dundy County,NE,Possible
+2135,Franklin County,NE,Possible
+2136,Garden County,NE,Possible
+2137,Garfield County,NE,Possible
+2138,Gosper County,NE,Possible
+2139,Hayes County,NE,Possible
+2140,Hooker County,NE,Possible
+2141,Johnson County,NE,Possible
+2142,Dearborn Heights,MI,Possible
+2143,Fort Thomas,KY,Possible
+2144,Marshall County,KY,Probable
+2145,Redwood Falls,MN,Possible
+2146,Stillwater,MN,Probable
+2147,Caneyville,KY,Probable
+2148,Lumberton,TX,Possible
+2149,Kearney County,NE,Possible
+2150,Loup County,NE,Possible
+2151,McPherson County,NE,Possible
+2152,Nance County,NE,Possible
+2153,Colfax County,NE,Possible
+2155,Marysville,MI,Possible
+2156,Marine City,MI,Possible
+2157,Greeley County,NE,Possible
+2158,Keith County,NE,Possible
+2159,Platte County,NE,Possible
+2160,Seward County,NE,Possible
+2161,Logan County,NE,Possible
+2162,Saunders County,NE,Possible
+2163,Nuckolls County,NE,Possible
+2164,Dawson County,NE,Possible
+2165,Harlan County,NE,Possible
+2166,Nemaha County,NE,Possible
+2167,Sheridan County,NE,Don't Know
+2168,Merrick County,NE,Don't Know
+2169,Sarpy County,NE,Don't Know
+2170,York County,NE,Possible
+2171,Cherry County,NE,Don't Know
+2172,Lincoln County,NE,Possible
+2173,Madison County,NE,Possible
+2174,Red Willow County,NE,Possible
+2175,Dawes County,NE,Possible
+2176,Richardson County,NE,Possible
+2177,Otoe County,NE,Possible
+2178,Buffalo County,NE,Possible
+2179,Dodge County,NE,Possible
+2180,Gage County,NE,Possible
+2181,Fraser,MI,Possible
+2182,New Baltimore,MI,Possible
+2183,Richmond,MI,Possible
+2184,Rockford,MI,Possible
+2185,Rockwood,MI,Possible
+2186,Utica,MI,Possible
+2187,St. Clair,MI,Possible
+2188,Menominee,MI,Possible
+2189,Algonac ,MI,Possible
+2190,Adams County,NE,Possible
+2191,Scotts Bluff,NE,Possible
+2192,Hall County,NE,Possible
+2193,Box Butte,NE,Possible
+2194,Lancaster County,NE,Possible
+2195,Douglas County,NE,Possible
+2196,Hudson,OH,Possible
+2197,Sheffield Lake,OH,Possible
+2198,Rocky River,OH,Possible
+2199,Bedford,OH,Possible
+2200,Bay Village,OH,Possible
+2201,Brunswick,OH,Probable
+2202,Covedale CDP,OH,Possible
+2203,St. Bernard,OH,Possible
+2204,Canadian,TX,Probable
+2205,Grant County,NE,Possible
+2206,Perkins County,NE,Possible
+2207,Rock County,NE,Possible
+2208,Thomas County,NE,Possible
+2209,Valley County,NE,Possible
+2210,Frontier County,NE,Possible
+2211,Hitchcock County,NE,Possible
+2212,Kimball County,NE,Possible
+2213,Pierce County,NE,Possible
+2214,Blaine County,NE,Possible
+2215,Furnas County,NE,Possible
+2216,Brown County,NE,Possible
+2217,Pawnee County,NE,Possible
+2218,Phelps County,NE,Possible
+2219,Wayne County,NE,Possible
+2220,Boyd County,NE,Possible
+2221,Sherman County,NE,Possible
+2222,Howard County,NE,Possible
+2223,Boone County,NE,Possible
+2224,Sioux County,NE,Possible
+2225,Stanton County,NE,Possible
+2226,Webster County,NE,Possible
+2227,Thayer County,NE,Possible
+2228,Polk County,NE,
+2229,Clay County,NE,Possible
+2230,Fillmore County,NE,Possible
+2231,Keya Paha County,NE,Surely
+2232,Holt County,NE,Possible
+2233,Knox County,NE,Possible
+2234,Morrill County,NE,Possible
+2235,Hamilton County,NE,Possible
+2236,Wheeler County,NE,Possible
+2237,Saline County,NE,Possible
+2238,Jackson,NE,Possible
+2239,Harrison ,NE,Possible
+2240,Alamo,TX,Possible
+2242,Brownsville,TX,
+2243,Benavides,TX,Possible
+2245,Cotulla,TX,Possible
+2246,Donna,TX,Possible
+2247,Dalhart,TX,Possible
+2248,Dumas,TX,Possible
+2249,Edcouch,TX,Possible
+2250,Hico,TX,Possible
+2251,Hamilton,TX,Possible
+2252,Hereford,TX,Possible
+2253,Highlands,TX,Possible
+2254,Hillcrest,TX,Possible
+2255,Jacinto City,TX,Possible
+2256,Lake Jackson,TX,Possible
+2257,Lakeview,TX,Possible
+2258,Oak Knoll,TX,Possible
+2259,White Settlement,TX,Possible
+2260,Phillips,TX,Possible
+2261,Fremont,TX,Possible
+2262,Rio Grande City,TX,Possible
+2263,River Oaks,TX,Possible
+2264,San Diego,TX,Possible
+2265,San Juan,TX,Possible
+2266,Spearman,TX,Possible
+2267,Stinnett,TX,Possible
+2269,West Orange,TX,Possible
+2270,Pharr,TX,Possible
+2271,Climax,MI,Possible
+2272,Lexington,MI,Possible
+2273,Linden,MI,Possible
+2274,Mancelona,MI,Possible
+2275,Manistique,MI,Possible
+2276,Traverse City,MI,Possible
+2277,Trenton,MI,Possible
+2278,Wixom ,MI,Possible
+2279,Armstrong County,TX,Possible
+2280,Briscoe County,TX,Possible
+2281,Carson County,TX,Possible
+2282,Castro County,TX,Possible
+2283,Childress County,TX,Possible
+2284,Collingsworth County,TX,Possible
+2285,Deaf Smith,TX,Possible
+2286,Deaf Smith County,TX,Possible
+2287,Donley County,TX,Possible
+2288,Gray County,TX,Possible
+2289,Hall County,TX,Possible
+2290,Hansford County,TX,Possible
+2291,Hartley County,TX,Possible
+2292,Hemphill County,TX,Possible
+2293,Hutchinson County,TX,Possible
+2294,Lipscomb County,TX,Possible
+2295,Moore County,TX,Possible
+2296,Oldham County,TX,Possible
+2297,Parmer County,TX,Possible
+2298,Potter County,TX,Possible
+2299,Randall County,TX,Possible
+2300,Roberts County,TX,Possible
+2301,Sherman County,TX,Possible
+2302,Swisher County,TX,Possible
+2303,Pinckney,MI,Possible
+2304,Ishpeming,MI,Possible
+2305,Ontonagon,MI,Possible
+2306,Munising,MI,Possible
+2307,Marquette,MI,Possible
+2308,Bessemer,MI,Possible
+2309,Sebewaing,MI,Possible
+2310,Ferguson,MO,Unlikely
+2311,Winnie,TX,Possible
+2312,Port Neches,TX,Possible
+2313,Nederland,TX,Possible
+2314,Bevil Oaks,TX,Possible
+2315,Pinewood Estates,TX,Possible
+2316,Evadale,TX,Possible
+2317,Porter Heights,TX,Possible
+2320,Advance,IN,Possible
+2321,Albany,IN,Possible
+2322,Albion,IN,Probable
+2323,Argos,IN,Probable
+2324,Austin,IN,Probable
+2325,Avilla,IN,Probable
+2326,Bloomfield,IN,Probable
+2327,Boswell ,IN,Possible
+2328,Bourbon,IN,Probable
+2329,Bremen,IN,Probable
+2330,Brooklyn,IN,Possible
+2331,Burnettsville,IN,Possible
+2332,Butler City,IN,Probable
+2333,Camden,IN,Probable
+2334,Campbellsburg,IN,Probable
+2335,Carmel,IN,Possible
+2336,Cayuga,IN,Possible
+2337,Cicero,IN,Possible
+2338,Clay City,IN,Probable
+2339,Converse,IN,Probable
+2340,Covington,IN,Probable
+2341,Crothersville,IN,Probable
+2342,Dale,IN,Possible
+2343,Daleville,IN,Possible
+2344,Danville,IN,Probable
+2345,Delphi,IN,Probable
+2346,Dillsboro,IN,Possible
+2347,Dublin,IN,Probable
+2348,Dugger,IN,Probable
+2349,Dyer,IN,Possible
+2350,Eaton,IN,Possible
+2351,Ellettsville,IN,Possible
+2352,Elnora,IN,Probable
+2354,Fairview Park,IN,Possible
+2355,Farmersburg,IN,Probable
+2356,Farmland,IN,Probable
+2357,Ferdinand,IN,Probable
+2358,Flora,IN,Probable
+2359,Sheridan County,KS,Possible
+2360,Stanton County,KS,Possible
+2361,Rush County,KS,Possible
+2362,Clark County,KS,Possible
+2363,Thomas County,KS,Possible
+2364,Kearney County,KS,Possible
+2365,Gray County,KS,Possible
+2366,Stevens County,KS,Possible
+2367,Logan County,KS,Possible
+2368,Fort Branch,IN,Possible
+2369,Fortville,IN,Possible
+2370,Francesville,IN,Probable
+2371,Frankton,IN,Possible
+2372,Fremont,IN,Possible
+2375,Galena ,IN,Possible
+2376,Goodland,IN,Probable
+2377,Greentown,IN,Probable
+2378,Hartford City,IN,Probable
+2379,Haubstadt,IN,Probable
+2380,Hebron,IN,Probable
+2381,Highland,IN,Possible
+2382,Hope,IN,Probable
+2383,Huntingburg,IN,Probable
+2384,Jasonville,IN,Probable
+2385,Jonesboro,IN,Probable
+2386,Kendallville,IN,Possible
+2387,Kentland,IN,Probable
+2388,Kouts,IN,Probable
+2389,Ladoga,IN,Probable
+2390,LaGrange,IN,Probable
+2391,Lapel,IN,Probable
+2392,Leavenworth,IN,Surely
+2393,Ligonier,IN,Possible
+2394,Loogootee,IN,Probable
+2395,Lynn,IN,Probable
+2396,Barber County,KS,Possible
+2397,Cloud County,KS,Possible
+2398,Wallace County,KS,Possible
+2399,Trego County,KS,Possible
+2400,Ford County,KS,Possible
+2401,Hamilton County,KS,Possible
+2402,Rooks County,KS,Possible
+2403,Finney County,KS,Possible
+2404,Ellis County,KS,Possible
+2405,Ottawa County,KS,Possible
+2406,Edwards County,KS,Possible
+2407,Butler County,KS,Possible
+2408,Marengo,IN,Possible
+2409,Middlebury,IN,Probable
+2410,Middletown,IN,Probable
+2411,Milltown,IN,Probable
+2412,Milton,IN,Probable
+2413,Monon,IN,Probable
+2414,Monroeville,IN,Probable
+2415,Montezuma,IN,Probable
+2416,Montpelier,IN,Probable
+2417,Morristown,IN,Possible
+2418,Mulberry,IN,Probable
+2419,Munster,IN,Probable
+2420,Nappanee ,IN,Probable
+2421,New Carlisle,IN,Probable
+2422,New Chicago,IN,Probable
+2423,New Haven,IN,Possible
+2424,New Paris,IN,Probable
+2425,New Pekin,IN,Probable
+2426,Odon,IN,Probable
+2427,Orleans,IN,Probable
+2428,Osceola,IN,Probable
+2429,Osgood,IN,Probable
+2430,Ossian,IN,Probable
+2431,Owensville,IN,Probable
+2432,Oxford,IN,Probable
+2433,Parker City,IN,Probable
+2434,Petersburg,IN,Probable
+2435,Plymouth,IN,Probable
+2436,Porter,IN,Probable
+2437,Redkey,IN,Probable
+2438,Rensselaer,IN,Probable
+2439,Ridgeville,IN,Probable
+2440,Roanoke,IN,Probable
+2441,Rochester,IN,Probable
+2442,Rome City,IN,Probable
+2443,Rossville,IN,Probable
+2444,Royal Center,IN,Probable
+2445,Russiaville,IN,Probable
+2446,Schererville,IN,Probable
+2447,Seelyville,IN,Probable
+2448,Shelburn,IN,Probable
+2449,Shirley,IN,Probable
+2450,Shoals,IN,Probable
+2451,St. John,IN,Probable
+2452,Syracuse,IN,Probable
+2453,Thorntown,IN,Probable
+2454,Trail Creek,IN,Probable
+2455,Tri-Lakes,IN,Probable
+2456,Van Buren,IN,Probable
+2457,Veedersburg,IN,Probable
+2458,Versailles,IN,Probable
+2459,Walkerton,IN,Probable
+2460,Walton,IN,Probable
+2461,Waterloo,IN,Probable
+2462,West Lafayette,IN,Probable
+2463,Whiteland,IN,Probable
+2464,Williamsport,IN,Probable
+2465,Winamac,IN,Probable
+2466,Windfall City,IN,Probable
+2467,Winslow,IN,Probable
+2468,Wolcott,IN,Probable
+2469,Woodburn,IN,Probable
+2470,Worthington,IN,Probable
+2471,Yorktown,IN,Probable
+2472,Osborne County,KS,Possible
+2473,Rice County,KS,Possible
+2474,Ellsworth County,KS,Possible
+2475,Pawnee County,KS,Possible
+2476,Hodgeman County,KS,Possible
+2477,Dickinson County,KS,Possible
+2478,Phillips County,KS,Possible
+2479,Greenwood County,KS,Possible
+2480,Sumner County,KS,Possible
+2481,Chase County,KS,Possible
+2482,Pratt County,KS,Possible
+2483,Coffey County,KS,Possible
+2484,Arkoma,OK,Possible
+2485,Everman,TX,Possible
+2486,Sidell,IL,Possible
+2487,Stroud,OK,Surely
+2488,Taft,OK,Possible
+2493,Smith,IL,
+2494,Smith,IL,
+2498,St. Marys,WV,Possible
+2499,Belington,WV,Possible
+2500,Lincoln County,WV,Possible
+2502,Shannondale,WV,Possible
+2504,Folcroft,PA,Probable
+2505,Cohoes,NY,Unlikely
+2506,Green Island,NY,Possible
+2507,Pleasantville,NY,Probable
+2508,Irondequoit ,NY,Possible
+2509,Penfield,NY,Possible
+2510,Johnsburg,NY,Possible
+2511,Shenandoah,PA,Probable
+2512,Royersford,PA,Possible
+2513,Bradford,PA,Possible
+2514,Levittown,PA,Possible
+2515,Locust Gap,PA,Possible
+2516,Boyertown,PA,Possible
+2517,Manheim,PA,Possible
+2518,Susquehanna,PA,Possible
+2519,Johnstown,PA,Possible
+2520,Mechanicsburg,PA,Possible
+2521,Bellwood,PA,Possible
+2522,Stoneboro,PA,Possible
+2523,Coatsville,PA,Possible
+2524,Elizabethtown,PA,Surely
+2525,Everett,PA,Possible
+2526,Milton,WV,Possible
+2527,Maple Bluff,WI,Possible
+2528,River Hills,WI,Possible
+2529,Baraboo,WI,Possible
+2530,Chetek,WI,Possible
+2531,Roxana,IL,Possible
+2532,Plainfield,CT,Possible
+2533,East Haven,CT,Possible
+2534,Quincy,MA,Possible
+2535,Weston,CT,Don't Know
+2536,Burlington,CT,Possible
+2538,Allen Park,MI,Don't Know
+2539,Taylor,MI,Don't Know
+2540,La Crosse,WI,Possible
+2541,Greenfield,WI,Possible
+2542,Sparta,WI,Possible
+2543,Brookfield,WI,Possible
+2544,Brown Deer,WI,Possible
+2545,New Berlin,WI,Possible
+2546,St. Francis,WI,Possible
+2547,Glendale,WI,Possible
+2548,Grand Rapids,WI,Possible
+2549,Monona,WI,Possible
+2550,Menomonee Falls,WI,Possible
+2551,Onalaska,WI,Possible
+2552,Portage,WI,Possible
+2554,Bayside,WI,Possible
+2555,Abbotsford,WI,Possible
+2556,Adams,WI,Possible
+2557,Alma,WI,Possible
+2558,Amery,WI,Possible
+2559,Arcadia,WI,Possible
+2560,Augusta,WI,Possible
+2561,Baldwin,WI,Possible
+2562,Barton,WI,Possible
+2563,Butler,WI,Possible
+2564,Campbellsport,WI,Possible
+2565,Cassville,WI,Possible
+2566,Cedar Grove,WI,Possible
+2568,Colby,WI,Possible
+2569,Cornell,WI,Possible
+2570,Clinton,WI,Possible
+2571,Cottage Grove ,WI,Possible
+2572,Cottage Grove (town),WI,Possible
+2573,Crandon,WI,Possible
+2574,Cross Plains ,WI,Possible
+2575,Cuba City,WI,Possible
+2576,Cumberland,WI,Possible
+2577,Darlington,WI,Possible
+2578,De Forest,WI,Possible
+2580,Delavan Lake,WI,Possible
+2581,Denmark,WI,Possible
+2582,Durand,WI,Possible
+2583,Eagle River,WI,Possible
+2584,East Troy,WI,Possible
+2585,Ellsworth,WI,Possible
+2586,Elroy,WI,Possible
+2587,Fennimore,WI,Possible
+2588,Fontana on Geneva Lake,WI,Possible
+2589,Galesville,WI,Possible
+2590,Genoa City,WI,Possible
+2591,Gillett,WI,Possible
+2592,Greenwood,WI,Possible
+2593,Hayward,WI,Possible
+2594,Hillsboro,WI,Possible
+2595,Hortonville,WI,Possible
+2596,Juneau,WI,Possible
+2597,Kewaskum,WI,Possible
+2598,Kohler,WI,Possible
+2599,Lannon,WI,Possible
+2600,Lodi,WI,Possible
+2601,Loyal,WI,Possible
+2602,Manawa,WI,Possible
+2603,Marathon,WI,Possible
+2604,Marion,WI,Possible
+2605,Markesan,WI,Possible
+2606,Mazomanie,WI,Possible
+2607,Mellen,WI,Possible
+2608,Montello,WI,Possible
+2609,Montreal,WI,Possible
+2610,New Glarus,WI,Possible
+2611,New Lisbon,WI,Possible
+2612,Niagara,WI,Possible
+2613,North Hudson,WI,Possible
+2614,Oostburg,WI,Possible
+2615,Osseo,WI,Possible
+2616,Owen,WI,Possible
+2617,Palmyra (village),WI,Possible
+2618,Palmyra (town),WI,Possible
+2619,Pardeeville,WI,Possible
+2620,Phillips,WI,Possible
+2621,Port Edwards,WI,Possible
+2622,Poynette,WI,Possible
+2623,Prairie du Sac,WI,Possible
+2624,Princeton ,WI,Possible
+2625,Pulaski,WI,Possible
+2626,Randolph,WI,Possible
+2627,St. Croix Falls,WI,Possible
+2628,Saukville,WI,Possible
+2629,Sharon,WI,Possible
+2630,Shell Lake,WI,Possible
+2631,Shullsburg,WI,Possible
+2632,Silver Lake,WI,Possible
+2633,Spring Green,WI,Possible
+2634,Stratford,WI,Possible
+2635,Thorp,WI,Possible
+2636,Twin Lakes,WI,Possible
+2637,Verona,WI,Possible
+2638,Walworth,WI,Possible
+2639,Waterford,WI,Possible
+2640,Waterloo,WI,Possible
+2641,Waunakee,WI,Possible
+2642,Wautoma,WI,Possible
+2643,Westby,WI,Unlikely
+2644,West Salem,WI,Possible
+2645,Weyauwega,WI,Possible
+2646,Whitehall,WI,Possible
+2647,Whiting,WI,Possible
+2648,Williams Bay,WI,Possible
+2649,Wind Lake,WI,Possible
+2650,Winneconne,WI,Possible
+2651,Wisconsin Dells,WI,Possible
+2652,Utica,OH,Possible
+2653,Portage,MI,Possible
+2654,Hartford,MI,Possible
+2655,White Pigeon,MI,Possible
+2656,Big Star Lake,MI,Possible
+2657,Sterling Heights,MI,Possible
+2658,Lathrup Village,MI,Possible
+2659,Troy,MI,Possible
+2660,Coopersville,MI,Possible
+2662,new,AL,
+2663,Adams,PA,Possible
+2664,Albany,PA,Possible
+2665,Allegheny ,PA,Possible
+2666,Alsace ,PA,Possible
+2667,Amity,PA,Possible
+2668,Archbald ,PA,Possible
+2669,Ashland,PA,Possible
+2670,Arthurdale,WV,
+2677,Flushing,MI,
+2678,Chazy,NY,Don't Know
+2679,Defiance,OH,
+2680,Marion,OH,
+2681,Beavercreek,OH,
+2682,Cridersville,OH,
+2683,Enon,OH,
+2684,Lodi,OH,
+2685,Willoughby,OH,
+2687,Linglestown,PA,
+2688,York County,PA,
+2689,Hazleton,PA,
+2691,Voorheesville,NY,
+2692,Glen Head,NY,
+2693,Pelham Manor,NY,
+2694,Nunda,NY,
+2695,Westchester County,NY,
+2696,Miller Place,NY,
+2697,Yaphank,NY,
+2698,Hamburg,NY,
+2699,Marblehead,MA,
+2700,Groton,MA,
+2701,Alba,TX,Surely
+2702,Tecumseh,OK,
+2703,Moore,OK,
+2704,Noble,OK,
+2705,AAA,AL,
+2706,Garwood,NJ,Probable
+2707,Baker,NJ,
