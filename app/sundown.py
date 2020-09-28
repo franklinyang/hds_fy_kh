@@ -23,6 +23,10 @@ def county2fips_fct(x):
 data_dir = "../data"
 data_filepath = os.path.join(os.path.dirname(os.path.realpath(__file__)), data_dir)
 
+counties_with_latlong = pd.read_csv(
+    os.path.join(data_dir, "counties.txt"), dtype={"GEOID": str}, sep="\t"
+)
+
 # get sundown town data
 df = pd.read_csv(os.path.join(data_filepath, "sundown_with_counties.csv"), encoding="latin-1")
 df["County_no_states"] = df.county.str.split(",").apply(lambda x: x[0])
@@ -55,7 +59,6 @@ df = pd.read_csv(
     dtype={"fips": str},
 )
 
-
 fig = px.choropleth_mapbox(
     county_sundown_counts,
     geojson=counties,
@@ -86,7 +89,12 @@ app.layout = html.Div(
             [
                 dcc.Dropdown(
                     id="sundown-county",
-                    options=[{"label": i, "value": i} for i in county_sundown_counts.County.values],
+                    options=[
+                        {"label": c, "value": fips}
+                        for c, fips in zip(
+                            county_sundown_counts.County.values, county_sundown_counts.fips.values
+                        )
+                    ],
                     value="Counties",
                 )
             ]
@@ -101,10 +109,14 @@ app.layout = html.Div(
     [dash.dependencies.Input("sundown-county", "value")],
 )
 def update_graph(sundown_county):
-    print(sundown_county)
-    fig.update_layout(mapbox_zoom=4, mapbox_center={"lat": 37.0902, "lon": -95.7129})
-    # TODO (Kexin): implement this method to update the figure depending on the county selected
-    # ... and/or extend this method to let someone look up sundown towns by state
+    print("sundown_county:", sundown_county)
+    if sundown_county == "Counties" or not sundown_county:
+        return fig
+    # TODO: implement this method to look up by state
+    matching_county = counties_with_latlong[counties_with_latlong["GEOID"] == sundown_county]
+    latlon = matching_county[matching_county.columns[-2:]].values.tolist()[0]
+    print(latlon)
+    fig.update_layout(mapbox_zoom=9, mapbox_center={"lat": latlon[0], "lon": latlon[1]})
 
     return fig
 
