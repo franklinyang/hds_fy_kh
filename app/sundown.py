@@ -74,6 +74,40 @@ fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 
 
 app = dash.Dash()
-app.layout = html.Div([dcc.Graph(figure=fig)])
+app.layout = html.Div(
+    children=[
+        html.Div(
+            [
+                dcc.Markdown(""" # List of sundown towns across the country """),
+                html.Pre(id="click-data"),
+            ]
+        ),
+        html.Div(
+            [
+                dcc.Dropdown(
+                    id="sundown-county",
+                    options=[{"label": i, "value": i} for i in county_sundown_counts.County.values],
+                    value="Counties",
+                )
+            ]
+        ),
+        dcc.Graph(id="sundown-map", figure=fig),
+    ]
+)
 
-app.run_server(debug=True, use_reloader=False)  # Turn off reloader if inside Jupyter
+
+@app.callback(
+    dash.dependencies.Output("sundown-map", "figure"),
+    [dash.dependencies.Input("sundown-county", "value")],
+)
+def update_graph(sundown_county):
+    print(sundown_county)
+    fig.update_layout(mapbox_zoom=4, mapbox_center={"lat": 37.0902, "lon": -95.7129})
+    # TODO (Kexin): implement this method to update the figure depending on the county selected
+    # ... and/or extend this method to let someone look up sundown towns by state
+
+    return fig
+
+
+if __name__ == "__main__":
+    app.run_server(debug=True, use_reloader=True)  # Turn off reloader if inside Jupyter
