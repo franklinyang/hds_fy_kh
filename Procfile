@@ -1,1 +1,1 @@
-web: gunicorn app.sundown:server
+web: gunicorn sundown_app.app:server

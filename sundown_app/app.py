@@ -5,11 +5,12 @@ import os
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-
 import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go  # or plotly.express as px
+
+from .about_us import about_us_html
 
 
 def county2fips_fct(x):
@@ -79,6 +80,8 @@ fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 app = dash.Dash()
 app.layout = html.Div(
     children=[
+        dcc.Location(id="url", refresh=False),
+        html.Div(id="page-content"),
         html.Div(
             [
                 dcc.Markdown(""" # List of sundown towns across the country """),
@@ -110,16 +113,24 @@ server = app.server
     [dash.dependencies.Input("sundown-county", "value")],
 )
 def update_graph(sundown_county):
-    print("sundown_county:", sundown_county)
     if sundown_county == "Counties" or not sundown_county:
         return fig
     # TODO: implement this method to look up by state
     matching_county = counties_with_latlong[counties_with_latlong["GEOID"] == sundown_county]
     latlon = matching_county[matching_county.columns[-2:]].values.tolist()[0]
-    print(latlon)
     fig.update_layout(mapbox_zoom=9, mapbox_center={"lat": latlon[0], "lon": latlon[1]})
 
     return fig
+
+
+@app.callback(
+    dash.dependencies.Output("page-content", "children"),
+    [dash.dependencies.Input("url", "pathname")],
+)
+def display_page(pathname):
+    if pathname == "/about-us":
+        print("about-us layout")
+        return about_us_html
 
 
 if __name__ == "__main__":
