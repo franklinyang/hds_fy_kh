@@ -24,7 +24,7 @@ data_dir = "../data"
 data_filepath = os.path.join(os.path.dirname(os.path.realpath(__file__)), data_dir)
 
 counties_with_latlong = pd.read_csv(
-    os.path.join(data_dir, "counties.txt"), dtype={"GEOID": str}, sep="\t"
+    os.path.join(data_filepath, "counties.txt"), dtype={"GEOID": str}, sep="\t"
 )
 
 # get sundown town data
