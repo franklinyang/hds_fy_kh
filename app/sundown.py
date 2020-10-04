@@ -102,6 +102,7 @@ app.layout = html.Div(
         dcc.Graph(id="sundown-map", figure=fig),
     ]
 )
+server = app.server
 
 
 @app.callback(
