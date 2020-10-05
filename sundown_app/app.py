@@ -3,6 +3,7 @@ import json
 import os
 
 import dash
+import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
 import numpy as np
@@ -12,6 +13,8 @@ import plotly.graph_objects as go  # or plotly.express as px
 
 from .about_us import about_us_html
 
+# from .sundown_map import sundown_map_html
+
 
 def county2fips_fct(x):
     if x in county2fips:
@@ -20,7 +23,7 @@ def county2fips_fct(x):
         return np.nan
 
 
-# define data dir
+# # define data dir
 data_dir = "../data"
 data_filepath = os.path.join(os.path.dirname(os.path.realpath(__file__)), data_dir)
 
@@ -76,36 +79,71 @@ fig = px.choropleth_mapbox(
 fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 # fig.show()
 
+sundown_map_html = html.Div(
+    children=[
+        # html.Div([dcc.Markdown(""" # List of sundown towns across the country """)]),
+        dbc.Row(
+            [
+                dbc.Col(
+                    html.Div(
+                        dcc.Dropdown(
+                            id="sundown-county",
+                            options=[
+                                {"label": c, "value": fips}
+                                for c, fips in zip(
+                                    county_sundown_counts.County.values,
+                                    county_sundown_counts.fips.values,
+                                )
+                            ],
+                            value="Counties",
+                        )
+                    ),
+                    width={"size": 3, "order": 1},
+                ),
+                dbc.Col(dcc.Graph(id="sundown-map", figure=fig), width={"size": 9, "order": 2}),
+            ]
+        )
+    ]
+)
 
-app = dash.Dash()
+external_stylesheets = [dbc.themes.BOOTSTRAP, "https://codepen.io/chriddyp/pen/bWLwgP.css"]
+
+
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 app.layout = html.Div(
     children=[
         dcc.Location(id="url", refresh=False),
-        html.Div(id="page-content"),
-        html.Div(
+        dbc.Row(
             [
-                dcc.Markdown(""" # List of sundown towns across the country """),
-                html.Pre(id="click-data"),
-            ]
-        ),
-        html.Div(
-            [
-                dcc.Dropdown(
-                    id="sundown-county",
-                    options=[
-                        {"label": c, "value": fips}
-                        for c, fips in zip(
-                            county_sundown_counts.County.values, county_sundown_counts.fips.values
-                        )
-                    ],
-                    value="Counties",
+                dbc.Col(
+                    html.H2("Sundown Towns across the United States"),
+                    width={"size": 6, "offset": 3},
                 )
             ]
         ),
-        dcc.Graph(id="sundown-map", figure=fig),
+        dcc.Tabs(
+            id="tabs-example",
+            value="sundown_map",
+            children=[
+                dcc.Tab(label="Map", value="sundown_map"),
+                dcc.Tab(label="About", value="about"),
+            ],
+        ),
+        html.Div(id="tabs-example-content"),
     ]
 )
-server = app.server
+
+
+@app.callback(
+    dash.dependencies.Output("tabs-example-content", "children"),
+    [dash.dependencies.Input("tabs-example", "value")],
+)
+def render_content(tab):
+    if tab == "sundown_map":
+        # return (html.Div(id="page-content"),)
+        return sundown_map_html
+    elif tab == "about":
+        return about_us_html
 
 
 @app.callback(
@@ -123,14 +161,18 @@ def update_graph(sundown_county):
     return fig
 
 
+server = app.server
+
+
 @app.callback(
     dash.dependencies.Output("page-content", "children"),
     [dash.dependencies.Input("url", "pathname")],
 )
 def display_page(pathname):
     if pathname == "/about-us":
-        print("about-us layout")
         return about_us_html
+    else:
+        return sundown_map_html
 
 
 if __name__ == "__main__":
