@@ -30,6 +30,8 @@ data_filepath = os.path.join(os.path.dirname(os.path.realpath(__file__)), data_d
 counties_with_latlong = pd.read_csv(
     os.path.join(data_filepath, "counties.txt"), dtype={"GEOID": str}, sep="\t"
 )
+# strip column headers
+counties_with_latlong.columns = map(lambda s: s.strip(), counties_with_latlong.columns)
 
 # get sundown town data
 df = pd.read_csv(os.path.join(data_filepath, "sundown_with_counties.csv"), encoding="latin-1")
@@ -99,18 +101,32 @@ sundown_map_html = html.Div(
             [
                 dbc.Col(
                     html.Div(
-                        dcc.Dropdown(
-                            id="sundown-county",
-                            options=[
-                                {"label": c, "value": fips}
-                                for c, fips in zip(
-                                    county_sundown_counts.County.values,
-                                    county_sundown_counts.fips.values,
-                                )
-                            ],
-                            value="Counties",
-                            placeholder="Select a county",
-                        )
+                        [
+                            html.Strong("Select a county"),
+                            dcc.Dropdown(
+                                id="sundown-county",
+                                options=[
+                                    {"label": c, "value": fips}
+                                    for c, fips in zip(
+                                        county_sundown_counts.County.values,
+                                        county_sundown_counts.fips.values,
+                                    )
+                                ],
+                                value="Counties",
+                                placeholder="Select a county",
+                            ),
+                            html.Div(style={"margin-bottom": "10px"}),
+                            html.Strong("Select a state"),
+                            dcc.Dropdown(
+                                id="sundown-state",
+                                options=[
+                                    {"label": c, "value": c}
+                                    for c in counties_with_latlong.USPS.unique()
+                                ],
+                                value="States",
+                                placeholder="Select a state",
+                            ),
+                        ]
                     ),
                     width={"size": 3, "order": 1},
                 ),
@@ -179,17 +195,33 @@ def render_content(tab):
 
 @app.callback(
     dash.dependencies.Output("sundown-map", "figure"),
-    [dash.dependencies.Input("sundown-county", "value")],
+    [
+        dash.dependencies.Input("sundown-county", "value"),
+        dash.dependencies.Input("sundown-state", "value"),
+    ],
 )
-def update_graph(sundown_county):
-    if sundown_county == "Counties" or not sundown_county:
+def update_graph_by_county(sundown_county, sundown_state):
+    if (sundown_county == "Counties" and sundown_state == "State") or not sundown_county:
+        # print("1:", "sundown_county: ", sundown_county, "sundown_state: ", sundown_state)
         return fig
-    # TODO: implement this method to look up by state
-    matching_county = counties_with_latlong[counties_with_latlong["GEOID"] == sundown_county]
-    latlon = matching_county[matching_county.columns[-2:]].values.tolist()[0]
-    fig.update_layout(mapbox_zoom=9, mapbox_center={"lat": latlon[0], "lon": latlon[1]})
 
-    return fig
+    if sundown_county and sundown_county != "Counties":
+        # print("2:", "sundown_county: ", sundown_county, "sundown_state: ", sundown_state)
+        matching_county = counties_with_latlong[counties_with_latlong["GEOID"] == sundown_county]
+        latlon = matching_county[matching_county.columns[-2:]].values.tolist()[0]
+        fig.update_layout(mapbox_zoom=9, mapbox_center={"lat": latlon[0], "lon": latlon[1]})
+        return fig
+
+    elif sundown_state and sundown_state != "States":
+        # print("3:", "sundown_county: ", sundown_county, "sundown_state: ", sundown_state)
+        matching_state = counties_with_latlong[counties_with_latlong["USPS"] == sundown_state]
+        latlon = [np.mean(matching_state.INTPTLAT), np.mean(matching_state.INTPTLONG)]
+        fig.update_layout(mapbox_zoom=5, mapbox_center={"lat": latlon[0], "lon": latlon[1]})
+        return fig
+
+    # not needed
+    else:
+        return fig
 
 
 server = app.server
