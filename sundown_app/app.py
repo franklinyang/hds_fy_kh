@@ -63,6 +63,20 @@ df = pd.read_csv(
     dtype={"fips": str},
 )
 
+tab_style = {
+    "borderBottom": "1px solid #d6d6d6",
+    "padding": "6px",
+    "margin-bottom": "10px",
+    "fontWeight": "bold",
+}
+
+tab_selected_style = {
+    "borderTop": "1px solid #d6d6d6",
+    "borderBottom": "1px solid #d6d6d6",
+    "padding": "6px",
+    "margin-bottom": "10px",
+}
+
 fig = px.choropleth_mapbox(
     county_sundown_counts,
     geojson=counties,
@@ -81,7 +95,6 @@ fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 
 sundown_map_html = html.Div(
     children=[
-        # html.Div([dcc.Markdown(""" # List of sundown towns across the country """)]),
         dbc.Row(
             [
                 dbc.Col(
@@ -96,6 +109,7 @@ sundown_map_html = html.Div(
                                 )
                             ],
                             value="Counties",
+                            placeholder="Select a county",
                         )
                     ),
                     width={"size": 3, "order": 1},
@@ -121,15 +135,32 @@ app.layout = html.Div(
                 )
             ]
         ),
-        dcc.Tabs(
-            id="tabs-example",
-            value="sundown_map",
-            children=[
-                dcc.Tab(label="Map", value="sundown_map"),
-                dcc.Tab(label="About", value="about"),
-            ],
+        dbc.Row(
+            [
+                dbc.Col(
+                    dcc.Tabs(
+                        id="tabs-example",
+                        value="sundown_map",
+                        children=[
+                            dcc.Tab(
+                                label="Map",
+                                value="sundown_map",
+                                style=tab_style,
+                                selected_style=tab_selected_style,
+                            ),
+                            dcc.Tab(
+                                label="About",
+                                value="about",
+                                style=tab_style,
+                                selected_style=tab_selected_style,
+                            ),
+                        ],
+                    ),
+                    width={"size": 6, "offset": 1},
+                )
+            ]
         ),
-        html.Div(id="tabs-example-content"),
+        dbc.Row([dbc.Col(html.Div(id="tabs-example-content"), width={"size": 10, "offset": 1})]),
     ]
 )
 
