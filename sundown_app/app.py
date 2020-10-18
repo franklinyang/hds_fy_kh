@@ -47,12 +47,22 @@ df["county_long_names"] = county_long_names
 
 # get fips data
 fips_codes = pd.read_csv(os.path.join(data_filepath, "county_fips_master.csv"), encoding="latin-1")
-county2fips = dict(fips_codes[["county_name", "fips"]].values)
+county2fips = dict(fips_codes[["long_name", "fips"]].values)
+# lower everything to ensure a match
+county2fips = {k.lower(): v for k, v in county2fips.items()}
 
-county_sundown_counts = pd.DataFrame(df.groupby(by="County_no_states").size())
+county_sundown_counts = pd.DataFrame(df.groupby(by="county").size())
+county_sundown_counts = county_sundown_counts.reset_index()
+county_sundown_counts.county = county_sundown_counts.county.apply(lambda x: x.replace(",", ""))
 county_sundown_counts = county_sundown_counts.reset_index()
 county_sundown_counts = county_sundown_counts.rename(columns={"County_no_states": "County", 0: "#"})
-county_sundown_counts["fips"] = county_sundown_counts.County.apply(lambda x: county2fips_fct(x))
+county_sundown_counts["fips"] = county_sundown_counts.county.apply(
+    lambda x: county2fips_fct(x.lower())
+)
+# prepend 0 to handle any fips that had their leading 0 cut off
+county_sundown_counts["fips"] = county_sundown_counts["fips"].apply(
+    lambda x: str(x) if len(str(x)) == 5 else "0" + str(x)
+)
 county_sundown_counts = county_sundown_counts[county_sundown_counts.fips.notnull()]
 
 with urlopen(
@@ -108,7 +118,7 @@ sundown_map_html = html.Div(
                                 options=[
                                     {"label": c, "value": fips}
                                     for c, fips in zip(
-                                        county_sundown_counts.County.values,
+                                        county_sundown_counts.county.values,
                                         county_sundown_counts.fips.values,
                                     )
                                 ],
