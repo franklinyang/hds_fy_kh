@@ -65,6 +65,19 @@ county_sundown_counts["fips"] = county_sundown_counts["fips"].apply(
 )
 county_sundown_counts = county_sundown_counts[county_sundown_counts.fips.notnull()]
 
+##### Fetch towns #######
+county_sundown_counts = county_sundown_counts.sort_values(by=["county"])
+county_sundown_towns = pd.DataFrame(
+    df.groupby(by="county")["city"].transform(lambda x: ", ".join(x))
+)
+county_sundown_towns["county"] = df.county
+county_sundown_towns = county_sundown_towns.drop_duplicates()
+county_sundown_towns = county_sundown_towns.sort_values(by=["county"])
+
+county_sundown_towns = county_sundown_towns.reset_index()
+county_sundown_counts["towns"] = county_sundown_towns["city"]
+########################
+
 with urlopen(
     "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json"
 ) as response:
@@ -100,7 +113,7 @@ fig = px.choropleth_mapbox(
     zoom=3,
     center={"lat": 37.0902, "lon": -95.7129},
     opacity=0.5,
-    labels={"#": "# of Sundown Towns"},
+    labels={"towns": "Sundown Towns"},
 )
 fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 # fig.show()
